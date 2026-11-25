@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "relaxed-lean-back-sit-1",
+  "pose": "relaxed-lean-back-sit",
+  "light": "loop",
+  "scene": "forest",
+  "light_name": {
+   "en": "Loop light",
+   "zh": "环形光"
+  },
+  "scene_name": {
+   "en": "a green forest clearing",
+   "zh": "森林空地"
+  },
+  "outfit": "a cream linen shirt and wide high-waisted linen trousers",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/relaxed-lean-back-sit-front.webp",
+  "image": "images/cases/relaxed-lean-back-sit-1.webp",
+  "thumb": "thumbs/cases/relaxed-lean-back-sit-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a cream linen shirt and wide high-waisted linen trousers. Scene: a green forest clearing. Lighting: Loop light — key light slightly above and 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "relaxed-lean-back-sit-2",
+  "pose": "relaxed-lean-back-sit",
+  "light": "golden-hour",
+  "scene": "library",
+  "light_name": {
+   "en": "Golden hour",
+   "zh": "黄金时刻"
+  },
+  "scene_name": {
+   "en": "an old library with tall wooden bookshelves",
+   "zh": "老图书馆"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/relaxed-lean-back-sit-front.webp",
+  "image": "images/cases/relaxed-lean-back-sit-2.webp",
+  "thumb": "thumbs/cases/relaxed-lean-back-sit-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: an old library with tall wooden bookshelves. Lighting: Golden hour — low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "side-lean-on-one-hand-1",
+  "pose": "side-lean-on-one-hand",
+  "light": "neon",
+  "scene": "gallery",
+  "light_name": {
+   "en": "Neon night",
+   "zh": "霓虹夜景"
+  },
+  "scene_name": {
+   "en": "a white art gallery with large paintings",
+   "zh": "美术馆"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/side-lean-on-one-hand-front.webp",
+  "image": "images/cases/side-lean-on-one-hand-1.webp",
+  "thumb": "thumbs/cases/side-lean-on-one-hand-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: a white art gallery with large paintings. Lighting: Neon night — magenta and cyan neon signs lighting her from both sides at night, wet reflective street, cinematic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "side-lean-on-one-hand-2",
+  "pose": "side-lean-on-one-hand",
+  "light": "blinds",
+  "scene": "staircase",
+  "light_name": {
+   "en": "Venetian blind shadows",
+   "zh": "百叶窗光影"
+  },
+  "scene_name": {
+   "en": "a sweeping marble staircase",
+   "zh": "大理石楼梯"
+  },
+  "outfit": "a camel trench coat over a white knit dress",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/side-lean-on-one-hand-front.webp",
+  "image": "images/cases/side-lean-on-one-hand-2.webp",
+  "thumb": "thumbs/cases/side-lean-on-one-hand-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a camel trench coat over a white knit dress. Scene: a sweeping marble staircase. Lighting: Venetian blind shadows — hard sunlight through venetian blinds casting striped shadows across her and the wall. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "knee-up-hand-to-hair-1",
+  "pose": "knee-up-hand-to-hair",
+  "light": "butterfly",
+  "scene": "plaster-studio",
+  "light_name": {
+   "en": "Butterfly light",
+   "zh": "蝴蝶光"
+  },
+  "scene_name": {
+   "en": "warm neutral plaster studio backdrop",
+   "zh": "暖色素墙影棚"
+  },
+  "outfit": "a black suit with a white shirt, no tie",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/knee-up-hand-to-hair-front.webp",
+  "image": "images/cases/knee-up-hand-to-hair-1.webp",
+  "thumb": "thumbs/cases/knee-up-hand-to-hair-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black suit with a white shirt, no tie. Scene: warm neutral plaster studio backdrop. Lighting: Butterfly light — key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, even glamorous light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "knee-up-hand-to-hair-2",
+  "pose": "knee-up-hand-to-hair",
+  "light": "rim",
+  "scene": "forest",
+  "light_name": {
+   "en": "Rim backlight",
+   "zh": "轮廓逆光"
+  },
+  "scene_name": {
+   "en": "a green forest clearing",
+   "zh": "森林空地"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/knee-up-hand-to-hair-front.webp",
+  "image": "images/cases/knee-up-hand-to-hair-2.webp",
+  "thumb": "thumbs/cases/knee-up-hand-to-hair-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: a green forest clearing. Lighting: Rim backlight — strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "legs-swept-to-one-side-1",
+  "pose": "legs-swept-to-one-side",
+  "light": "overcast",
+  "scene": "rooftop",
+  "light_name": {
+   "en": "Overcast soft light",
+   "zh": "阴天散射光"
+  },
+  "scene_name": {
+   "en": "a city rooftop with a skyline view",
+   "zh": "城市天台"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/legs-swept-to-one-side-front.webp",
+  "image": "images/cases/legs-swept-to-one-side-1.webp",
+  "thumb": "thumbs/cases/legs-swept-to-one-side-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: a city rooftop with a skyline view. Lighting: Overcast soft light — soft shadowless light from a cloudy sky, natural muted colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "legs-swept-to-one-side-2",
+  "pose": "legs-swept-to-one-side",
+  "light": "candle",
+  "scene": "gallery",
+  "light_name": {
+   "en": "Candlelight",
+   "zh": "烛光"
+  },
+  "scene_name": {
+   "en": "a white art gallery with large paintings",
+   "zh": "美术馆"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/legs-swept-to-one-side-front.webp",
+  "image": "images/cases/legs-swept-to-one-side-2.webp",
+  "thumb": "thumbs/cases/legs-swept-to-one-side-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: a white art gallery with large paintings. Lighting: Candlelight — warm flickering candlelight from below and in front, deep dark surroundings, intimate mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "folded-forward-hand-at-ankle-1",
+  "pose": "folded-forward-hand-at-ankle",
+  "light": "low-key",
+  "scene": "desert",
+  "light_name": {
+   "en": "Low key",
+   "zh": "低调暗光"
+  },
+  "scene_name": {
+   "en": "golden sand dunes in a desert",
+   "zh": "沙漠沙丘"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a Latino man in his late twenties with wavy black hair",
+  "pose_reference": "images/poses/folded-forward-hand-at-ankle-front.webp",
+  "image": "images/cases/folded-forward-hand-at-ankle-1.webp",
+  "thumb": "thumbs/cases/folded-forward-hand-at-ankle-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a Latino man in his late twenties with wavy black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: golden sand dunes in a desert. Lighting: Low key — a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "folded-forward-hand-at-ankle-2",
+  "pose": "folded-forward-hand-at-ankle",
+  "light": "split",
+  "scene": "plaster-studio",
+  "light_name": {
+   "en": "Split light",
+   "zh": "分割光"
+  },
+  "scene_name": {
+   "en": "warm neutral plaster studio backdrop",
+   "zh": "暖色素墙影棚"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young Scandinavian woman with a platinum blonde bob and blue eyes",
+  "pose_reference": "images/poses/folded-forward-hand-at-ankle-front.webp",
+  "image": "images/cases/folded-forward-hand-at-ankle-2.webp",
+  "thumb": "thumbs/cases/folded-forward-hand-at-ankle-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: warm neutral plaster studio backdrop. Lighting: Split light — hard light from exactly 90 degrees to one side, half of the face lit and half in shadow, dramatic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "chin-on-hand-thinking-1",
+  "pose": "chin-on-hand-thinking",
+  "light": "golden-hour",
+  "scene": "beach",
+  "light_name": {
+   "en": "Golden hour",
+   "zh": "黄金时刻"
+  },
+  "scene_name": {
+   "en": "an empty sunlit beach with soft waves",
+   "zh": "海边沙滩"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/chin-on-hand-thinking-front.webp",
+  "image": "images/cases/chin-on-hand-thinking-1.webp",
+  "thumb": "thumbs/cases/chin-on-hand-thinking-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: an empty sunlit beach with soft waves. Lighting: Golden hour — low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "chin-on-hand-thinking-2",
+  "pose": "chin-on-hand-thinking",
+  "light": "hard-sun",
+  "scene": "rooftop",
+  "light_name": {
+   "en": "Hard midday sun",
+   "zh": "正午硬光"
+  },
+  "scene_name": {
+   "en": "a city rooftop with a skyline view",
+   "zh": "城市天台"
+  },
+  "outfit": "a floral midi dress with puff sleeves",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/chin-on-hand-thinking-front.webp",
+  "image": "images/cases/chin-on-hand-thinking-2.webp",
+  "thumb": "thumbs/cases/chin-on-hand-thinking-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a floral midi dress with puff sleeves. Scene: a city rooftop with a skyline view. Lighting: Hard midday sun — bright high midday sun, crisp hard shadows, saturated summer colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "leaning-back-knees-to-one-side-1",
+  "pose": "leaning-back-knees-to-one-side",
+  "light": "blinds",
+  "scene": "flower-field",
+  "light_name": {
+   "en": "Venetian blind shadows",
+   "zh": "百叶窗光影"
+  },
+  "scene_name": {
+   "en": "a wide field of wildflowers",
+   "zh": "花田"
+  },
+  "outfit": "a floral midi dress with puff sleeves",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/leaning-back-knees-to-one-side-front.webp",
+  "image": "images/cases/leaning-back-knees-to-one-side-1.webp",
+  "thumb": "thumbs/cases/leaning-back-knees-to-one-side-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a floral midi dress with puff sleeves. Scene: a wide field of wildflowers. Lighting: Venetian blind shadows — hard sunlight through venetian blinds casting striped shadows across her and the wall. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "leaning-back-knees-to-one-side-2",
+  "pose": "leaning-back-knees-to-one-side",
+  "light": "rembrandt",
+  "scene": "desert",
+  "light_name": {
+   "en": "Rembrandt light",
+   "zh": "伦勃朗光"
+  },
+  "scene_name": {
+   "en": "golden sand dunes in a desert",
+   "zh": "沙漠沙丘"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/leaning-back-knees-to-one-side-front.webp",
+  "image": "images/cases/leaning-back-knees-to-one-side-2.webp",
+  "thumb": "thumbs/cases/leaning-back-knees-to-one-side-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: golden sand dunes in a desert. Lighting: Rembrandt light — one soft key light high at 45 degrees to the side, a small triangle of light on the shadow-side cheek, dark moody background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "knees-drawn-side-sit-1",
+  "pose": "knees-drawn-side-sit",
+  "light": "rim",
+  "scene": "rainy-street",
+  "light_name": {
+   "en": "Rim backlight",
+   "zh": "轮廓逆光"
+  },
+  "scene_name": {
+   "en": "a rainy street with reflections on the pavement",
+   "zh": "雨夜街头"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/knees-drawn-side-sit-front.webp",
+  "image": "images/cases/knees-drawn-side-sit-1.webp",
+  "thumb": "thumbs/cases/knees-drawn-side-sit-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: a rainy street with reflections on the pavement. Lighting: Rim backlight — strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "knees-drawn-side-sit-2",
+  "pose": "knees-drawn-side-sit",
+  "light": "blue-hour",
+  "scene": "beach",
+  "light_name": {
+   "en": "Blue hour",
+   "zh": "蓝调时刻"
+  },
+  "scene_name": {
+   "en": "an empty sunlit beach with soft waves",
+   "zh": "海边沙滩"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/knees-drawn-side-sit-front.webp",
+  "image": "images/cases/knees-drawn-side-sit-2.webp",
+  "thumb": "thumbs/cases/knees-drawn-side-sit-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: an empty sunlit beach with soft waves. Lighting: Blue hour — deep blue twilight sky after sunset, cool ambient light with warm city lights in the background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "side-sit-cheek-in-hand-1",
+  "pose": "side-sit-cheek-in-hand",
+  "light": "candle",
+  "scene": "city-street",
+  "light_name": {
+   "en": "Candlelight",
+   "zh": "烛光"
+  },
+  "scene_name": {
+   "en": "a quiet European city street",
+   "zh": "城市街道"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/side-sit-cheek-in-hand-front.webp",
+  "image": "images/cases/side-sit-cheek-in-hand-1.webp",
+  "thumb": "thumbs/cases/side-sit-cheek-in-hand-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: a quiet European city street. Lighting: Candlelight — warm flickering candlelight from below and in front, deep dark surroundings, intimate mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "side-sit-cheek-in-hand-2",
+  "pose": "side-sit-cheek-in-hand",
+  "light": "high-key",
+  "scene": "flower-field",
+  "light_name": {
+   "en": "High key",
+   "zh": "高调白光"
+  },
+  "scene_name": {
+   "en": "a wide field of wildflowers",
+   "zh": "花田"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/side-sit-cheek-in-hand-front.webp",
+  "image": "images/cases/side-sit-cheek-in-hand-2.webp",
+  "thumb": "thumbs/cases/side-sit-cheek-in-hand-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: a wide field of wildflowers. Lighting: High key — bright, even, almost shadowless light on a pure white background, airy and clean. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "seated-one-arm-raised-1",
+  "pose": "seated-one-arm-raised",
+  "light": "split",
+  "scene": "apartment",
+  "light_name": {
+   "en": "Split light",
+   "zh": "分割光"
+  },
+  "scene_name": {
+   "en": "a minimal bright apartment with linen curtains",
+   "zh": "极简公寓"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young Scandinavian woman with a platinum blonde bob and blue eyes",
+  "pose_reference": "images/poses/seated-one-arm-raised-front.webp",
+  "image": "images/cases/seated-one-arm-raised-1.webp",
+  "thumb": "thumbs/cases/seated-one-arm-raised-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: a minimal bright apartment with linen curtains. Lighting: Split light — hard light from exactly 90 degrees to one side, half of the face lit and half in shadow, dramatic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "seated-one-arm-raised-2",
+  "pose": "seated-one-arm-raised",
+  "light": "window",
+  "scene": "rainy-street",
+  "light_name": {
+   "en": "Window light",
+   "zh": "窗边柔光"
+  },
+  "scene_name": {
+   "en": "a rainy street with reflections on the pavement",
+   "zh": "雨夜街头"
+  },
+  "outfit": "a camel overcoat over a grey turtleneck and dark trousers",
+  "model": "a Latino man in his late twenties with wavy black hair",
+  "pose_reference": "images/poses/seated-one-arm-raised-front.webp",
+  "image": "images/cases/seated-one-arm-raised-2.webp",
+  "thumb": "thumbs/cases/seated-one-arm-raised-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a Latino man in his late twenties with wavy black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a camel overcoat over a grey turtleneck and dark trousers. Scene: a rainy street with reflections on the pavement. Lighting: Window light — large soft daylight from a window on one side, gentle falloff into shadow, calm indoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "cross-legged-hand-at-neck-1",
+  "pose": "cross-legged-hand-at-neck",
+  "light": "hard-sun",
+  "scene": "garden",
+  "light_name": {
+   "en": "Hard midday sun",
+   "zh": "正午硬光"
+  },
+  "scene_name": {
+   "en": "a formal garden with stone paths and hedges",
+   "zh": "庭院花园"
+  },
+  "outfit": "a camel trench coat over a white knit dress",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/cross-legged-hand-at-neck-front.webp",
+  "image": "images/cases/cross-legged-hand-at-neck-1.webp",
+  "thumb": "thumbs/cases/cross-legged-hand-at-neck-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a camel trench coat over a white knit dress. Scene: a formal garden with stone paths and hedges. Lighting: Hard midday sun — bright high midday sun, crisp hard shadows, saturated summer colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "cross-legged-hand-at-neck-2",
+  "pose": "cross-legged-hand-at-neck",
+  "light": "dappled",
+  "scene": "city-street",
+  "light_name": {
+   "en": "Dappled light",
+   "zh": "树影斑驳光"
+  },
+  "scene_name": {
+   "en": "a quiet European city street",
+   "zh": "城市街道"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/cross-legged-hand-at-neck-front.webp",
+  "image": "images/cases/cross-legged-hand-at-neck-2.webp",
+  "thumb": "thumbs/cases/cross-legged-hand-at-neck-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: a quiet European city street. Lighting: Dappled light — sunlight through tree leaves making dappled spots of light and shadow on her and the ground. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "seated-twist-hand-on-floor-1",
+  "pose": "seated-twist-hand-on-floor",
+  "light": "rembrandt",
+  "scene": "cafe",
+  "light_name": {
+   "en": "Rembrandt light",
+   "zh": "伦勃朗光"
+  },
+  "scene_name": {
+   "en": "a cosy café by the window",
+   "zh": "咖啡馆窗边"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/seated-twist-hand-on-floor-front.webp",
+  "image": "images/cases/seated-twist-hand-on-floor-1.webp",
+  "thumb": "thumbs/cases/seated-twist-hand-on-floor-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: a cosy café by the window. Lighting: Rembrandt light — one soft key light high at 45 degrees to the side, a small triangle of light on the shadow-side cheek, dark moody background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "seated-twist-hand-on-floor-2",
+  "pose": "seated-twist-hand-on-floor",
+  "light": "loop",
+  "scene": "apartment",
+  "light_name": {
+   "en": "Loop light",
+   "zh": "环形光"
+  },
+  "scene_name": {
+   "en": "a minimal bright apartment with linen curtains",
+   "zh": "极简公寓"
+  },
+  "outfit": "a light blue denim shirt and white wide-leg jeans",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/seated-twist-hand-on-floor-front.webp",
+  "image": "images/cases/seated-twist-hand-on-floor-2.webp",
+  "thumb": "thumbs/cases/seated-twist-hand-on-floor-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a light blue denim shirt and white wide-leg jeans. Scene: a minimal bright apartment with linen curtains. Lighting: Loop light — key light slightly above and 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "half-kneel-hand-on-knee-1",
+  "pose": "half-kneel-hand-on-knee",
+  "light": "blue-hour",
+  "scene": "library",
+  "light_name": {
+   "en": "Blue hour",
+   "zh": "蓝调时刻"
+  },
+  "scene_name": {
+   "en": "an old library with tall wooden bookshelves",
+   "zh": "老图书馆"
+  },
+  "outfit": "a black suit with a white shirt, no tie",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/half-kneel-hand-on-knee-front.webp",
+  "image": "images/cases/half-kneel-hand-on-knee-1.webp",
+  "thumb": "thumbs/cases/half-kneel-hand-on-knee-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black suit with a white shirt, no tie. Scene: an old library with tall wooden bookshelves. Lighting: Blue hour — deep blue twilight sky after sunset, cool ambient light with warm city lights in the background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "half-kneel-hand-on-knee-2",
+  "pose": "half-kneel-hand-on-knee",
+  "light": "neon",
+  "scene": "garden",
+  "light_name": {
+   "en": "Neon night",
+   "zh": "霓虹夜景"
+  },
+  "scene_name": {
+   "en": "a formal garden with stone paths and hedges",
+   "zh": "庭院花园"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/half-kneel-hand-on-knee-front.webp",
+  "image": "images/cases/half-kneel-hand-on-knee-2.webp",
+  "thumb": "thumbs/cases/half-kneel-hand-on-knee-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: a formal garden with stone paths and hedges. Lighting: Neon night — magenta and cyan neon signs lighting her from both sides at night, wet reflective street, cinematic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-arms-raised-1",
+  "pose": "kneeling-arms-raised",
+  "light": "high-key",
+  "scene": "staircase",
+  "light_name": {
+   "en": "High key",
+   "zh": "高调白光"
+  },
+  "scene_name": {
+   "en": "a sweeping marble staircase",
+   "zh": "大理石楼梯"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/kneeling-arms-raised-front.webp",
+  "image": "images/cases/kneeling-arms-raised-1.webp",
+  "thumb": "thumbs/cases/kneeling-arms-raised-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: a sweeping marble staircase. Lighting: High key — bright, even, almost shadowless light on a pure white background, airy and clean. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-arms-raised-2",
+  "pose": "kneeling-arms-raised",
+  "light": "butterfly",
+  "scene": "cafe",
+  "light_name": {
+   "en": "Butterfly light",
+   "zh": "蝴蝶光"
+  },
+  "scene_name": {
+   "en": "a cosy café by the window",
+   "zh": "咖啡馆窗边"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/kneeling-arms-raised-front.webp",
+  "image": "images/cases/kneeling-arms-raised-2.webp",
+  "thumb": "thumbs/cases/kneeling-arms-raised-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: a cosy café by the window. Lighting: Butterfly light — key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, even glamorous light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-hand-to-brow-1",
+  "pose": "kneeling-hand-to-brow",
+  "light": "window",
+  "scene": "forest",
+  "light_name": {
+   "en": "Window light",
+   "zh": "窗边柔光"
+  },
+  "scene_name": {
+   "en": "a green forest clearing",
+   "zh": "森林空地"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a Latino man in his late twenties with wavy black hair",
+  "pose_reference": "images/poses/kneeling-hand-to-brow-front.webp",
+  "image": "images/cases/kneeling-hand-to-brow-1.webp",
+  "thumb": "thumbs/cases/kneeling-hand-to-brow-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a Latino man in his late twenties with wavy black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: a green forest clearing. Lighting: Window light — large soft daylight from a window on one side, gentle falloff into shadow, calm indoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-hand-to-brow-2",
+  "pose": "kneeling-hand-to-brow",
+  "light": "overcast",
+  "scene": "library",
+  "light_name": {
+   "en": "Overcast soft light",
+   "zh": "阴天散射光"
+  },
+  "scene_name": {
+   "en": "an old library with tall wooden bookshelves",
+   "zh": "老图书馆"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a young Scandinavian woman with a platinum blonde bob and blue eyes",
+  "pose_reference": "images/poses/kneeling-hand-to-brow-front.webp",
+  "image": "images/cases/kneeling-hand-to-brow-2.webp",
+  "thumb": "thumbs/cases/kneeling-hand-to-brow-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: an old library with tall wooden bookshelves. Lighting: Overcast soft light — soft shadowless light from a cloudy sky, natural muted colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-one-arm-up-1",
+  "pose": "kneeling-one-arm-up",
+  "light": "dappled",
+  "scene": "gallery",
+  "light_name": {
+   "en": "Dappled light",
+   "zh": "树影斑驳光"
+  },
+  "scene_name": {
+   "en": "a white art gallery with large paintings",
+   "zh": "美术馆"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/kneeling-one-arm-up-front.webp",
+  "image": "images/cases/kneeling-one-arm-up-1.webp",
+  "thumb": "thumbs/cases/kneeling-one-arm-up-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: a white art gallery with large paintings. Lighting: Dappled light — sunlight through tree leaves making dappled spots of light and shadow on her and the ground. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-one-arm-up-2",
+  "pose": "kneeling-one-arm-up",
+  "light": "low-key",
+  "scene": "staircase",
+  "light_name": {
+   "en": "Low key",
+   "zh": "低调暗光"
+  },
+  "scene_name": {
+   "en": "a sweeping marble staircase",
+   "zh": "大理石楼梯"
+  },
+  "outfit": "a cream linen shirt and wide high-waisted linen trousers",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/kneeling-one-arm-up-front.webp",
+  "image": "images/cases/kneeling-one-arm-up-2.webp",
+  "thumb": "thumbs/cases/kneeling-one-arm-up-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a cream linen shirt and wide high-waisted linen trousers. Scene: a sweeping marble staircase. Lighting: Low key — a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "quiet-kneel-1",
+  "pose": "quiet-kneel",
+  "light": "loop",
+  "scene": "plaster-studio",
+  "light_name": {
+   "en": "Loop light",
+   "zh": "环形光"
+  },
+  "scene_name": {
+   "en": "warm neutral plaster studio backdrop",
+   "zh": "暖色素墙影棚"
+  },
+  "outfit": "a cream linen shirt and wide high-waisted linen trousers",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/quiet-kneel-front.webp",
+  "image": "images/cases/quiet-kneel-1.webp",
+  "thumb": "thumbs/cases/quiet-kneel-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a cream linen shirt and wide high-waisted linen trousers. Scene: warm neutral plaster studio backdrop. Lighting: Loop light — key light slightly above and 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "quiet-kneel-2",
+  "pose": "quiet-kneel",
+  "light": "golden-hour",
+  "scene": "forest",
+  "light_name": {
+   "en": "Golden hour",
+   "zh": "黄金时刻"
+  },
+  "scene_name": {
+   "en": "a green forest clearing",
+   "zh": "森林空地"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/quiet-kneel-front.webp",
+  "image": "images/cases/quiet-kneel-2.webp",
+  "thumb": "thumbs/cases/quiet-kneel-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: a green forest clearing. Lighting: Golden hour — low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-twist-1",
+  "pose": "kneeling-twist",
+  "light": "neon",
+  "scene": "rooftop",
+  "light_name": {
+   "en": "Neon night",
+   "zh": "霓虹夜景"
+  },
+  "scene_name": {
+   "en": "a city rooftop with a skyline view",
+   "zh": "城市天台"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/kneeling-twist-front.webp",
+  "image": "images/cases/kneeling-twist-1.webp",
+  "thumb": "thumbs/cases/kneeling-twist-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: a city rooftop with a skyline view. Lighting: Neon night — magenta and cyan neon signs lighting her from both sides at night, wet reflective street, cinematic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "kneeling-twist-2",
+  "pose": "kneeling-twist",
+  "light": "blinds",
+  "scene": "gallery",
+  "light_name": {
+   "en": "Venetian blind shadows",
+   "zh": "百叶窗光影"
+  },
+  "scene_name": {
+   "en": "a white art gallery with large paintings",
+   "zh": "美术馆"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/kneeling-twist-front.webp",
+  "image": "images/cases/kneeling-twist-2.webp",
+  "thumb": "thumbs/cases/kneeling-twist-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: a white art gallery with large paintings. Lighting: Venetian blind shadows — hard sunlight through venetian blinds casting striped shadows across her and the wall. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "classic-contrapposto-1",
+  "pose": "classic-contrapposto",
+  "light": "butterfly",
+  "scene": "desert",
+  "light_name": {
+   "en": "Butterfly light",
+   "zh": "蝴蝶光"
+  },
+  "scene_name": {
+   "en": "golden sand dunes in a desert",
+   "zh": "沙漠沙丘"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/classic-contrapposto-front.webp",
+  "image": "images/cases/classic-contrapposto-1.webp",
+  "thumb": "thumbs/cases/classic-contrapposto-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: golden sand dunes in a desert. Lighting: Butterfly light — key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, even glamorous light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "classic-contrapposto-2",
+  "pose": "classic-contrapposto",
+  "light": "rim",
+  "scene": "plaster-studio",
+  "light_name": {
+   "en": "Rim backlight",
+   "zh": "轮廓逆光"
+  },
+  "scene_name": {
+   "en": "warm neutral plaster studio backdrop",
+   "zh": "暖色素墙影棚"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/classic-contrapposto-front.webp",
+  "image": "images/cases/classic-contrapposto-2.webp",
+  "thumb": "thumbs/cases/classic-contrapposto-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: warm neutral plaster studio backdrop. Lighting: Rim backlight — strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "both-hands-in-hair-1",
+  "pose": "both-hands-in-hair",
+  "light": "overcast",
+  "scene": "beach",
+  "light_name": {
+   "en": "Overcast soft light",
+   "zh": "阴天散射光"
+  },
+  "scene_name": {
+   "en": "an empty sunlit beach with soft waves",
+   "zh": "海边沙滩"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young Scandinavian woman with a platinum blonde bob and blue eyes",
+  "pose_reference": "images/poses/both-hands-in-hair-front.webp",
+  "image": "images/cases/both-hands-in-hair-1.webp",
+  "thumb": "thumbs/cases/both-hands-in-hair-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: an empty sunlit beach with soft waves. Lighting: Overcast soft light — soft shadowless light from a cloudy sky, natural muted colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "both-hands-in-hair-2",
+  "pose": "both-hands-in-hair",
+  "light": "candle",
+  "scene": "rooftop",
+  "light_name": {
+   "en": "Candlelight",
+   "zh": "烛光"
+  },
+  "scene_name": {
+   "en": "a city rooftop with a skyline view",
+   "zh": "城市天台"
+  },
+  "outfit": "a camel overcoat over a grey turtleneck and dark trousers",
+  "model": "a Latino man in his late twenties with wavy black hair",
+  "pose_reference": "images/poses/both-hands-in-hair-front.webp",
+  "image": "images/cases/both-hands-in-hair-2.webp",
+  "thumb": "thumbs/cases/both-hands-in-hair-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a Latino man in his late twenties with wavy black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a camel overcoat over a grey turtleneck and dark trousers. Scene: a city rooftop with a skyline view. Lighting: Candlelight — warm flickering candlelight from below and in front, deep dark surroundings, intimate mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "hand-behind-head-1",
+  "pose": "hand-behind-head",
+  "light": "low-key",
+  "scene": "flower-field",
+  "light_name": {
+   "en": "Low key",
+   "zh": "低调暗光"
+  },
+  "scene_name": {
+   "en": "a wide field of wildflowers",
+   "zh": "花田"
+  },
+  "outfit": "a light blue denim shirt and white wide-leg jeans",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/hand-behind-head-front.webp",
+  "image": "images/cases/hand-behind-head-1.webp",
+  "thumb": "thumbs/cases/hand-behind-head-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a light blue denim shirt and white wide-leg jeans. Scene: a wide field of wildflowers. Lighting: Low key — a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "hand-behind-head-2",
+  "pose": "hand-behind-head",
+  "light": "split",
+  "scene": "desert",
+  "light_name": {
+   "en": "Split light",
+   "zh": "分割光"
+  },
+  "scene_name": {
+   "en": "golden sand dunes in a desert",
+   "zh": "沙漠沙丘"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/hand-behind-head-front.webp",
+  "image": "images/cases/hand-behind-head-2.webp",
+  "thumb": "thumbs/cases/hand-behind-head-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: golden sand dunes in a desert. Lighting: Split light — hard light from exactly 90 degrees to one side, half of the face lit and half in shadow, dramatic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "hand-to-brow-gaze-away-1",
+  "pose": "hand-to-brow-gaze-away",
+  "light": "golden-hour",
+  "scene": "rainy-street",
+  "light_name": {
+   "en": "Golden hour",
+   "zh": "黄金时刻"
+  },
+  "scene_name": {
+   "en": "a rainy street with reflections on the pavement",
+   "zh": "雨夜街头"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/hand-to-brow-gaze-away-front.webp",
+  "image": "images/cases/hand-to-brow-gaze-away-1.webp",
+  "thumb": "thumbs/cases/hand-to-brow-gaze-away-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: a rainy street with reflections on the pavement. Lighting: Golden hour — low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "hand-to-brow-gaze-away-2",
+  "pose": "hand-to-brow-gaze-away",
+  "light": "hard-sun",
+  "scene": "beach",
+  "light_name": {
+   "en": "Hard midday sun",
+   "zh": "正午硬光"
+  },
+  "scene_name": {
+   "en": "an empty sunlit beach with soft waves",
+   "zh": "海边沙滩"
+  },
+  "outfit": "a floral midi dress with puff sleeves",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/hand-to-brow-gaze-away-front.webp",
+  "image": "images/cases/hand-to-brow-gaze-away-2.webp",
+  "thumb": "thumbs/cases/hand-to-brow-gaze-away-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a floral midi dress with puff sleeves. Scene: an empty sunlit beach with soft waves. Lighting: Hard midday sun — bright high midday sun, crisp hard shadows, saturated summer colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "arm-up-hip-out-1",
+  "pose": "arm-up-hip-out",
+  "light": "blinds",
+  "scene": "city-street",
+  "light_name": {
+   "en": "Venetian blind shadows",
+   "zh": "百叶窗光影"
+  },
+  "scene_name": {
+   "en": "a quiet European city street",
+   "zh": "城市街道"
+  },
+  "outfit": "a black suit with a white shirt, no tie",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/arm-up-hip-out-front.webp",
+  "image": "images/cases/arm-up-hip-out-1.webp",
+  "thumb": "thumbs/cases/arm-up-hip-out-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black suit with a white shirt, no tie. Scene: a quiet European city street. Lighting: Venetian blind shadows — hard sunlight through venetian blinds casting striped shadows across her and the wall. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "arm-up-hip-out-2",
+  "pose": "arm-up-hip-out",
+  "light": "rembrandt",
+  "scene": "flower-field",
+  "light_name": {
+   "en": "Rembrandt light",
+   "zh": "伦勃朗光"
+  },
+  "scene_name": {
+   "en": "a wide field of wildflowers",
+   "zh": "花田"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/arm-up-hip-out-front.webp",
+  "image": "images/cases/arm-up-hip-out-2.webp",
+  "thumb": "thumbs/cases/arm-up-hip-out-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: a wide field of wildflowers. Lighting: Rembrandt light — one soft key light high at 45 degrees to the side, a small triangle of light on the shadow-side cheek, dark moody background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "mid-step-hand-to-hair-1",
+  "pose": "mid-step-hand-to-hair",
+  "light": "rim",
+  "scene": "apartment",
+  "light_name": {
+   "en": "Rim backlight",
+   "zh": "轮廓逆光"
+  },
+  "scene_name": {
+   "en": "a minimal bright apartment with linen curtains",
+   "zh": "极简公寓"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/mid-step-hand-to-hair-front.webp",
+  "image": "images/cases/mid-step-hand-to-hair-1.webp",
+  "thumb": "thumbs/cases/mid-step-hand-to-hair-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: a minimal bright apartment with linen curtains. Lighting: Rim backlight — strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "mid-step-hand-to-hair-2",
+  "pose": "mid-step-hand-to-hair",
+  "light": "blue-hour",
+  "scene": "rainy-street",
+  "light_name": {
+   "en": "Blue hour",
+   "zh": "蓝调时刻"
+  },
+  "scene_name": {
+   "en": "a rainy street with reflections on the pavement",
+   "zh": "雨夜街头"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/mid-step-hand-to-hair-front.webp",
+  "image": "images/cases/mid-step-hand-to-hair-2.webp",
+  "thumb": "thumbs/cases/mid-step-hand-to-hair-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: a rainy street with reflections on the pavement. Lighting: Blue hour — deep blue twilight sky after sunset, cool ambient light with warm city lights in the background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "both-arms-high-1",
+  "pose": "both-arms-high",
+  "light": "candle",
+  "scene": "garden",
+  "light_name": {
+   "en": "Candlelight",
+   "zh": "烛光"
+  },
+  "scene_name": {
+   "en": "a formal garden with stone paths and hedges",
+   "zh": "庭院花园"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a Latino man in his late twenties with wavy black hair",
+  "pose_reference": "images/poses/both-arms-high-front.webp",
+  "image": "images/cases/both-arms-high-1.webp",
+  "thumb": "thumbs/cases/both-arms-high-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a Latino man in his late twenties with wavy black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: a formal garden with stone paths and hedges. Lighting: Candlelight — warm flickering candlelight from below and in front, deep dark surroundings, intimate mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "both-arms-high-2",
+  "pose": "both-arms-high",
+  "light": "high-key",
+  "scene": "city-street",
+  "light_name": {
+   "en": "High key",
+   "zh": "高调白光"
+  },
+  "scene_name": {
+   "en": "a quiet European city street",
+   "zh": "城市街道"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young Scandinavian woman with a platinum blonde bob and blue eyes",
+  "pose_reference": "images/poses/both-arms-high-front.webp",
+  "image": "images/cases/both-arms-high-2.webp",
+  "thumb": "thumbs/cases/both-arms-high-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: a quiet European city street. Lighting: High key — bright, even, almost shadowless light on a pure white background, airy and clean. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "arms-spread-wide-1",
+  "pose": "arms-spread-wide",
+  "light": "split",
+  "scene": "cafe",
+  "light_name": {
+   "en": "Split light",
+   "zh": "分割光"
+  },
+  "scene_name": {
+   "en": "a cosy café by the window",
+   "zh": "咖啡馆窗边"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/arms-spread-wide-front.webp",
+  "image": "images/cases/arms-spread-wide-1.webp",
+  "thumb": "thumbs/cases/arms-spread-wide-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: a cosy café by the window. Lighting: Split light — hard light from exactly 90 degrees to one side, half of the face lit and half in shadow, dramatic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "arms-spread-wide-2",
+  "pose": "arms-spread-wide",
+  "light": "window",
+  "scene": "apartment",
+  "light_name": {
+   "en": "Window light",
+   "zh": "窗边柔光"
+  },
+  "scene_name": {
+   "en": "a minimal bright apartment with linen curtains",
+   "zh": "极简公寓"
+  },
+  "outfit": "a camel trench coat over a white knit dress",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/arms-spread-wide-front.webp",
+  "image": "images/cases/arms-spread-wide-2.webp",
+  "thumb": "thumbs/cases/arms-spread-wide-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a camel trench coat over a white knit dress. Scene: a minimal bright apartment with linen curtains. Lighting: Window light — large soft daylight from a window on one side, gentle falloff into shadow, calm indoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "playful-forward-lean-1",
+  "pose": "playful-forward-lean",
+  "light": "hard-sun",
+  "scene": "library",
+  "light_name": {
+   "en": "Hard midday sun",
+   "zh": "正午硬光"
+  },
+  "scene_name": {
+   "en": "an old library with tall wooden bookshelves",
+   "zh": "老图书馆"
+  },
+  "outfit": "a camel trench coat over a white knit dress",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/playful-forward-lean-front.webp",
+  "image": "images/cases/playful-forward-lean-1.webp",
+  "thumb": "thumbs/cases/playful-forward-lean-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a camel trench coat over a white knit dress. Scene: an old library with tall wooden bookshelves. Lighting: Hard midday sun — bright high midday sun, crisp hard shadows, saturated summer colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "playful-forward-lean-2",
+  "pose": "playful-forward-lean",
+  "light": "dappled",
+  "scene": "garden",
+  "light_name": {
+   "en": "Dappled light",
+   "zh": "树影斑驳光"
+  },
+  "scene_name": {
+   "en": "a formal garden with stone paths and hedges",
+   "zh": "庭院花园"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/playful-forward-lean-front.webp",
+  "image": "images/cases/playful-forward-lean-2.webp",
+  "thumb": "thumbs/cases/playful-forward-lean-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: a formal garden with stone paths and hedges. Lighting: Dappled light — sunlight through tree leaves making dappled spots of light and shadow on her and the ground. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "reclining-on-one-elbow-1",
+  "pose": "reclining-on-one-elbow",
+  "light": "rembrandt",
+  "scene": "staircase",
+  "light_name": {
+   "en": "Rembrandt light",
+   "zh": "伦勃朗光"
+  },
+  "scene_name": {
+   "en": "a sweeping marble staircase",
+   "zh": "大理石楼梯"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/reclining-on-one-elbow-front.webp",
+  "image": "images/cases/reclining-on-one-elbow-1.webp",
+  "thumb": "thumbs/cases/reclining-on-one-elbow-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: a sweeping marble staircase. Lighting: Rembrandt light — one soft key light high at 45 degrees to the side, a small triangle of light on the shadow-side cheek, dark moody background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "reclining-on-one-elbow-2",
+  "pose": "reclining-on-one-elbow",
+  "light": "loop",
+  "scene": "cafe",
+  "light_name": {
+   "en": "Loop light",
+   "zh": "环形光"
+  },
+  "scene_name": {
+   "en": "a cosy café by the window",
+   "zh": "咖啡馆窗边"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/reclining-on-one-elbow-front.webp",
+  "image": "images/cases/reclining-on-one-elbow-2.webp",
+  "thumb": "thumbs/cases/reclining-on-one-elbow-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: a cosy café by the window. Lighting: Loop light — key light slightly above and 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "lying-stretched-on-one-side-1",
+  "pose": "lying-stretched-on-one-side",
+  "light": "blue-hour",
+  "scene": "forest",
+  "light_name": {
+   "en": "Blue hour",
+   "zh": "蓝调时刻"
+  },
+  "scene_name": {
+   "en": "a green forest clearing",
+   "zh": "森林空地"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/lying-stretched-on-one-side-front.webp",
+  "image": "images/cases/lying-stretched-on-one-side-1.webp",
+  "thumb": "thumbs/cases/lying-stretched-on-one-side-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: a green forest clearing. Lighting: Blue hour — deep blue twilight sky after sunset, cool ambient light with warm city lights in the background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "lying-stretched-on-one-side-2",
+  "pose": "lying-stretched-on-one-side",
+  "light": "neon",
+  "scene": "library",
+  "light_name": {
+   "en": "Neon night",
+   "zh": "霓虹夜景"
+  },
+  "scene_name": {
+   "en": "an old library with tall wooden bookshelves",
+   "zh": "老图书馆"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/lying-stretched-on-one-side-front.webp",
+  "image": "images/cases/lying-stretched-on-one-side-2.webp",
+  "thumb": "thumbs/cases/lying-stretched-on-one-side-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: an old library with tall wooden bookshelves. Lighting: Neon night — magenta and cyan neon signs lighting her from both sides at night, wet reflective street, cinematic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "crouch-chin-on-hand-1",
+  "pose": "crouch-chin-on-hand",
+  "light": "high-key",
+  "scene": "gallery",
+  "light_name": {
+   "en": "High key",
+   "zh": "高调白光"
+  },
+  "scene_name": {
+   "en": "a white art gallery with large paintings",
+   "zh": "美术馆"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young Scandinavian woman with a platinum blonde bob and blue eyes",
+  "pose_reference": "images/poses/crouch-chin-on-hand-front.webp",
+  "image": "images/cases/crouch-chin-on-hand-1.webp",
+  "thumb": "thumbs/cases/crouch-chin-on-hand-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: a white art gallery with large paintings. Lighting: High key — bright, even, almost shadowless light on a pure white background, airy and clean. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "crouch-chin-on-hand-2",
+  "pose": "crouch-chin-on-hand",
+  "light": "butterfly",
+  "scene": "staircase",
+  "light_name": {
+   "en": "Butterfly light",
+   "zh": "蝴蝶光"
+  },
+  "scene_name": {
+   "en": "a sweeping marble staircase",
+   "zh": "大理石楼梯"
+  },
+  "outfit": "a camel overcoat over a grey turtleneck and dark trousers",
+  "model": "a Latino man in his late twenties with wavy black hair",
+  "pose_reference": "images/poses/crouch-chin-on-hand-front.webp",
+  "image": "images/cases/crouch-chin-on-hand-2.webp",
+  "thumb": "thumbs/cases/crouch-chin-on-hand-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a Latino man in his late twenties with wavy black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a camel overcoat over a grey turtleneck and dark trousers. Scene: a sweeping marble staircase. Lighting: Butterfly light — key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, even glamorous light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "street-style-crouch-1",
+  "pose": "street-style-crouch",
+  "light": "window",
+  "scene": "plaster-studio",
+  "light_name": {
+   "en": "Window light",
+   "zh": "窗边柔光"
+  },
+  "scene_name": {
+   "en": "warm neutral plaster studio backdrop",
+   "zh": "暖色素墙影棚"
+  },
+  "outfit": "a floral midi dress with puff sleeves",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/street-style-crouch-front.webp",
+  "image": "images/cases/street-style-crouch-1.webp",
+  "thumb": "thumbs/cases/street-style-crouch-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a floral midi dress with puff sleeves. Scene: warm neutral plaster studio backdrop. Lighting: Window light — large soft daylight from a window on one side, gentle falloff into shadow, calm indoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "street-style-crouch-2",
+  "pose": "street-style-crouch",
+  "light": "overcast",
+  "scene": "forest",
+  "light_name": {
+   "en": "Overcast soft light",
+   "zh": "阴天散射光"
+  },
+  "scene_name": {
+   "en": "a green forest clearing",
+   "zh": "森林空地"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/street-style-crouch-front.webp",
+  "image": "images/cases/street-style-crouch-2.webp",
+  "thumb": "thumbs/cases/street-style-crouch-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: a green forest clearing. Lighting: Overcast soft light — soft shadowless light from a cloudy sky, natural muted colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "finger-to-lips-1",
+  "pose": "finger-to-lips",
+  "light": "dappled",
+  "scene": "rooftop",
+  "light_name": {
+   "en": "Dappled light",
+   "zh": "树影斑驳光"
+  },
+  "scene_name": {
+   "en": "a city rooftop with a skyline view",
+   "zh": "城市天台"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/finger-to-lips-front.webp",
+  "image": "images/cases/finger-to-lips-1.webp",
+  "thumb": "thumbs/cases/finger-to-lips-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: a city rooftop with a skyline view. Lighting: Dappled light — sunlight through tree leaves making dappled spots of light and shadow on her and the ground. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "finger-to-lips-2",
+  "pose": "finger-to-lips",
+  "light": "low-key",
+  "scene": "gallery",
+  "light_name": {
+   "en": "Low key",
+   "zh": "低调暗光"
+  },
+  "scene_name": {
+   "en": "a white art gallery with large paintings",
+   "zh": "美术馆"
+  },
+  "outfit": "a cream linen shirt and wide high-waisted linen trousers",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/finger-to-lips-front.webp",
+  "image": "images/cases/finger-to-lips-2.webp",
+  "thumb": "thumbs/cases/finger-to-lips-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a cream linen shirt and wide high-waisted linen trousers. Scene: a white art gallery with large paintings. Lighting: Low key — a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "reaching-out-1",
+  "pose": "reaching-out",
+  "light": "loop",
+  "scene": "desert",
+  "light_name": {
+   "en": "Loop light",
+   "zh": "环形光"
+  },
+  "scene_name": {
+   "en": "golden sand dunes in a desert",
+   "zh": "沙漠沙丘"
+  },
+  "outfit": "a black suit with a white shirt, no tie",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/reaching-out-front.webp",
+  "image": "images/cases/reaching-out-1.webp",
+  "thumb": "thumbs/cases/reaching-out-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black suit with a white shirt, no tie. Scene: golden sand dunes in a desert. Lighting: Loop light — key light slightly above and 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "reaching-out-2",
+  "pose": "reaching-out",
+  "light": "golden-hour",
+  "scene": "plaster-studio",
+  "light_name": {
+   "en": "Golden hour",
+   "zh": "黄金时刻"
+  },
+  "scene_name": {
+   "en": "warm neutral plaster studio backdrop",
+   "zh": "暖色素墙影棚"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/reaching-out-front.webp",
+  "image": "images/cases/reaching-out-2.webp",
+  "thumb": "thumbs/cases/reaching-out-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: warm neutral plaster studio backdrop. Lighting: Golden hour — low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "chin-in-cupped-hands-1",
+  "pose": "chin-in-cupped-hands",
+  "light": "neon",
+  "scene": "beach",
+  "light_name": {
+   "en": "Neon night",
+   "zh": "霓虹夜景"
+  },
+  "scene_name": {
+   "en": "an empty sunlit beach with soft waves",
+   "zh": "海边沙滩"
+  },
+  "outfit": "a chunky oatmeal knit sweater and a long pleated skirt",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/chin-in-cupped-hands-front.webp",
+  "image": "images/cases/chin-in-cupped-hands-1.webp",
+  "thumb": "thumbs/cases/chin-in-cupped-hands-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a chunky oatmeal knit sweater and a long pleated skirt. Scene: an empty sunlit beach with soft waves. Lighting: Neon night — magenta and cyan neon signs lighting her from both sides at night, wet reflective street, cinematic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "chin-in-cupped-hands-2",
+  "pose": "chin-in-cupped-hands",
+  "light": "blinds",
+  "scene": "rooftop",
+  "light_name": {
+   "en": "Venetian blind shadows",
+   "zh": "百叶窗光影"
+  },
+  "scene_name": {
+   "en": "a city rooftop with a skyline view",
+   "zh": "城市天台"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/chin-in-cupped-hands-front.webp",
+  "image": "images/cases/chin-in-cupped-hands-2.webp",
+  "thumb": "thumbs/cases/chin-in-cupped-hands-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: a city rooftop with a skyline view. Lighting: Venetian blind shadows — hard sunlight through venetian blinds casting striped shadows across her and the wall. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "self-embrace-1",
+  "pose": "self-embrace",
+  "light": "butterfly",
+  "scene": "flower-field",
+  "light_name": {
+   "en": "Butterfly light",
+   "zh": "蝴蝶光"
+  },
+  "scene_name": {
+   "en": "a wide field of wildflowers",
+   "zh": "花田"
+  },
+  "outfit": "a white linen shirt and beige chinos",
+  "model": "a Latino man in his late twenties with wavy black hair",
+  "pose_reference": "images/poses/self-embrace-front.webp",
+  "image": "images/cases/self-embrace-1.webp",
+  "thumb": "thumbs/cases/self-embrace-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a Latino man in his late twenties with wavy black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a white linen shirt and beige chinos. Scene: a wide field of wildflowers. Lighting: Butterfly light — key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, even glamorous light. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "self-embrace-2",
+  "pose": "self-embrace",
+  "light": "rim",
+  "scene": "desert",
+  "light_name": {
+   "en": "Rim backlight",
+   "zh": "轮廓逆光"
+  },
+  "scene_name": {
+   "en": "golden sand dunes in a desert",
+   "zh": "沙漠沙丘"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young Scandinavian woman with a platinum blonde bob and blue eyes",
+  "pose_reference": "images/poses/self-embrace-front.webp",
+  "image": "images/cases/self-embrace-2.webp",
+  "thumb": "thumbs/cases/self-embrace-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: golden sand dunes in a desert. Lighting: Rim backlight — strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "hand-to-hair-at-the-ear-1",
+  "pose": "hand-to-hair-at-the-ear",
+  "light": "overcast",
+  "scene": "rainy-street",
+  "light_name": {
+   "en": "Overcast soft light",
+   "zh": "阴天散射光"
+  },
+  "scene_name": {
+   "en": "a rainy street with reflections on the pavement",
+   "zh": "雨夜街头"
+  },
+  "outfit": "an emerald satin evening gown with long sleeves",
+  "model": "a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes",
+  "pose_reference": "images/poses/hand-to-hair-at-the-ear-front.webp",
+  "image": "images/cases/hand-to-hair-at-the-ear-1.webp",
+  "thumb": "thumbs/cases/hand-to-hair-at-the-ear-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an emerald satin evening gown with long sleeves. Scene: a rainy street with reflections on the pavement. Lighting: Overcast soft light — soft shadowless light from a cloudy sky, natural muted colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "hand-to-hair-at-the-ear-2",
+  "pose": "hand-to-hair-at-the-ear",
+  "light": "candle",
+  "scene": "beach",
+  "light_name": {
+   "en": "Candlelight",
+   "zh": "烛光"
+  },
+  "scene_name": {
+   "en": "an empty sunlit beach with soft waves",
+   "zh": "海边沙滩"
+  },
+  "outfit": "a light blue denim shirt and white wide-leg jeans",
+  "model": "a young white European woman with long red curly hair and freckles",
+  "pose_reference": "images/poses/hand-to-hair-at-the-ear-front.webp",
+  "image": "images/cases/hand-to-hair-at-the-ear-2.webp",
+  "thumb": "thumbs/cases/hand-to-hair-at-the-ear-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long red curly hair and freckles in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a light blue denim shirt and white wide-leg jeans. Scene: an empty sunlit beach with soft waves. Lighting: Candlelight — warm flickering candlelight from below and in front, deep dark surroundings, intimate mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "cheeks-in-both-hands-1",
+  "pose": "cheeks-in-both-hands",
+  "light": "low-key",
+  "scene": "city-street",
+  "light_name": {
+   "en": "Low key",
+   "zh": "低调暗光"
+  },
+  "scene_name": {
+   "en": "a quiet European city street",
+   "zh": "城市街道"
+  },
+  "outfit": "a light blue denim shirt and white wide-leg jeans",
+  "model": "a young East Asian woman with long straight black hair",
+  "pose_reference": "images/poses/cheeks-in-both-hands-front.webp",
+  "image": "images/cases/cheeks-in-both-hands-1.webp",
+  "thumb": "thumbs/cases/cheeks-in-both-hands-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young East Asian woman with long straight black hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a light blue denim shirt and white wide-leg jeans. Scene: a quiet European city street. Lighting: Low key — a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "cheeks-in-both-hands-2",
+  "pose": "cheeks-in-both-hands",
+  "light": "split",
+  "scene": "flower-field",
+  "light_name": {
+   "en": "Split light",
+   "zh": "分割光"
+  },
+  "scene_name": {
+   "en": "a wide field of wildflowers",
+   "zh": "花田"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young white European woman with long dark brown hair in a low ponytail",
+  "pose_reference": "images/poses/cheeks-in-both-hands-front.webp",
+  "image": "images/cases/cheeks-in-both-hands-2.webp",
+  "thumb": "thumbs/cases/cheeks-in-both-hands-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young white European woman with long dark brown hair in a low ponytail in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: a wide field of wildflowers. Lighting: Split light — hard light from exactly 90 degrees to one side, half of the face lit and half in shadow, dramatic. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "shading-eyes-arm-out-1",
+  "pose": "shading-eyes-arm-out",
+  "light": "golden-hour",
+  "scene": "apartment",
+  "light_name": {
+   "en": "Golden hour",
+   "zh": "黄金时刻"
+  },
+  "scene_name": {
+   "en": "a minimal bright apartment with linen curtains",
+   "zh": "极简公寓"
+  },
+  "outfit": "a black turtleneck and tailored black trousers",
+  "model": "a young Black woman with natural curly hair",
+  "pose_reference": "images/poses/shading-eyes-arm-out-front.webp",
+  "image": "images/cases/shading-eyes-arm-out-1.webp",
+  "thumb": "thumbs/cases/shading-eyes-arm-out-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a young Black woman with natural curly hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a black turtleneck and tailored black trousers. Scene: a minimal bright apartment with linen curtains. Lighting: Golden hour — low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "shading-eyes-arm-out-2",
+  "pose": "shading-eyes-arm-out",
+  "light": "hard-sun",
+  "scene": "rainy-street",
+  "light_name": {
+   "en": "Hard midday sun",
+   "zh": "正午硬光"
+  },
+  "scene_name": {
+   "en": "a rainy street with reflections on the pavement",
+   "zh": "雨夜街头"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his early thirties with short dark brown hair and light stubble",
+  "pose_reference": "images/poses/shading-eyes-arm-out-front.webp",
+  "image": "images/cases/shading-eyes-arm-out-2.webp",
+  "thumb": "thumbs/cases/shading-eyes-arm-out-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his early thirties with short dark brown hair and light stubble in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: a rainy street with reflections on the pavement. Lighting: Hard midday sun — bright high midday sun, crisp hard shadows, saturated summer colours, outdoors. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "peeking-through-fingers-1",
+  "pose": "peeking-through-fingers",
+  "light": "blinds",
+  "scene": "garden",
+  "light_name": {
+   "en": "Venetian blind shadows",
+   "zh": "百叶窗光影"
+  },
+  "scene_name": {
+   "en": "a formal garden with stone paths and hedges",
+   "zh": "庭院花园"
+  },
+  "outfit": "a denim jacket over a white T-shirt and black jeans",
+  "model": "a white European man in his late twenties with tousled blond hair",
+  "pose_reference": "images/poses/peeking-through-fingers-front.webp",
+  "image": "images/cases/peeking-through-fingers-1.webp",
+  "thumb": "thumbs/cases/peeking-through-fingers-1.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European man in his late twenties with tousled blond hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing a denim jacket over a white T-shirt and black jeans. Scene: a formal garden with stone paths and hedges. Lighting: Venetian blind shadows — hard sunlight through venetian blinds casting striped shadows across her and the wall. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "peeking-through-fingers-2",
+  "pose": "peeking-through-fingers",
+  "light": "rembrandt",
+  "scene": "city-street",
+  "light_name": {
+   "en": "Rembrandt light",
+   "zh": "伦勃朗光"
+  },
+  "scene_name": {
+   "en": "a quiet European city street",
+   "zh": "城市街道"
+  },
+  "outfit": "an ivory silk dress with long sleeves and a flowing long skirt",
+  "model": "a white European woman in her early forties with wavy chestnut hair",
+  "pose_reference": "images/poses/peeking-through-fingers-front.webp",
+  "image": "images/cases/peeking-through-fingers-2.webp",
+  "thumb": "thumbs/cases/peeking-through-fingers-2.webp",
+  "prompt": "The attached image is a faceless grey mannequin that shows only a pose. Make a photograph of a white European woman in her early forties with wavy chestnut hair in exactly that pose: the same head, torso, arms, hands, legs and feet, which hand does what, and a similar camera angle. Do not copy the mannequin itself: no grey skin, no bald head, no joints. Wearing an ivory silk dress with long sleeves and a flowing long skirt. Scene: a quiet European city street. Lighting: Rembrandt light — one soft key light high at 45 degrees to the side, a small triangle of light on the shadow-side cheek, dark moody background. Fashion editorial photography, 85 mm lens, natural skin texture, the whole pose in frame. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ }
+]

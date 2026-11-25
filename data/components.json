@@ -1,0 +1,3218 @@
+{
+ "look": [
+  {
+   "id": "portra-400-snapshot",
+   "zh": "胶片 Portra 400 随拍",
+   "en": "Portra 400 snapshot",
+   "text": "a casual 35mm film snapshot with Kodak Portra 400 tones of amber, honey and cream, low saturation, visible film grain, highlights softly blooming; candid, not a studio pose",
+   "pose_ref": null
+  },
+  {
+   "id": "jp-youth-film",
+   "zh": "日系青春电影",
+   "en": "Japanese youth film still",
+   "text": "a film still like a Japanese youth movie: long-lens compression, shallow depth of field, slightly teal-green greyish base, lifted blacks, warm highlights, gentle grain",
+   "pose_ref": null
+  },
+  {
+   "id": "home-documentary-film",
+   "zh": "居家纪实胶片",
+   "en": "Home documentary film",
+   "text": "an everyday documentary photograph with an analog film look: fine visible grain, slight highlight bloom, slightly warm white balance, low contrast, nothing staged",
+   "pose_ref": null
+  },
+  {
+   "id": "faded-backlit-film",
+   "zh": "褪色逆光胶片",
+   "en": "Faded backlit film",
+   "text": "a real film-look portrait photograph: warm gold-peach highlights, teal-blue shadows and background, faded blacks, soft halation, creamy out-of-focus areas",
+   "pose_ref": null
+  },
+  {
+   "id": "cinema-35mm-glam",
+   "zh": "35mm 电影级时尚",
+   "en": "35mm cinematic glamour",
+   "text": "a glamorous cinematic fashion still shot on a 35mm motion-picture camera: fine film grain, balanced highlights, rich but natural colour, editorial polish",
+   "pose_ref": null
+  },
+  {
+   "id": "beauty-editorial-clean",
+   "zh": "杂志美妆大片",
+   "en": "Clean beauty editorial",
+   "text": "a realistic fashion-magazine beauty editorial: warm colour grade, very light film grain, clean colour, no over-sharpening, no oversaturation",
+   "pose_ref": null
+  },
+  {
+   "id": "compact-flash-snapshot",
+   "zh": "CCD 直闪随拍",
+   "en": "Compact flash snapshot",
+   "text": "an ultra-realistic compact-camera snapshot from a 2000s point-and-shoot: slightly cool digital colour, crisp flash detail, subtle sensor noise",
+   "pose_ref": null
+  },
+  {
+   "id": "crisp-filmic-editorial",
+   "zh": "清透杂志感",
+   "en": "Crisp filmic editorial",
+   "text": "a high-quality fashion-magazine editorial, crisp and sharp, slightly filmic colour, natural skin texture",
+   "pose_ref": null
+  },
+  {
+   "id": "cinestill-800t-night",
+   "zh": "CineStill 800T 夜景胶片",
+   "en": "CineStill 800T night",
+   "text": "a night photograph on CineStill 800T tungsten film: cool blue-teal shadows, warm practical lights, red halation rings around every bright light, coarse visible grain",
+   "pose_ref": null
+  },
+  {
+   "id": "bw-tri-x",
+   "zh": "黑白 Tri-X 颗粒",
+   "en": "Tri-X black and white",
+   "text": "a black-and-white photograph on Kodak Tri-X 400: punchy contrast, deep but detailed blacks, pronounced organic grain, documentary honesty",
+   "pose_ref": null
+  },
+  {
+   "id": "film-noir-bw",
+   "zh": "黑色电影",
+   "en": "Film noir",
+   "text": "a 1940s film-noir still in black and white: high-contrast chiaroscuro, inky shadows, silvery highlights, smoky atmosphere, fine grain",
+   "pose_ref": null
+  },
+  {
+   "id": "fuji-400h-pastel",
+   "zh": "富士 400H 淡彩",
+   "en": "Fuji 400H pastel",
+   "text": "a soft overexposed Fujifilm Pro 400H look: airy pastel greens and mint shadows, creamy skin, low contrast, gentle grain",
+   "pose_ref": null
+  },
+  {
+   "id": "ektachrome-slide",
+   "zh": "Ektachrome 反转片",
+   "en": "Ektachrome slide film",
+   "text": "a 1970s Kodak Ektachrome slide-film look: saturated but natural blues and reds, clean whites, slightly crushed shadows, fine grain, sun-drenched nostalgia",
+   "pose_ref": null
+  },
+  {
+   "id": "hk-cinema-tones",
+   "zh": "港风电影色调",
+   "en": "Hong Kong cinema tones",
+   "text": "a 1990s Hong Kong art-film look: warm green-yellow cast, rich saturated reds, smeared practical lights, slight step-printed blur, heavy grain",
+   "pose_ref": null
+  },
+  {
+   "id": "nordic-matte",
+   "zh": "北欧冷淡哑光",
+   "en": "Nordic matte",
+   "text": "a quiet Scandinavian editorial look: cool muted palette, matte lifted blacks, desaturated greens and greys, soft contrast, calm and minimal",
+   "pose_ref": null
+  },
+  {
+   "id": "polaroid-instant",
+   "zh": "宝丽来拍立得",
+   "en": "Instant film",
+   "text": "an instant-film photograph: soft focus, slightly shifted colours with warm highlights and cyan shadows, gentle vignette, dreamy imperfection; no white border shown",
+   "pose_ref": null
+  },
+  {
+   "id": "medium-format-fine-art",
+   "zh": "中画幅艺术肖像",
+   "en": "Medium-format fine art",
+   "text": "a medium-format fine-art portrait: tonal depth like a painting, smooth gradations, rich low-key shadows, natural colour, gallery-print quality",
+   "pose_ref": null
+  }
+ ],
+ "skin": [
+  {
+   "id": "real-skin-full",
+   "zh": "真实肌肤",
+   "en": "Real skin",
+   "text": "real skin with visible pores, fine vellus hair, slightly uneven skin tone, natural lip lines, a little redness on the cheeks, one or two tiny imperfections; no smoothing",
+   "pose_ref": null
+  },
+  {
+   "id": "real-skin-under-makeup",
+   "zh": "妆下真实肌理",
+   "en": "Real skin under makeup",
+   "text": "real human skin under the makeup: fine visible pores, soft peach fuzz along the jaw, subtle subsurface scattering, realistic lip texture",
+   "pose_ref": null
+  },
+  {
+   "id": "real-skin-flash",
+   "zh": "闪光下的真实皮肤",
+   "en": "Real skin under flash",
+   "text": "visible pores, fine vellus hair, slight natural redness and a few tiny real imperfections, natural flash specular sheen; no airbrushing, no beauty-filter smoothing",
+   "pose_ref": null
+  },
+  {
+   "id": "real-skin-mature",
+   "zh": "成熟自然肌肤",
+   "en": "Mature natural skin",
+   "text": "real adult skin with natural fine lines at the eyes and mouth, visible pores, gentle uneven tone; ageing shown honestly and beautifully, no smoothing",
+   "pose_ref": null
+  },
+  {
+   "id": "real-skin-men",
+   "zh": "男士真实肌理",
+   "en": "Men's real skin",
+   "text": "real male skin with visible pores, natural stubble shadow, slightly uneven tone, faint redness around the nose; no smoothing or retouching",
+   "pose_ref": null
+  }
+ ],
+ "light": [
+  {
+   "id": "rembrandt",
+   "zh": "伦勃朗光",
+   "en": "Rembrandt light",
+   "text": "one soft key light high at about 45 degrees to the side, a small triangle of light on the shadow-side cheek, background falling into darkness",
+   "pose_ref": null
+  },
+  {
+   "id": "butterfly",
+   "zh": "蝴蝶光",
+   "en": "Butterfly light",
+   "text": "key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, glamorous even light on the cheekbones",
+   "pose_ref": null
+  },
+  {
+   "id": "split",
+   "zh": "分割光",
+   "en": "Split light",
+   "text": "hard light from exactly 90 degrees to one side, half of the face lit and half in deep shadow, dramatic",
+   "pose_ref": null
+  },
+  {
+   "id": "loop",
+   "zh": "环形光",
+   "en": "Loop light",
+   "text": "key light slightly above and about 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light",
+   "pose_ref": null
+  },
+  {
+   "id": "rim",
+   "zh": "轮廓逆光",
+   "en": "Rim backlight",
+   "text": "strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background",
+   "pose_ref": null
+  },
+  {
+   "id": "window",
+   "zh": "窗边柔光",
+   "en": "Soft window light",
+   "text": "large soft daylight from a window on one side, gentle falloff into shadow, calm indoor mood",
+   "pose_ref": null
+  },
+  {
+   "id": "golden-hour",
+   "zh": "黄金时刻",
+   "en": "Golden hour",
+   "text": "low warm sunset sun from behind and to the side, golden glow and natural lens flare, warm outdoor mood",
+   "pose_ref": null
+  },
+  {
+   "id": "blue-hour",
+   "zh": "蓝调时刻",
+   "en": "Blue hour",
+   "text": "deep blue twilight sky after sunset, cool ambient light on the face, warm city lights glowing in the background",
+   "pose_ref": null
+  },
+  {
+   "id": "overcast",
+   "zh": "阴天散射光",
+   "en": "Overcast soft light",
+   "text": "soft shadowless light from a cloudy sky, natural muted colours, outdoors",
+   "pose_ref": null
+  },
+  {
+   "id": "hard-sun",
+   "zh": "正午硬光",
+   "en": "Hard midday sun",
+   "text": "bright high midday sun, crisp hard shadows under the brow and chin, saturated summer colours, outdoors",
+   "pose_ref": null
+  },
+  {
+   "id": "neon",
+   "zh": "霓虹夜景",
+   "en": "Neon night",
+   "text": "magenta and cyan neon signs lighting the subject from both sides at night, coloured light wrapping the cheeks, cinematic",
+   "pose_ref": null
+  },
+  {
+   "id": "candle",
+   "zh": "烛光",
+   "en": "Candlelight",
+   "text": "warm flickering candlelight from below and in front, deep dark surroundings, intimate mood",
+   "pose_ref": null
+  },
+  {
+   "id": "dappled",
+   "zh": "树影斑驳光",
+   "en": "Dappled light",
+   "text": "sunlight through tree leaves making dappled spots of light and shadow on the subject and the ground",
+   "pose_ref": null
+  },
+  {
+   "id": "blinds",
+   "zh": "百叶窗光影",
+   "en": "Venetian blind light",
+   "text": "hard sunlight through venetian blinds casting parallel striped shadows across the subject and the wall",
+   "pose_ref": null
+  },
+  {
+   "id": "high-key",
+   "zh": "高调白光",
+   "en": "High key",
+   "text": "bright, even, almost shadowless light on a pure white background, airy and clean",
+   "pose_ref": null
+  },
+  {
+   "id": "low-key",
+   "zh": "低调暗光",
+   "en": "Low key",
+   "text": "a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro",
+   "pose_ref": null
+  },
+  {
+   "id": "low-hard-sun-backlit",
+   "zh": "低角度硬逆光",
+   "en": "Low hard sun, backlit",
+   "text": "one source only: a low late-afternoon sun near the horizon behind the subject, hard direct light, often in or near the frame; sunlit highlights blow out to warm white",
+   "pose_ref": null
+  },
+  {
+   "id": "hard-window-sunbeam",
+   "zh": "窗口硬光斑",
+   "en": "Hard window sunbeam",
+   "text": "one source only: a single beam of hard sunlight slanting in through a window, uneven warm sunlit patches next to cool dark corners",
+   "pose_ref": null
+  },
+  {
+   "id": "low-hard-sun-side",
+   "zh": "低角度侧硬光",
+   "en": "Low hard side sun",
+   "text": "one source only: strong low afternoon sun from one upper side, clear sky, razor-sharp shadows; the lit side of the face near blowing out",
+   "pose_ref": null
+  },
+  {
+   "id": "backlit-silhouette",
+   "zh": "逆光剪影",
+   "en": "Backlit silhouette",
+   "text": "the sun directly behind the subject, partly hidden by the shoulder, lens pointed into it; the figure a dark silhouette with a bright gold outline, sky glowing",
+   "pose_ref": null
+  },
+  {
+   "id": "soft-top-spot",
+   "zh": "电影感柔顶光",
+   "en": "Soft cinematic top light",
+   "text": "one soft cinematic top light from slightly to one side, uneven and moody, sculpting cheekbones and collarbones, one side of the face in soft shadow",
+   "pose_ref": null
+  },
+  {
+   "id": "golden-backlight-ambient",
+   "zh": "金色逆光加环境补",
+   "en": "Golden backlight with ambient fill",
+   "text": "low warm golden backlight from behind and above, the sun out of frame, the front softly filled by natural ambient bounce, uneven exposure with darker falloff",
+   "pose_ref": null
+  },
+  {
+   "id": "compact-direct-flash",
+   "zh": "卡片机直闪",
+   "en": "Compact direct flash",
+   "text": "direct compact-camera flash straight from the camera, bright subject against a darker background, hard small shadow behind",
+   "pose_ref": null
+  },
+  {
+   "id": "on-axis-hard-flash",
+   "zh": "同轴硬闪",
+   "en": "On-axis hard flash",
+   "text": "a hard on-axis flash close to the lens, slightly above axis; specular highlights on cheekbones, nose bridge and lower lip; crisp soft-edged shadow just behind the subject",
+   "pose_ref": null
+  },
+  {
+   "id": "tungsten-practicals",
+   "zh": "室内暖钨丝灯",
+   "en": "Warm tungsten practicals",
+   "text": "warm tungsten practical lamps inside the scene (table lamps, wall sconces, reading lights) as the only sources, amber pools of light, deep brown shadows",
+   "pose_ref": null
+  },
+  {
+   "id": "sodium-streetlight",
+   "zh": "钠灯路灯",
+   "en": "Sodium streetlight",
+   "text": "orange sodium-vapour streetlights from above at night, hard warm top light, dark blue-black sky, pools of light on the ground",
+   "pose_ref": null
+  },
+  {
+   "id": "fluorescent-overhead",
+   "zh": "顶部荧光灯",
+   "en": "Overhead fluorescent",
+   "text": "flat cool-green overhead fluorescent tubes, slightly flickering, shadows under the eyes and chin, urban late-night feeling",
+   "pose_ref": null
+  },
+  {
+   "id": "snow-daylight",
+   "zh": "雪地漫反射",
+   "en": "Snow daylight",
+   "text": "soft bright daylight under a pale winter sky, snow on the ground bouncing light up into the face, cool clean whites",
+   "pose_ref": null
+  },
+  {
+   "id": "firelight",
+   "zh": "壁炉火光",
+   "en": "Fireplace glow",
+   "text": "warm orange glow from a fireplace to one side, light flickering across the face, the rest of the room in deep brown shadow",
+   "pose_ref": null
+  },
+  {
+   "id": "large-softbox",
+   "zh": "大柔光箱",
+   "en": "Large softbox",
+   "text": "one large octabox high and to the front-side, wrapping soft light, gentle gradient falloff, smooth shadow edges, studio polish",
+   "pose_ref": null
+  },
+  {
+   "id": "hard-strobe-fashion",
+   "zh": "棚拍硬闪",
+   "en": "Hard fashion strobe",
+   "text": "one bare hard strobe from slightly above the camera, crisp edged shadows, high micro-contrast, bold fashion-editorial energy",
+   "pose_ref": null
+  },
+  {
+   "id": "skylight-top",
+   "zh": "天窗顶光",
+   "en": "Skylight top light",
+   "text": "soft daylight falling from a high skylight, top-down and slightly diffused, quiet gallery atmosphere, gentle shadows under the brow",
+   "pose_ref": null
+  },
+  {
+   "id": "misty-dawn",
+   "zh": "清晨薄雾光",
+   "en": "Misty dawn",
+   "text": "pale dawn light through thin mist, very low contrast, soft milky highlights, distance fading into grey-blue",
+   "pose_ref": null
+  },
+  {
+   "id": "morning-soft-sun",
+   "zh": "清晨斜阳",
+   "en": "Soft morning sun",
+   "text": "fresh low morning sun from one side, warm but gentle, long soft shadows, crisp air",
+   "pose_ref": null
+  }
+ ],
+ "light_mod": [
+  {
+   "id": "grid-pattern-shadow",
+   "zh": "网格投影",
+   "en": "Grid shadows",
+   "text": "sunlight through a mesh, fence or lattice casts crisp grid-pattern shadows on the subject and the floor",
+   "pose_ref": null
+  },
+  {
+   "id": "window-frame-shadow",
+   "zh": "窗框投影",
+   "en": "Window-frame shadows",
+   "text": "crisp window-frame shadows falling across the room and over the subject",
+   "pose_ref": null
+  },
+  {
+   "id": "leaf-dapple",
+   "zh": "叶影斑驳",
+   "en": "Leaf dapple",
+   "text": "leaves and branches cast broken dappled shadows on skin and clothes",
+   "pose_ref": null
+  },
+  {
+   "id": "hair-strand-shadow",
+   "zh": "发丝投影",
+   "en": "Hair-strand shadows",
+   "text": "hair strands and grass blades cast fine sharp mottled shadows on the face",
+   "pose_ref": null
+  },
+  {
+   "id": "halation",
+   "zh": "高光晕染",
+   "en": "Halation",
+   "text": "a faint reddish halation glow around blown highlights",
+   "pose_ref": null
+  },
+  {
+   "id": "haze-flare",
+   "zh": "眩光雾化",
+   "en": "Haze and flare",
+   "text": "hazy glare and real lens flare on the light side, contrast lowered",
+   "pose_ref": null
+  },
+  {
+   "id": "gold-rim",
+   "zh": "金色发丝边",
+   "en": "Gold rim",
+   "text": "backlit hair strands and fabric edges glow as gold rims",
+   "pose_ref": null
+  },
+  {
+   "id": "light-stripe-eyes",
+   "zh": "眼部一道光",
+   "en": "Light stripe over eyes",
+   "text": "one narrow stripe of hard light falling exactly across the eyes, the rest of the face in shadow",
+   "pose_ref": null
+  },
+  {
+   "id": "dust-in-beam",
+   "zh": "光束浮尘",
+   "en": "Dust in the beam",
+   "text": "fine golden dust particles drifting through the light beam as sparkling bokeh",
+   "pose_ref": null
+  },
+  {
+   "id": "prism-leak-edge",
+   "zh": "边缘漏光",
+   "en": "Edge light leak",
+   "text": "a short soft prismatic light-leak streak at the very edge of the frame near the lens, never a rainbow arc",
+   "pose_ref": null
+  },
+  {
+   "id": "falloff-dark-corners",
+   "zh": "暗部衰减",
+   "en": "Falloff to dark corners",
+   "text": "clear falloff: corners and areas away from the light go dark",
+   "pose_ref": null
+  },
+  {
+   "id": "warm-cool-contrast",
+   "zh": "冷暖对比",
+   "en": "Warm-cool contrast",
+   "text": "warm lit areas against cool blue shadows",
+   "pose_ref": null
+  },
+  {
+   "id": "no-fill",
+   "zh": "不补光",
+   "en": "No fill",
+   "text": "no fill light, no reflector, no artificial rim light",
+   "pose_ref": null
+  },
+  {
+   "id": "catchlights",
+   "zh": "眼神光",
+   "en": "Catchlights",
+   "text": "a small natural catchlight in each eye",
+   "pose_ref": null
+  },
+  {
+   "id": "blind-stripes",
+   "zh": "百叶条纹影",
+   "en": "Blind stripes",
+   "text": "parallel stripes of light and shadow from blinds bending over the face and body",
+   "pose_ref": null
+  },
+  {
+   "id": "vignette",
+   "zh": "暗角",
+   "en": "Vignette",
+   "text": "a gentle natural lens vignette darkening the corners",
+   "pose_ref": null
+  },
+  {
+   "id": "flash-wall-shadow",
+   "zh": "闪光硬影",
+   "en": "Flash shadow on backdrop",
+   "text": "a crisp dark flash shadow cast on the wall or backdrop just behind the subject",
+   "pose_ref": null
+  },
+  {
+   "id": "city-bokeh",
+   "zh": "城市光斑",
+   "en": "City bokeh",
+   "text": "distant city and street lights melting into large soft round bokeh behind the subject",
+   "pose_ref": null
+  },
+  {
+   "id": "wet-reflections",
+   "zh": "湿地倒影",
+   "en": "Wet ground reflections",
+   "text": "rain-wet pavement reflecting coloured lights in long smeared streaks",
+   "pose_ref": null
+  },
+  {
+   "id": "neon-spill",
+   "zh": "霓虹溢色",
+   "en": "Neon spill",
+   "text": "coloured neon light spilling onto the cheek, hair and shoulder from a sign just out of frame",
+   "pose_ref": null
+  },
+  {
+   "id": "snow-bounce",
+   "zh": "雪地反光",
+   "en": "Snow bounce",
+   "text": "snow on the ground bouncing soft cool light up under the chin and into the eyes",
+   "pose_ref": null
+  },
+  {
+   "id": "sun-in-frame",
+   "zh": "太阳入画",
+   "en": "Sun in frame",
+   "text": "the sun itself in the frame as a blown-out white blob, flare and coloured ghosts across the image",
+   "pose_ref": null
+  },
+  {
+   "id": "sun-out-of-frame",
+   "zh": "太阳出画",
+   "en": "Sun out of frame",
+   "text": "the sun just out of frame behind and above, its glow washing one edge",
+   "pose_ref": null
+  },
+  {
+   "id": "atmospheric-haze",
+   "zh": "空气雾感",
+   "en": "Atmospheric haze",
+   "text": "thin haze or mist in the air softening the background and catching the light",
+   "pose_ref": null
+  },
+  {
+   "id": "candle-flicker-glow",
+   "zh": "烛火跳动",
+   "en": "Flickering warm glow",
+   "text": "small warm points of flame light dancing on the skin and reflecting in the eyes",
+   "pose_ref": null
+  },
+  {
+   "id": "backlit-rain",
+   "zh": "逆光雨丝",
+   "en": "Backlit rain",
+   "text": "falling rain lit from behind, visible as bright slanted streaks against the dark",
+   "pose_ref": null
+  }
+ ],
+ "scene": [
+  {
+   "id": "plaster-studio",
+   "zh": "暖色素墙影棚",
+   "en": "Warm plaster studio",
+   "text": "a studio with a warm neutral hand-plastered wall backdrop and a matching floor, softly textured, nothing else in frame",
+   "pose_ref": null
+  },
+  {
+   "id": "beach",
+   "zh": "海边沙滩",
+   "en": "Sunlit beach",
+   "text": "an empty sunlit beach with soft waves, wet sand at the water line, open sky",
+   "pose_ref": null
+  },
+  {
+   "id": "city-street",
+   "zh": "城市街道",
+   "en": "European city street",
+   "text": "a quiet European city street with stone facades, shuttered windows and a narrow pavement",
+   "pose_ref": null
+  },
+  {
+   "id": "cafe",
+   "zh": "咖啡馆窗边",
+   "en": "Café window seat",
+   "text": "a cosy café table by a large window, wooden chairs, a few cups on the counter, warm interior",
+   "pose_ref": null
+  },
+  {
+   "id": "forest",
+   "zh": "森林空地",
+   "en": "Forest clearing",
+   "text": "a green forest clearing with tall trunks, ferns and moss, light filtering through the canopy",
+   "pose_ref": null
+  },
+  {
+   "id": "rooftop",
+   "zh": "城市天台",
+   "en": "City rooftop",
+   "text": "a city rooftop with a low parapet and a wide skyline view, water tanks and vents in the corners",
+   "pose_ref": null
+  },
+  {
+   "id": "flower-field",
+   "zh": "花田",
+   "en": "Wildflower field",
+   "text": "a wide field of wildflowers reaching knee height, a soft tree line in the distance",
+   "pose_ref": null
+  },
+  {
+   "id": "apartment",
+   "zh": "极简公寓",
+   "en": "Minimal apartment",
+   "text": "a minimal bright apartment with linen curtains, light wood floor, white walls and a few everyday objects",
+   "pose_ref": null
+  },
+  {
+   "id": "library",
+   "zh": "老图书馆",
+   "en": "Old library",
+   "text": "an old library with tall dark wooden bookshelves, rolling ladders, long reading tables and green-shaded lamps",
+   "pose_ref": null
+  },
+  {
+   "id": "gallery",
+   "zh": "美术馆",
+   "en": "White gallery",
+   "text": "a white art gallery with large abstract paintings, polished concrete floor and open space",
+   "pose_ref": null
+  },
+  {
+   "id": "desert",
+   "zh": "沙漠沙丘",
+   "en": "Desert dunes",
+   "text": "golden sand dunes in a desert with wind ripples and long ridge lines, empty sky",
+   "pose_ref": null
+  },
+  {
+   "id": "rainy-street",
+   "zh": "雨夜街头",
+   "en": "Rainy street",
+   "text": "a rainy street at night with reflections on the wet pavement, shop windows glowing",
+   "pose_ref": null
+  },
+  {
+   "id": "garden",
+   "zh": "庭院花园",
+   "en": "Formal garden",
+   "text": "a formal garden with stone paths, clipped hedges and an old stone bench",
+   "pose_ref": null
+  },
+  {
+   "id": "staircase",
+   "zh": "大理石楼梯",
+   "en": "Marble staircase",
+   "text": "a sweeping marble staircase with a curved brass handrail and tall windows",
+   "pose_ref": null
+  },
+  {
+   "id": "observation-deck",
+   "zh": "高空观景台",
+   "en": "Observation deck",
+   "text": "a high city observation deck with a wall of metal grid safety mesh and railings, hazy city sprawl to the horizon",
+   "pose_ref": null
+  },
+  {
+   "id": "vintage-parlor",
+   "zh": "复古客厅",
+   "en": "Vintage parlour",
+   "text": "a vintage living room with a dark upright piano, a carved wooden armchair, a gilt picture frame and faded floral wallpaper",
+   "pose_ref": null
+  },
+  {
+   "id": "seaside-grass-hillside",
+   "zh": "海边草坡",
+   "en": "Seaside grass hillside",
+   "text": "a seaside highland slope of tall green-and-straw grass, a thin grey line of sea, blue sky fading to white at the horizon",
+   "pose_ref": null
+  },
+  {
+   "id": "old-sea-steps",
+   "zh": "海边旧台阶",
+   "en": "Old sea steps",
+   "text": "old weathered concrete steps leading down to the sea",
+   "pose_ref": null
+  },
+  {
+   "id": "country-road",
+   "zh": "乡间公路",
+   "en": "Country road",
+   "text": "an empty country roadside with an old wooden utility pole and wires overhead, fields on both sides",
+   "pose_ref": null
+  },
+  {
+   "id": "concrete-stairwell",
+   "zh": "清水混凝土楼梯间",
+   "en": "Concrete stairwell",
+   "text": "a minimalist dim concrete stairwell with clean straight steps and a slim metal handrail",
+   "pose_ref": null
+  },
+  {
+   "id": "white-bedroom",
+   "zh": "白色卧室",
+   "en": "White bedroom",
+   "text": "a sparse white bedroom with a large window, a low bed with rumpled white linen and a wooden floor",
+   "pose_ref": null
+  },
+  {
+   "id": "home-kitchen",
+   "zh": "居家厨房",
+   "en": "Home kitchen",
+   "text": "a simple light-wood kitchen counter with a matte kettle, a small potted herb and a window above",
+   "pose_ref": null
+  },
+  {
+   "id": "window-seat",
+   "zh": "窗台卡座",
+   "en": "Window seat",
+   "text": "a sunlit built-in window seat with a linen cushion and a few books",
+   "pose_ref": null
+  },
+  {
+   "id": "small-balcony",
+   "zh": "小阳台",
+   "en": "Small balcony",
+   "text": "a small open-air balcony with a white railing, potted plants and a folding chair",
+   "pose_ref": null
+  },
+  {
+   "id": "blossom-garden",
+   "zh": "花枝小径",
+   "en": "Blossom path",
+   "text": "a path under low flowering branches, blossoms filling the foreground and sides, the background a blurred dark tree mass",
+   "pose_ref": null
+  },
+  {
+   "id": "grey-blue-wall",
+   "zh": "灰蓝素墙",
+   "en": "Grey-blue wall",
+   "text": "a soft grey-blue plain painted wall with a matching floor",
+   "pose_ref": null
+  },
+  {
+   "id": "black-seamless",
+   "zh": "纯黑背景",
+   "en": "Black seamless",
+   "text": "a pure black seamless studio backdrop; no props, no visible stands or paper edges",
+   "pose_ref": null
+  },
+  {
+   "id": "tokyo-rain-alley",
+   "zh": "东京雨夜小巷",
+   "en": "Tokyo rainy alley",
+   "text": "a narrow Tokyo side street at night in the rain: small izakaya lanterns, vending machines glowing, overhead wires, wet asphalt; signs too blurred to read",
+   "pose_ref": null
+  },
+  {
+   "id": "paris-cafe-terrace",
+   "zh": "巴黎咖啡馆露台",
+   "en": "Paris café terrace",
+   "text": "a Parisian café terrace in the morning: small round marble tables, woven bistro chairs, a red awning, Haussmann facades across the street",
+   "pose_ref": null
+  },
+  {
+   "id": "snowy-cabin",
+   "zh": "雪夜木屋",
+   "en": "Snowy cabin interior",
+   "text": "a wooden log cabin interior on a winter night: a stone fireplace, a worn armchair, wool blankets, frosted windows with snow outside",
+   "pose_ref": null
+  },
+  {
+   "id": "snowy-pine-forest",
+   "zh": "雪地松林",
+   "en": "Snowy pine forest",
+   "text": "a quiet pine forest after fresh snowfall, branches heavy with snow, a trodden path, white ground",
+   "pose_ref": null
+  },
+  {
+   "id": "wheat-field",
+   "zh": "金色麦田",
+   "en": "Wheat field",
+   "text": "a ripe golden wheat field at chest height, a dirt track through it, a low horizon and wide sky",
+   "pose_ref": null
+  },
+  {
+   "id": "subway-platform",
+   "zh": "地铁站台",
+   "en": "Subway platform",
+   "text": "an underground subway platform with tiled walls, a yellow safety line, steel benches and a train tunnel; signs blurred and unreadable",
+   "pose_ref": null
+  },
+  {
+   "id": "greenhouse",
+   "zh": "玻璃温室",
+   "en": "Glass greenhouse",
+   "text": "a Victorian glass greenhouse full of palms, ferns and hanging plants, white iron frames, terracotta pots, a humid soft atmosphere",
+   "pose_ref": null
+  },
+  {
+   "id": "vintage-car-road",
+   "zh": "复古敞篷车公路",
+   "en": "Vintage car roadside",
+   "text": "a pale vintage convertible parked on a coastal road shoulder, dry grass, guard rail and a far blue sea",
+   "pose_ref": null
+  },
+  {
+   "id": "bookshop",
+   "zh": "旧书店",
+   "en": "Old bookshop",
+   "text": "a cramped second-hand bookshop with floor-to-ceiling shelves, stacks of books on the floor, a wooden step ladder and a rain-streaked shop window",
+   "pose_ref": null
+  },
+  {
+   "id": "lakeside-dock",
+   "zh": "湖边木栈道",
+   "en": "Lakeside dock",
+   "text": "a weathered wooden dock reaching into a still lake, reeds at the edge, pine-covered hills fading in mist",
+   "pose_ref": null
+  },
+  {
+   "id": "sculpture-museum",
+   "zh": "古典雕塑馆",
+   "en": "Sculpture hall",
+   "text": "a classical museum hall with white marble sculptures on plinths, tall arched doorways and a polished stone floor",
+   "pose_ref": null
+  },
+  {
+   "id": "retro-diner",
+   "zh": "美式复古餐厅",
+   "en": "Retro diner",
+   "text": "a 1950s-style American diner at night: red vinyl booths, a chrome counter with stools, a checkerboard floor and a big window to the dark street",
+   "pose_ref": null
+  },
+  {
+   "id": "old-town-night",
+   "zh": "老城夜巷",
+   "en": "Old town at night",
+   "text": "a cobbled old-town lane at night, shuttered doors, iron balconies, a single café still lit",
+   "pose_ref": null
+  },
+  {
+   "id": "night-train",
+   "zh": "夜行列车",
+   "en": "Night train compartment",
+   "text": "a vintage sleeper-train compartment at night: wood panelling, a small table with a reading lamp, a dark window with passing lights",
+   "pose_ref": null
+  },
+  {
+   "id": "tennis-court",
+   "zh": "老式网球场",
+   "en": "Vintage tennis court",
+   "text": "an old clay tennis court with a sagging net, a green windbreak fence and a white wooden umpire chair",
+   "pose_ref": null
+  },
+  {
+   "id": "candlelit-hall",
+   "zh": "古堡烛光大厅",
+   "en": "Candlelit stone hall",
+   "text": "a stone manor hall at night with a long oak table, tall iron candelabras, tapestries and arched windows",
+   "pose_ref": null
+  },
+  {
+   "id": "autumn-park",
+   "zh": "秋日公园",
+   "en": "Autumn park",
+   "text": "a city park in autumn: avenues of golden and rust trees, a carpet of fallen leaves, iron benches and a lamp post",
+   "pose_ref": null
+  },
+  {
+   "id": "noir-office",
+   "zh": "旧式侦探办公室",
+   "en": "Noir office",
+   "text": "a 1940s office: a heavy wooden desk, a rotary phone, a coat stand, frosted glass door and tall venetian blinds",
+   "pose_ref": null
+  }
+ ],
+ "outfit": [
+  {
+   "id": "ivory-silk-dress",
+   "zh": "象牙白长袖真丝裙",
+   "en": "Ivory silk dress",
+   "text": "an ivory silk dress with long sleeves, a modest neckline and a flowing ankle-length skirt",
+   "pose_ref": null
+  },
+  {
+   "id": "linen-shirt-trousers",
+   "zh": "米色亚麻衬衫阔腿裤",
+   "en": "Linen shirt and trousers",
+   "text": "a cream linen shirt and wide high-waisted linen trousers, natural creases",
+   "pose_ref": null
+  },
+  {
+   "id": "knit-sweater-pleated-skirt",
+   "zh": "燕麦色毛衣百褶长裙",
+   "en": "Knit sweater and pleated skirt",
+   "text": "a chunky oatmeal knit sweater and a long pleated skirt",
+   "pose_ref": null
+  },
+  {
+   "id": "black-suit-white-shirt",
+   "zh": "黑西装白衬衫",
+   "en": "Black suit, white shirt",
+   "text": "a black tailored suit with a white shirt, top button open, no tie",
+   "pose_ref": null
+  },
+  {
+   "id": "emerald-satin-gown",
+   "zh": "祖母绿长袖缎面礼服",
+   "en": "Emerald satin gown",
+   "text": "an emerald satin floor-length evening gown with long sleeves and a high neckline",
+   "pose_ref": null
+  },
+  {
+   "id": "denim-shirt-white-jeans",
+   "zh": "浅蓝牛仔衬衫白阔腿裤",
+   "en": "Denim shirt and white jeans",
+   "text": "a light blue denim shirt tucked into white wide-leg jeans",
+   "pose_ref": null
+  },
+  {
+   "id": "black-turtleneck-trousers",
+   "zh": "黑色高领毛衣西裤",
+   "en": "Black turtleneck and trousers",
+   "text": "a fine black turtleneck and tailored black trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "floral-puff-midi",
+   "zh": "碎花泡泡袖中长裙",
+   "en": "Floral puff-sleeve midi",
+   "text": "a floral cotton midi dress with puff sleeves and a modest square neckline, fully lined",
+   "pose_ref": null
+  },
+  {
+   "id": "denim-jacket-tee",
+   "zh": "牛仔夹克白T黑牛仔裤",
+   "en": "Denim jacket and tee",
+   "text": "a washed denim jacket over a white T-shirt and black jeans",
+   "pose_ref": null
+  },
+  {
+   "id": "trench-white-knit-dress",
+   "zh": "驼色风衣白针织裙",
+   "en": "Trench over knit dress",
+   "text": "a camel trench coat over a white knit midi dress",
+   "pose_ref": null
+  },
+  {
+   "id": "white-linen-chinos",
+   "zh": "白亚麻衬衫卡其裤",
+   "en": "Linen shirt and chinos",
+   "text": "a white linen shirt with rolled sleeves and beige chinos",
+   "pose_ref": null
+  },
+  {
+   "id": "camel-overcoat-turtleneck",
+   "zh": "驼色大衣灰高领",
+   "en": "Camel overcoat and turtleneck",
+   "text": "a camel wool overcoat over a grey turtleneck and dark trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "tweed-coat-knit",
+   "zh": "粗花呢长大衣",
+   "en": "Tweed coat over knit",
+   "text": "a long charcoal tweed coat over a dark knit sweater",
+   "pose_ref": null
+  },
+  {
+   "id": "rumpled-white-shirt-navy",
+   "zh": "褶皱白衬衫藏青裤",
+   "en": "Rumpled white shirt",
+   "text": "a rumpled white short-sleeve cotton shirt with natural creases, buttoned to the collarbone, and creased navy trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "red-silk-gown",
+   "zh": "酒红丝绸长礼服",
+   "en": "Crimson silk gown",
+   "text": "a deep crimson liquid-silk floor-length gown with a modest boat neckline and long sleeves",
+   "pose_ref": null
+  },
+  {
+   "id": "oversized-tee-linen",
+   "zh": "宽松白T亚麻裤",
+   "en": "Oversized tee and linen",
+   "text": "an oversized cream cotton T-shirt with soft creases and wide-leg beige linen trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "oatmeal-cardigan",
+   "zh": "燕麦色开衫",
+   "en": "Oatmeal cardigan",
+   "text": "an oversized oatmeal chunky-knit cardigan over a cream T-shirt and wide-leg linen trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "white-cotton-sundress",
+   "zh": "白色棉质长裙",
+   "en": "White cotton sundress",
+   "text": "an opaque white cotton ankle-length dress with short flutter sleeves and a lined skirt",
+   "pose_ref": null
+  },
+  {
+   "id": "belted-trench",
+   "zh": "收腰长风衣",
+   "en": "Belted trench coat",
+   "text": "a long belted beige trench coat with the collar turned up over a dark knit and trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "red-wool-coat-scarf",
+   "zh": "红呢大衣围巾",
+   "en": "Red wool coat and scarf",
+   "text": "a tailored red wool coat buttoned up, a thick cream knit scarf and leather gloves",
+   "pose_ref": null
+  },
+  {
+   "id": "fair-isle-sweater",
+   "zh": "费尔岛提花毛衣",
+   "en": "Fair Isle sweater",
+   "text": "a cosy Fair Isle patterned wool sweater, thick socks and dark corduroy trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "cable-knit-fisherman",
+   "zh": "渔夫绞花毛衣",
+   "en": "Fisherman cable knit",
+   "text": "a chunky cream cable-knit fisherman sweater and dark straight trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "1940s-skirt-suit",
+   "zh": "40 年代套裙",
+   "en": "1940s skirt suit",
+   "text": "a 1940s fitted skirt suit with padded shoulders, a knee-length pencil skirt and a silk blouse buttoned to the neck",
+   "pose_ref": null
+  },
+  {
+   "id": "1970s-headscarf-blouse",
+   "zh": "70 年代头巾衬衫",
+   "en": "1970s headscarf look",
+   "text": "a 1970s look: a silk headscarf, a cream long-sleeve blouse and high-waisted flared jeans",
+   "pose_ref": null
+  },
+  {
+   "id": "tennis-whites",
+   "zh": "复古网球白",
+   "en": "Vintage tennis whites",
+   "text": "classic tennis whites: a white cotton polo shirt, a cable-trim V-neck sweater and white pleated trousers or a knee-length pleated skirt",
+   "pose_ref": null
+  },
+  {
+   "id": "velvet-long-gown",
+   "zh": "丝绒长袖礼服",
+   "en": "Velvet gown",
+   "text": "a dark wine velvet floor-length gown with long sleeves and a modest neckline",
+   "pose_ref": null
+  },
+  {
+   "id": "wool-blazer-turtleneck",
+   "zh": "羊毛西装外套高领",
+   "en": "Blazer and turtleneck",
+   "text": "a brown herringbone wool blazer over a cream turtleneck and dark trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "leather-jacket-tee",
+   "zh": "皮夹克白T",
+   "en": "Leather jacket and tee",
+   "text": "a worn black leather jacket over a plain white T-shirt and dark jeans",
+   "pose_ref": null
+  },
+  {
+   "id": "tuxedo-black-tie",
+   "zh": "黑色礼服",
+   "en": "Tuxedo",
+   "text": "a black shawl-collar tuxedo with a white shirt and a black bow tie",
+   "pose_ref": null
+  },
+  {
+   "id": "oversized-womens-suit",
+   "zh": "宽松女士西装",
+   "en": "Oversized women's suit",
+   "text": "an oversized double-breasted grey suit with wide trousers and a fine knit underneath",
+   "pose_ref": null
+  },
+  {
+   "id": "breton-top-trousers",
+   "zh": "条纹海魂衫高腰裤",
+   "en": "Breton top and trousers",
+   "text": "a navy-and-white striped Breton top with high-waisted cream trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "flannel-shirt-jeans",
+   "zh": "格子法兰绒衬衫",
+   "en": "Flannel shirt and jeans",
+   "text": "a red-and-black plaid flannel shirt over a white tee and worn blue jeans",
+   "pose_ref": null
+  },
+  {
+   "id": "flowing-linen-robe",
+   "zh": "飘逸亚麻长袍",
+   "en": "Flowing linen robe",
+   "text": "a long flowing sand-coloured linen kaftan with long sleeves over loose trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "navy-peacoat",
+   "zh": "藏青双排扣大衣",
+   "en": "Navy peacoat",
+   "text": "a navy wool double-breasted peacoat over a grey sweater and dark trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "gingham-dress",
+   "zh": "格纹连衣裙",
+   "en": "Gingham dress",
+   "text": "a blue gingham cotton tea dress with short sleeves and a knee-length skirt",
+   "pose_ref": null
+  },
+  {
+   "id": "shirt-midi-skirt",
+   "zh": "白衬衫半身长裙",
+   "en": "Shirt and midi skirt",
+   "text": "a crisp white button-down shirt tucked into a high-waisted camel midi skirt",
+   "pose_ref": null
+  },
+  {
+   "id": "hoodie-coach-jacket",
+   "zh": "连帽卫衣教练夹克",
+   "en": "Hoodie and coach jacket",
+   "text": "a grey hoodie under a black coach jacket, dark trousers and canvas sneakers",
+   "pose_ref": null
+  },
+  {
+   "id": "corduroy-cardigan-men",
+   "zh": "灯芯绒裤针织开衫",
+   "en": "Cardigan and corduroy",
+   "text": "a moss-green knit cardigan over a white oxford shirt and brown corduroy trousers",
+   "pose_ref": null
+  },
+  {
+   "id": "white-shirt-black-trousers",
+   "zh": "极简白衬衫黑裤",
+   "en": "White shirt, black trousers",
+   "text": "a crisp oversized white cotton shirt buttoned up and black tailored trousers",
+   "pose_ref": null
+  }
+ ],
+ "hair": [
+  {
+   "id": "wind-messy-long",
+   "zh": "长发被风吹乱",
+   "en": "Long hair, wind-tossed",
+   "text": "long hair with airy bangs, blown messy by the wind, strands separated",
+   "pose_ref": null
+  },
+  {
+   "id": "own-hair-fluffier",
+   "zh": "原发型略蓬松",
+   "en": "Own hair, slightly fuller",
+   "text": "keep the person's own hair colour and style, slightly fluffier, a few loose strands and flyaways",
+   "pose_ref": null
+  },
+  {
+   "id": "sea-wind-tousled",
+   "zh": "海风凌乱",
+   "en": "Sea-wind tousled",
+   "text": "hair tousled by the wind, a few strands lifting or stuck to the forehead",
+   "pose_ref": null
+  },
+  {
+   "id": "old-hollywood-waves",
+   "zh": "好莱坞复古大波浪",
+   "en": "Old Hollywood waves",
+   "text": "voluminous glossy waves with soft old-Hollywood movement, a few flyaways",
+   "pose_ref": null
+  },
+  {
+   "id": "sculpted-low-chignon",
+   "zh": "低盘发髻",
+   "en": "Low chignon",
+   "text": "glossy hair in a low sculpted chignon with a few loose strands",
+   "pose_ref": null
+  },
+  {
+   "id": "shoulder-wave-tucked",
+   "zh": "及肩微卷别耳后",
+   "en": "Shoulder-length, tucked",
+   "text": "shoulder-length hair with a slight natural wave and a side part, tucked behind one ear",
+   "pose_ref": null
+  },
+  {
+   "id": "loosely-clipped-up",
+   "zh": "随手夹起",
+   "en": "Loosely clipped up",
+   "text": "hair loosely clipped up at the back with a few strands falling",
+   "pose_ref": null
+  },
+  {
+   "id": "long-loose-natural",
+   "zh": "自然披发",
+   "en": "Long and loose",
+   "text": "long hair worn loose and natural, no polished styling",
+   "pose_ref": null
+  },
+  {
+   "id": "over-one-shoulder",
+   "zh": "长发拨到一侧",
+   "en": "Over one shoulder",
+   "text": "full natural hair with visible strand separation, falling over one shoulder",
+   "pose_ref": null
+  },
+  {
+   "id": "damp-from-rain",
+   "zh": "雨后微湿发",
+   "en": "Damp from rain",
+   "text": "hair slightly damp from rain, a few wet strands clinging to the cheek and forehead",
+   "pose_ref": null
+  },
+  {
+   "id": "vintage-finger-waves",
+   "zh": "40 年代手推波纹",
+   "en": "1940s finger waves",
+   "text": "1940s-style sculpted finger waves and pinned rolls, glossy and neat",
+   "pose_ref": null
+  },
+  {
+   "id": "natural-curls-volume",
+   "zh": "蓬松自然卷",
+   "en": "Natural curls",
+   "text": "natural curly hair with full volume and defined coils, a few curls framing the face",
+   "pose_ref": null
+  },
+  {
+   "id": "sleek-bob",
+   "zh": "利落短波波头",
+   "en": "Sleek bob",
+   "text": "a sleek chin-length bob with a clean line, a few strands moving",
+   "pose_ref": null
+  },
+  {
+   "id": "low-ponytail",
+   "zh": "低马尾",
+   "en": "Low ponytail",
+   "text": "hair pulled back into a soft low ponytail, loose face-framing strands",
+   "pose_ref": null
+  },
+  {
+   "id": "men-short-textured",
+   "zh": "男士短碎发",
+   "en": "Men's short textured",
+   "text": "short textured men's hair, slightly messy on top, natural matte finish",
+   "pose_ref": null
+  },
+  {
+   "id": "men-slicked-back",
+   "zh": "男士背头",
+   "en": "Men's slicked back",
+   "text": "men's hair combed back with a light natural shine, a few strands falling forward",
+   "pose_ref": null
+  },
+  {
+   "id": "men-wavy-medium",
+   "zh": "男士中长微卷",
+   "en": "Men's medium waves",
+   "text": "medium-length wavy men's hair pushed back loosely, touching the collar",
+   "pose_ref": null
+  }
+ ],
+ "makeup": [
+  {
+   "id": "near-bare",
+   "zh": "近乎素颜",
+   "en": "Almost bare",
+   "text": "very light makeup, almost bare-faced, lip balm only",
+   "pose_ref": null
+  },
+  {
+   "id": "peach-lips",
+   "zh": "蜜桃色唇",
+   "en": "Peach lips",
+   "text": "light makeup with soft peach lips and a hint of blush",
+   "pose_ref": null
+  },
+  {
+   "id": "natural-coral",
+   "zh": "珊瑚色唇",
+   "en": "Natural coral",
+   "text": "light makeup with natural coral lips",
+   "pose_ref": null
+  },
+  {
+   "id": "classic-red-glam",
+   "zh": "经典红唇",
+   "en": "Classic red glamour",
+   "text": "polished makeup: classic red lips, softly sculpted brows, defined lashes, a subtle warm flush",
+   "pose_ref": null
+  },
+  {
+   "id": "natural-editorial",
+   "zh": "自然杂志妆",
+   "en": "Natural editorial",
+   "text": "natural brows, lightly defined lashes, lip colour close to natural with a slight sheen; not heavy makeup",
+   "pose_ref": null
+  },
+  {
+   "id": "soft-brown-smoky",
+   "zh": "柔和棕色烟熏",
+   "en": "Soft brown smoky eye",
+   "text": "a soft smudged brown smoky eye, matte skin, nude lips",
+   "pose_ref": null
+  },
+  {
+   "id": "vintage-matte-red",
+   "zh": "复古哑光红唇",
+   "en": "Vintage matte red",
+   "text": "1940s-style matte red lips, powdered skin, defined arched brows",
+   "pose_ref": null
+  },
+  {
+   "id": "winter-flush",
+   "zh": "冻红脸颊",
+   "en": "Winter flush",
+   "text": "minimal makeup, cheeks and nose tip naturally flushed pink from the cold",
+   "pose_ref": null
+  },
+  {
+   "id": "groomed-men",
+   "zh": "男士自然修容",
+   "en": "Groomed, no makeup",
+   "text": "no visible makeup, neatly groomed brows, natural skin",
+   "pose_ref": null
+  }
+ ],
+ "pose": [
+  {
+   "id": "relaxed-lean-back-sit",
+   "zh": "慵懒后仰坐",
+   "en": "Relaxed lean-back sit",
+   "text": "sitting on the ground leaning back on both hands, one knee bent up, the other leg stretched forward, head tipped slightly back",
+   "pose_ref": "relaxed-lean-back-sit",
+   "image": "images/poses/relaxed-lean-back-sit-front.webp",
+   "thumb": "thumbs/poses/relaxed-lean-back-sit.webp"
+  },
+  {
+   "id": "side-lean-on-one-hand",
+   "zh": "侧身撑手坐",
+   "en": "Side lean on one hand",
+   "text": "sitting sideways with weight on one straight arm planted beside the hip, legs folded to the other side",
+   "pose_ref": "side-lean-on-one-hand",
+   "image": "images/poses/side-lean-on-one-hand-front.webp",
+   "thumb": "thumbs/poses/side-lean-on-one-hand.webp"
+  },
+  {
+   "id": "knee-up-hand-to-hair",
+   "zh": "屈膝抚发",
+   "en": "Knee up, hand to hair",
+   "text": "seated with one knee drawn up, one hand lifted into the hair, the other forearm resting on the knee",
+   "pose_ref": "knee-up-hand-to-hair",
+   "image": "images/poses/knee-up-hand-to-hair-front.webp",
+   "thumb": "thumbs/poses/knee-up-hand-to-hair.webp"
+  },
+  {
+   "id": "legs-swept-to-one-side",
+   "zh": "斜伸长腿",
+   "en": "Legs swept to one side",
+   "text": "seated on the ground, both legs extended together and swept to one side, torso upright, hands resting lightly",
+   "pose_ref": "legs-swept-to-one-side",
+   "image": "images/poses/legs-swept-to-one-side-front.webp",
+   "thumb": "thumbs/poses/legs-swept-to-one-side.webp"
+  },
+  {
+   "id": "folded-forward-hand-at-ankle",
+   "zh": "低头抱踝",
+   "en": "Folded forward, hand at ankle",
+   "text": "seated and folding forward over bent legs, head lowered, one hand holding the ankle",
+   "pose_ref": "folded-forward-hand-at-ankle",
+   "image": "images/poses/folded-forward-hand-at-ankle-front.webp",
+   "thumb": "thumbs/poses/folded-forward-hand-at-ankle.webp"
+  },
+  {
+   "id": "chin-on-hand-thinking",
+   "zh": "托腮沉思",
+   "en": "Chin on hand, thinking",
+   "text": "seated, elbow resting on the knee or a table, chin propped on one hand, thoughtful",
+   "pose_ref": "chin-on-hand-thinking",
+   "image": "images/poses/chin-on-hand-thinking-front.webp",
+   "thumb": "thumbs/poses/chin-on-hand-thinking.webp"
+  },
+  {
+   "id": "leaning-back-knees-to-one-side",
+   "zh": "侧身仰坐",
+   "en": "Leaning back, knees to one side",
+   "text": "seated leaning back on one hand, both knees bent and dropped together to one side",
+   "pose_ref": "leaning-back-knees-to-one-side",
+   "image": "images/poses/leaning-back-knees-to-one-side-front.webp",
+   "thumb": "thumbs/poses/leaning-back-knees-to-one-side.webp"
+  },
+  {
+   "id": "knees-drawn-side-sit",
+   "zh": "抱膝侧坐",
+   "en": "Knees drawn, side sit",
+   "text": "sitting side-on with the knees drawn up to the chest, arms wrapped around the shins",
+   "pose_ref": "knees-drawn-side-sit",
+   "image": "images/poses/knees-drawn-side-sit-front.webp",
+   "thumb": "thumbs/poses/knees-drawn-side-sit.webp"
+  },
+  {
+   "id": "side-sit-cheek-in-hand",
+   "zh": "侧坐托腮",
+   "en": "Side sit, cheek in hand",
+   "text": "sitting side-on, elbow propped, cheek resting in the palm, body relaxed",
+   "pose_ref": "side-sit-cheek-in-hand",
+   "image": "images/poses/side-sit-cheek-in-hand-front.webp",
+   "thumb": "thumbs/poses/side-sit-cheek-in-hand.webp"
+  },
+  {
+   "id": "seated-one-arm-raised",
+   "zh": "坐姿扬臂",
+   "en": "Seated, one arm raised",
+   "text": "seated upright, one arm raised overhead, the other hand resting on the lap",
+   "pose_ref": "seated-one-arm-raised",
+   "image": "images/poses/seated-one-arm-raised-front.webp",
+   "thumb": "thumbs/poses/seated-one-arm-raised.webp"
+  },
+  {
+   "id": "cross-legged-hand-at-neck",
+   "zh": "盘坐抚颈",
+   "en": "Cross-legged, hand at neck",
+   "text": "sitting cross-legged, one hand resting at the side of the neck, shoulders relaxed",
+   "pose_ref": "cross-legged-hand-at-neck",
+   "image": "images/poses/cross-legged-hand-at-neck-front.webp",
+   "thumb": "thumbs/poses/cross-legged-hand-at-neck.webp"
+  },
+  {
+   "id": "seated-twist-hand-on-floor",
+   "zh": "撑地回身",
+   "en": "Seated twist, hand on floor",
+   "text": "seated with the torso twisted back, one hand planted on the floor behind, turning to look over the shoulder",
+   "pose_ref": "seated-twist-hand-on-floor",
+   "image": "images/poses/seated-twist-hand-on-floor-front.webp",
+   "thumb": "thumbs/poses/seated-twist-hand-on-floor.webp"
+  },
+  {
+   "id": "half-kneel-hand-on-knee",
+   "zh": "单膝跪",
+   "en": "Half-kneel, hand on knee",
+   "text": "half-kneeling on one knee with the other foot planted forward, one hand resting on the raised knee",
+   "pose_ref": "half-kneel-hand-on-knee",
+   "image": "images/poses/half-kneel-hand-on-knee-front.webp",
+   "thumb": "thumbs/poses/half-kneel-hand-on-knee.webp"
+  },
+  {
+   "id": "kneeling-arms-raised",
+   "zh": "跪姿举臂",
+   "en": "Kneeling, arms raised",
+   "text": "kneeling upright on both knees, both arms raised above the head",
+   "pose_ref": "kneeling-arms-raised",
+   "image": "images/poses/kneeling-arms-raised-front.webp",
+   "thumb": "thumbs/poses/kneeling-arms-raised.webp"
+  },
+  {
+   "id": "kneeling-hand-to-brow",
+   "zh": "跪姿抚额",
+   "en": "Kneeling, hand to brow",
+   "text": "kneeling upright, one hand resting at the brow, head slightly lowered",
+   "pose_ref": "kneeling-hand-to-brow",
+   "image": "images/poses/kneeling-hand-to-brow-front.webp",
+   "thumb": "thumbs/poses/kneeling-hand-to-brow.webp"
+  },
+  {
+   "id": "kneeling-one-arm-up",
+   "zh": "跪姿扬臂",
+   "en": "Kneeling, one arm up",
+   "text": "kneeling upright, one arm reaching up, the other relaxed at the side",
+   "pose_ref": "kneeling-one-arm-up",
+   "image": "images/poses/kneeling-one-arm-up-front.webp",
+   "thumb": "thumbs/poses/kneeling-one-arm-up.webp"
+  },
+  {
+   "id": "quiet-kneel",
+   "zh": "静坐",
+   "en": "Quiet kneel",
+   "text": "kneeling and sitting back on the heels, hands resting on the thighs, calm and still",
+   "pose_ref": "quiet-kneel",
+   "image": "images/poses/quiet-kneel-front.webp",
+   "thumb": "thumbs/poses/quiet-kneel.webp"
+  },
+  {
+   "id": "kneeling-twist",
+   "zh": "跪坐回身",
+   "en": "Kneeling twist",
+   "text": "kneeling and sitting back on the heels, torso twisted to one side, looking back",
+   "pose_ref": "kneeling-twist",
+   "image": "images/poses/kneeling-twist-front.webp",
+   "thumb": "thumbs/poses/kneeling-twist.webp"
+  },
+  {
+   "id": "classic-contrapposto",
+   "zh": "经典站姿",
+   "en": "Classic contrapposto",
+   "text": "standing with weight on one leg, the other knee relaxed, hips and shoulders gently angled, arms loose",
+   "pose_ref": "classic-contrapposto",
+   "image": "images/poses/classic-contrapposto-front.webp",
+   "thumb": "thumbs/poses/classic-contrapposto.webp"
+  },
+  {
+   "id": "both-hands-in-hair",
+   "zh": "双手撩发",
+   "en": "Both hands in hair",
+   "text": "standing, both hands lifted into the hair, elbows out, head slightly tilted",
+   "pose_ref": "both-hands-in-hair",
+   "image": "images/poses/both-hands-in-hair-front.webp",
+   "thumb": "thumbs/poses/both-hands-in-hair.webp"
+  },
+  {
+   "id": "hand-behind-head",
+   "zh": "扶头站",
+   "en": "Hand behind head",
+   "text": "standing, one hand resting behind the head with the elbow up, the other arm relaxed",
+   "pose_ref": "hand-behind-head",
+   "image": "images/poses/hand-behind-head-front.webp",
+   "thumb": "thumbs/poses/hand-behind-head.webp"
+  },
+  {
+   "id": "hand-to-brow-gaze-away",
+   "zh": "抚额远望",
+   "en": "Hand to brow, gaze away",
+   "text": "standing, one hand raised to the brow, looking into the distance",
+   "pose_ref": "hand-to-brow-gaze-away",
+   "image": "images/poses/hand-to-brow-gaze-away-front.webp",
+   "thumb": "thumbs/poses/hand-to-brow-gaze-away.webp"
+  },
+  {
+   "id": "arm-up-hip-out",
+   "zh": "扬臂扭腰",
+   "en": "Arm up, hip out",
+   "text": "standing, one arm raised overhead, weight shifted so one hip sits out to the side",
+   "pose_ref": "arm-up-hip-out",
+   "image": "images/poses/arm-up-hip-out-front.webp",
+   "thumb": "thumbs/poses/arm-up-hip-out.webp"
+  },
+  {
+   "id": "mid-step-hand-to-hair",
+   "zh": "迈步抚发",
+   "en": "Mid-step, hand to hair",
+   "text": "caught mid-step with one foot lifting, one hand tucking hair behind the ear",
+   "pose_ref": "mid-step-hand-to-hair",
+   "image": "images/poses/mid-step-hand-to-hair-front.webp",
+   "thumb": "thumbs/poses/mid-step-hand-to-hair.webp"
+  },
+  {
+   "id": "both-arms-high",
+   "zh": "双臂高举",
+   "en": "Both arms high",
+   "text": "standing, both arms stretched high overhead, weight on one foot",
+   "pose_ref": "both-arms-high",
+   "image": "images/poses/both-arms-high-front.webp",
+   "thumb": "thumbs/poses/both-arms-high.webp"
+  },
+  {
+   "id": "arms-spread-wide",
+   "zh": "双臂舒展",
+   "en": "Arms spread wide",
+   "text": "standing, both arms opened wide to the sides, chest open",
+   "pose_ref": "arms-spread-wide",
+   "image": "images/poses/arms-spread-wide-front.webp",
+   "thumb": "thumbs/poses/arms-spread-wide.webp"
+  },
+  {
+   "id": "playful-forward-lean",
+   "zh": "前倾俏皮",
+   "en": "Playful forward lean",
+   "text": "standing and leaning the upper body forward from the hips toward the camera, hands behind the back or on the knees",
+   "pose_ref": "playful-forward-lean",
+   "image": "images/poses/playful-forward-lean-front.webp",
+   "thumb": "thumbs/poses/playful-forward-lean.webp"
+  },
+  {
+   "id": "reclining-on-one-elbow",
+   "zh": "侧卧倚肘",
+   "en": "Reclining on one elbow",
+   "text": "lying on one side propped up on one elbow, legs stacked and slightly bent",
+   "pose_ref": "reclining-on-one-elbow",
+   "image": "images/poses/reclining-on-one-elbow-front.webp",
+   "thumb": "thumbs/poses/reclining-on-one-elbow.webp"
+  },
+  {
+   "id": "lying-stretched-on-one-side",
+   "zh": "侧卧舒展",
+   "en": "Lying stretched on one side",
+   "text": "lying full length on one side, head resting on the extended lower arm, legs long",
+   "pose_ref": "lying-stretched-on-one-side",
+   "image": "images/poses/lying-stretched-on-one-side-front.webp",
+   "thumb": "thumbs/poses/lying-stretched-on-one-side.webp"
+  },
+  {
+   "id": "crouch-chin-on-hand",
+   "zh": "蹲坐托腮",
+   "en": "Crouch, chin on hand",
+   "text": "crouching low, forearm on the knee, chin resting on one hand",
+   "pose_ref": "crouch-chin-on-hand",
+   "image": "images/poses/crouch-chin-on-hand-front.webp",
+   "thumb": "thumbs/poses/crouch-chin-on-hand.webp"
+  },
+  {
+   "id": "street-style-crouch",
+   "zh": "街拍蹲姿",
+   "en": "Street-style crouch",
+   "text": "a deep street-style crouch, knees apart, forearms resting on the knees, hands loose",
+   "pose_ref": "street-style-crouch",
+   "image": "images/poses/street-style-crouch-front.webp",
+   "thumb": "thumbs/poses/street-style-crouch.webp"
+  },
+  {
+   "id": "finger-to-lips",
+   "zh": "竖指轻嘘",
+   "en": "Finger to lips",
+   "text": "upper body, one finger raised lightly to the lips in a quiet hush",
+   "pose_ref": "finger-to-lips",
+   "image": "images/poses/finger-to-lips-front.webp",
+   "thumb": "thumbs/poses/finger-to-lips.webp"
+  },
+  {
+   "id": "reaching-out",
+   "zh": "伸手邀请",
+   "en": "Reaching out",
+   "text": "upper body, one arm reaching out toward the camera, palm open as if inviting",
+   "pose_ref": "reaching-out",
+   "image": "images/poses/reaching-out-front.webp",
+   "thumb": "thumbs/poses/reaching-out.webp"
+  },
+  {
+   "id": "chin-in-cupped-hands",
+   "zh": "花朵托腮",
+   "en": "Chin in cupped hands",
+   "text": "upper body, chin resting in both cupped hands like a flower",
+   "pose_ref": "chin-in-cupped-hands",
+   "image": "images/poses/chin-in-cupped-hands-front.webp",
+   "thumb": "thumbs/poses/chin-in-cupped-hands.webp"
+  },
+  {
+   "id": "self-embrace",
+   "zh": "交叠环抱",
+   "en": "Self-embrace",
+   "text": "upper body, arms crossed over the body, hands holding the opposite upper arms",
+   "pose_ref": "self-embrace",
+   "image": "images/poses/self-embrace-front.webp",
+   "thumb": "thumbs/poses/self-embrace.webp"
+  },
+  {
+   "id": "hand-to-hair-at-the-ear",
+   "zh": "抚发侧颜",
+   "en": "Hand to hair at the ear",
+   "text": "upper body, head turned three-quarter, one hand tucking hair at the ear",
+   "pose_ref": "hand-to-hair-at-the-ear",
+   "image": "images/poses/hand-to-hair-at-the-ear-front.webp",
+   "thumb": "thumbs/poses/hand-to-hair-at-the-ear.webp"
+  },
+  {
+   "id": "cheeks-in-both-hands",
+   "zh": "双手捧脸",
+   "en": "Cheeks in both hands",
+   "text": "upper body, both palms gently framing the cheeks",
+   "pose_ref": "cheeks-in-both-hands",
+   "image": "images/poses/cheeks-in-both-hands-front.webp",
+   "thumb": "thumbs/poses/cheeks-in-both-hands.webp"
+  },
+  {
+   "id": "shading-eyes-arm-out",
+   "zh": "遮光伸展",
+   "en": "Shading eyes, arm out",
+   "text": "upper body, one hand shading the eyes, the other arm extended out to the side",
+   "pose_ref": "shading-eyes-arm-out",
+   "image": "images/poses/shading-eyes-arm-out-front.webp",
+   "thumb": "thumbs/poses/shading-eyes-arm-out.webp"
+  },
+  {
+   "id": "peeking-through-fingers",
+   "zh": "指缝偷看",
+   "en": "Peeking through fingers",
+   "text": "upper body, one hand spread in front of the face, one eye peeking through the fingers",
+   "pose_ref": "peeking-through-fingers",
+   "image": "images/poses/peeking-through-fingers-front.webp",
+   "thumb": "thumbs/poses/peeking-through-fingers.webp"
+  },
+  {
+   "id": "look-back-over-shoulder",
+   "zh": "过肩回眸",
+   "en": "Look back over shoulder",
+   "text": "back three-quarters to the camera, head turned back over the shoulder",
+   "pose_ref": null,
+   "image": "images/poses-extra/look-back-over-shoulder.webp",
+   "thumb": "thumbs/poses-extra/look-back-over-shoulder.webp"
+  },
+  {
+   "id": "back-turned-stand",
+   "zh": "背影站立",
+   "en": "Back turned",
+   "text": "standing with the back fully to the camera, arms relaxed, weight on one leg",
+   "pose_ref": null,
+   "image": "images/poses-extra/back-turned-stand.webp",
+   "thumb": "thumbs/poses-extra/back-turned-stand.webp"
+  },
+  {
+   "id": "lean-back-wall",
+   "zh": "靠墙站",
+   "en": "Lean back on wall",
+   "text": "leaning the back and shoulders against a wall, one foot crossed over the other, arms relaxed",
+   "pose_ref": null,
+   "image": "images/poses-extra/lean-back-wall.webp",
+   "thumb": "thumbs/poses-extra/lean-back-wall.webp"
+  },
+  {
+   "id": "lean-shoulder-wall",
+   "zh": "侧肩倚墙",
+   "en": "Shoulder against wall",
+   "text": "standing side-on with one shoulder and the side of the head resting against a wall",
+   "pose_ref": null,
+   "image": "images/poses-extra/lean-shoulder-wall.webp",
+   "thumb": "thumbs/poses-extra/lean-shoulder-wall.webp"
+  },
+  {
+   "id": "sit-on-chair",
+   "zh": "端坐椅上",
+   "en": "Sit on a chair",
+   "text": "sitting on a chair turned slightly to one side, back straight, hands resting on the lap",
+   "pose_ref": null,
+   "image": "images/poses-extra/sit-on-chair.webp",
+   "thumb": "thumbs/poses-extra/sit-on-chair.webp"
+  },
+  {
+   "id": "sit-chair-backwards",
+   "zh": "反坐椅子",
+   "en": "Straddle chair backwards",
+   "text": "sitting backwards on a chair, forearms folded on the chair back, chin near the arms",
+   "pose_ref": null,
+   "image": "images/poses-extra/sit-chair-backwards.webp",
+   "thumb": "thumbs/poses-extra/sit-chair-backwards.webp"
+  },
+  {
+   "id": "sit-bed-edge",
+   "zh": "坐床边",
+   "en": "Sit on bed edge",
+   "text": "sitting on the edge of a bed, one leg folded under, the other foot on the floor",
+   "pose_ref": null,
+   "image": "images/poses-extra/sit-bed-edge.webp",
+   "thumb": "thumbs/poses-extra/sit-bed-edge.webp"
+  },
+  {
+   "id": "sit-on-steps",
+   "zh": "坐台阶",
+   "en": "Sit on steps",
+   "text": "sitting on steps leaning forward, elbows on the knees, fingers loosely laced",
+   "pose_ref": null,
+   "image": "images/poses-extra/sit-on-steps.webp",
+   "thumb": "thumbs/poses-extra/sit-on-steps.webp"
+  },
+  {
+   "id": "sit-at-table",
+   "zh": "倚桌而坐",
+   "en": "Seated at a table",
+   "text": "seated at a table, forearms resting on it, shoulders slightly forward",
+   "pose_ref": null,
+   "image": "images/poses-extra/sit-at-table.webp",
+   "thumb": "thumbs/poses-extra/sit-at-table.webp"
+  },
+  {
+   "id": "sit-window-sill",
+   "zh": "坐窗台",
+   "en": "Sit on window sill",
+   "text": "sitting sideways on a deep window sill, knees bent up, back against the frame",
+   "pose_ref": null,
+   "image": "images/poses-extra/sit-window-sill.webp",
+   "thumb": "thumbs/poses-extra/sit-window-sill.webp"
+  },
+  {
+   "id": "sit-floor-against-wall",
+   "zh": "靠墙席地坐",
+   "en": "Sit on floor against wall",
+   "text": "sitting on the floor with the back against a wall, one knee up, one leg straight",
+   "pose_ref": null,
+   "image": "images/poses-extra/sit-floor-against-wall.webp",
+   "thumb": "thumbs/poses-extra/sit-floor-against-wall.webp"
+  },
+  {
+   "id": "walk-toward-camera",
+   "zh": "迎面走来",
+   "en": "Walking toward camera",
+   "text": "walking toward the camera mid-stride, arms swinging naturally",
+   "pose_ref": null,
+   "image": "images/poses-extra/walk-toward-camera.webp",
+   "thumb": "thumbs/poses-extra/walk-toward-camera.webp"
+  },
+  {
+   "id": "walk-away",
+   "zh": "背身走远",
+   "en": "Walking away",
+   "text": "walking away from the camera on a slight diagonal, mid-stride",
+   "pose_ref": null,
+   "image": "images/poses-extra/walk-away.webp",
+   "thumb": "thumbs/poses-extra/walk-away.webp"
+  },
+  {
+   "id": "walk-hand-in-pocket",
+   "zh": "插兜漫步",
+   "en": "Walk, hand in pocket",
+   "text": "strolling mid-stride, one hand in a pocket, the other arm loose",
+   "pose_ref": null,
+   "image": "images/poses-extra/walk-hand-in-pocket.webp",
+   "thumb": "thumbs/poses-extra/walk-hand-in-pocket.webp"
+  },
+  {
+   "id": "lying-on-back",
+   "zh": "平躺仰卧",
+   "en": "Lying on back",
+   "text": "lying on the back, one arm folded behind the head, one knee bent",
+   "pose_ref": null,
+   "image": "images/poses-extra/lying-on-back.webp",
+   "thumb": "thumbs/poses-extra/lying-on-back.webp"
+  },
+  {
+   "id": "hands-in-pockets-stand",
+   "zh": "插兜站",
+   "en": "Hands in pockets",
+   "text": "standing relaxed with both hands in the pockets, shoulders loose",
+   "pose_ref": null,
+   "image": "images/poses-extra/hands-in-pockets-stand.webp",
+   "thumb": "thumbs/poses-extra/hands-in-pockets-stand.webp"
+  },
+  {
+   "id": "arms-crossed-stand",
+   "zh": "抱臂站",
+   "en": "Arms crossed",
+   "text": "standing with the arms loosely crossed over the chest, weight on one leg",
+   "pose_ref": null,
+   "image": "images/poses-extra/arms-crossed-stand.webp",
+   "thumb": "thumbs/poses-extra/arms-crossed-stand.webp"
+  },
+  {
+   "id": "lean-on-railing",
+   "zh": "倚栏杆",
+   "en": "Lean on railing",
+   "text": "leaning both forearms on a railing, upper body tilted forward, looking out",
+   "pose_ref": null,
+   "image": "images/poses-extra/lean-on-railing.webp",
+   "thumb": "thumbs/poses-extra/lean-on-railing.webp"
+  },
+  {
+   "id": "hold-cup-standing",
+   "zh": "捧杯站",
+   "en": "Standing with a cup",
+   "text": "standing, holding a cup at chest height with both hands",
+   "pose_ref": null,
+   "image": "images/poses-extra/hold-cup-standing.webp",
+   "thumb": "thumbs/poses-extra/hold-cup-standing.webp"
+  },
+  {
+   "id": "lean-on-car",
+   "zh": "倚车",
+   "en": "Lean on a car",
+   "text": "leaning back against the side of a car, legs crossed at the ankle, hands resting on the bodywork",
+   "pose_ref": null,
+   "image": "images/poses-extra/lean-on-car.webp",
+   "thumb": "thumbs/poses-extra/lean-on-car.webp"
+  },
+  {
+   "id": "standing-profile",
+   "zh": "侧身站立",
+   "en": "Standing in profile",
+   "text": "standing in pure profile, chin slightly lifted, arms at the sides",
+   "pose_ref": null,
+   "image": "images/poses-extra/standing-profile.webp",
+   "thumb": "thumbs/poses-extra/standing-profile.webp"
+  },
+  {
+   "id": "spin-in-place",
+   "zh": "原地转圈",
+   "en": "Spin",
+   "text": "spinning on the spot, skirt or coat flaring out, arms loose",
+   "pose_ref": null,
+   "image": "images/poses-extra/spin-in-place.webp",
+   "thumb": "thumbs/poses-extra/spin-in-place.webp"
+  },
+  {
+   "id": "stairs-look-back",
+   "zh": "上楼回眸",
+   "en": "Stairs, look back",
+   "text": "climbing stairs and glancing back over the shoulder, one hand on the handrail",
+   "pose_ref": null,
+   "image": "images/poses-extra/stairs-look-back.webp",
+   "thumb": "thumbs/poses-extra/stairs-look-back.webp"
+  }
+ ],
+ "action": [
+  {
+   "id": "tuck-hair-behind-ear",
+   "zh": "别发到耳后",
+   "en": "Tuck hair behind ear",
+   "text": "tucking a strand of hair behind the ear with one hand",
+   "pose_ref": null
+  },
+  {
+   "id": "sweep-hair-back",
+   "zh": "双手拢发",
+   "en": "Sweep hair back",
+   "text": "both hands sweeping the hair back behind the head",
+   "pose_ref": null
+  },
+  {
+   "id": "tie-hair",
+   "zh": "扎头发",
+   "en": "Tie hair",
+   "text": "tying the hair into a loose bun, a hair tie between the fingers",
+   "pose_ref": null
+  },
+  {
+   "id": "read-book",
+   "zh": "读书",
+   "en": "Reading",
+   "text": "an open book on the lap or in the hands, fingers resting on the page",
+   "pose_ref": null
+  },
+  {
+   "id": "turn-page",
+   "zh": "翻书页",
+   "en": "Turn a page",
+   "text": "thumb and finger lifting a page, fingertips on the paper edge, contact visible",
+   "pose_ref": null
+  },
+  {
+   "id": "mug-both-hands",
+   "zh": "双手捧杯",
+   "en": "Mug in both hands",
+   "text": "holding a mug with both hands at chest height, steam rising",
+   "pose_ref": null
+  },
+  {
+   "id": "sip-coffee",
+   "zh": "抿一口咖啡",
+   "en": "Sip coffee",
+   "text": "lifting a cup to the lips for a small sip",
+   "pose_ref": null
+  },
+  {
+   "id": "cuff-over-knuckles",
+   "zh": "袖口盖手",
+   "en": "Sleeves over knuckles",
+   "text": "pulling long knitted sleeves down over the knuckles",
+   "pose_ref": null
+  },
+  {
+   "id": "hand-in-pocket",
+   "zh": "单手插兜",
+   "en": "Hand in pocket",
+   "text": "one hand in a coat or trouser pocket",
+   "pose_ref": null
+  },
+  {
+   "id": "hold-bag-strap",
+   "zh": "握包带",
+   "en": "Hold bag strap",
+   "text": "one hand holding the strap of a shoulder bag",
+   "pose_ref": null
+  },
+  {
+   "id": "hand-on-handrail",
+   "zh": "扶栏杆",
+   "en": "Hand on rail",
+   "text": "one hand resting lightly on a handrail or railing",
+   "pose_ref": null
+  },
+  {
+   "id": "lift-hem",
+   "zh": "提裙摆",
+   "en": "Lift hem",
+   "text": "lifting the hem of the skirt or coat slightly with one hand",
+   "pose_ref": null
+  },
+  {
+   "id": "fingertips-on-wall",
+   "zh": "指尖触墙",
+   "en": "Fingertips on wall",
+   "text": "fingertips lightly touching the wall",
+   "pose_ref": null
+  },
+  {
+   "id": "hold-hat-brim",
+   "zh": "按帽檐",
+   "en": "Hold hat brim",
+   "text": "holding a hat brim against the wind",
+   "pose_ref": null
+  },
+  {
+   "id": "brush-branch",
+   "zh": "指尖拂过枝叶",
+   "en": "Brush branch",
+   "text": "letting the fingers brush along a branch or tall plants",
+   "pose_ref": null
+  },
+  {
+   "id": "pull-curtain",
+   "zh": "拉开窗帘",
+   "en": "Pull curtain",
+   "text": "pulling a curtain open with one hand",
+   "pose_ref": null
+  },
+  {
+   "id": "adjust-collar",
+   "zh": "整理衣领",
+   "en": "Adjust collar",
+   "text": "lightly adjusting a collar or cuff",
+   "pose_ref": null
+  },
+  {
+   "id": "chin-on-hand",
+   "zh": "托腮",
+   "en": "Chin on hand",
+   "text": "chin resting on one hand",
+   "pose_ref": null
+  },
+  {
+   "id": "touch-hair",
+   "zh": "轻触头发",
+   "en": "Touch hair",
+   "text": "gently touching the hair near the temple",
+   "pose_ref": null
+  },
+  {
+   "id": "hands-out-of-frame",
+   "zh": "手不入画",
+   "en": "Hands out of frame",
+   "text": "hands kept out of frame",
+   "pose_ref": null
+  },
+  {
+   "id": "hold-umbrella",
+   "zh": "撑伞",
+   "en": "Hold umbrella",
+   "text": "holding an umbrella with one hand, the shaft resting on the shoulder",
+   "pose_ref": null
+  },
+  {
+   "id": "button-coat",
+   "zh": "扣大衣",
+   "en": "Button coat",
+   "text": "fastening the top button of the coat with both hands",
+   "pose_ref": null
+  },
+  {
+   "id": "scarf-up-to-chin",
+   "zh": "围巾拉到下巴",
+   "en": "Scarf up to chin",
+   "text": "pulling a scarf up over the chin with one gloved hand",
+   "pose_ref": null
+  },
+  {
+   "id": "hold-flowers",
+   "zh": "手捧花束",
+   "en": "Hold flowers",
+   "text": "holding a loose bunch of flowers low at the side or against the chest",
+   "pose_ref": null
+  },
+  {
+   "id": "hold-film-camera",
+   "zh": "端着胶片相机",
+   "en": "Hold film camera",
+   "text": "holding a vintage film camera at chest height, about to raise it",
+   "pose_ref": null
+  },
+  {
+   "id": "fix-earring",
+   "zh": "整理耳环",
+   "en": "Fix earring",
+   "text": "one hand at the earlobe adjusting a small earring",
+   "pose_ref": null
+  },
+  {
+   "id": "stroke-cat",
+   "zh": "摸猫",
+   "en": "Stroke cat",
+   "text": "fingers gently scratching a cat under the chin",
+   "pose_ref": null
+  },
+  {
+   "id": "hold-fabric-in-wind",
+   "zh": "风中握纱",
+   "en": "Fabric in wind",
+   "text": "one hand gripping a long scarf or fabric pulled straight by the wind",
+   "pose_ref": null
+  },
+  {
+   "id": "lift-fabric-to-light",
+   "zh": "举纱迎光",
+   "en": "Lift fabric to light",
+   "text": "lifting a light fabric high so it billows between the subject and the light",
+   "pose_ref": null
+  },
+  {
+   "id": "hand-on-steering-wheel",
+   "zh": "手握方向盘",
+   "en": "Hand on wheel",
+   "text": "one hand resting on the steering wheel, the other arm on the door",
+   "pose_ref": null
+  },
+  {
+   "id": "jacket-over-shoulder",
+   "zh": "外套搭肩",
+   "en": "Jacket over shoulder",
+   "text": "a jacket hooked on one finger and slung over the shoulder",
+   "pose_ref": null
+  },
+  {
+   "id": "write-in-notebook",
+   "zh": "写笔记",
+   "en": "Write in notebook",
+   "text": "writing in a small notebook with a pencil",
+   "pose_ref": null
+  },
+  {
+   "id": "warm-hands-breath",
+   "zh": "呵手取暖",
+   "en": "Warm hands",
+   "text": "cupping both hands near the mouth and breathing warm air into them",
+   "pose_ref": null
+  },
+  {
+   "id": "catch-snowflakes",
+   "zh": "伸手接雪",
+   "en": "Catch snowflakes",
+   "text": "holding out a gloved palm to catch falling snowflakes",
+   "pose_ref": null
+  },
+  {
+   "id": "trail-fingers-water",
+   "zh": "指尖划水",
+   "en": "Fingers in water",
+   "text": "trailing the fingertips in the water",
+   "pose_ref": null
+  },
+  {
+   "id": "hook-fingers-in-fence",
+   "zh": "手指勾栅栏",
+   "en": "Fingers in fence",
+   "text": "fingers hooked through a wire fence or mesh",
+   "pose_ref": null
+  },
+  {
+   "id": "hold-object-up-to-light",
+   "zh": "举物迎光",
+   "en": "Hold object to light",
+   "text": "holding a small object up at eye height toward the light, studying it",
+   "pose_ref": null
+  },
+  {
+   "id": "rest-object-on-shoulder",
+   "zh": "物件搭肩",
+   "en": "Object on shoulder",
+   "text": "resting a held object (racket, bag, jacket) casually on one shoulder",
+   "pose_ref": null
+  },
+  {
+   "id": "pick-book-from-shelf",
+   "zh": "从书架取书",
+   "en": "Take book from shelf",
+   "text": "reaching up to pull a book from a shelf",
+   "pose_ref": null
+  }
+ ],
+ "motion": [
+  {
+   "id": "wind-sweep",
+   "zh": "大风吹拂",
+   "en": "Strong wind",
+   "text": "wind from one side sweeping hair and fabric back in large arcs, slight motion blur at the tips",
+   "pose_ref": null
+  },
+  {
+   "id": "light-breeze",
+   "zh": "微风",
+   "en": "Light breeze",
+   "text": "a light breeze lifting a few strands of hair and the hem of the clothes",
+   "pose_ref": null
+  },
+  {
+   "id": "mid-movement-candid",
+   "zh": "动作进行中",
+   "en": "Caught mid-movement",
+   "text": "caught in the middle of a movement, weight naturally shifted, relaxed and unposed",
+   "pose_ref": null
+  },
+  {
+   "id": "background-motion-blur",
+   "zh": "背景拖影",
+   "en": "Background motion blur",
+   "text": "the subject sharp while passing trains, cars or people streak past in motion blur",
+   "pose_ref": null
+  },
+  {
+   "id": "none-sharp",
+   "zh": "静止清晰",
+   "en": "Still and sharp",
+   "text": "everything still, no motion blur",
+   "pose_ref": null
+  }
+ ],
+ "expression": [
+  {
+   "id": "silhouette-unreadable",
+   "zh": "剪影不辨表情",
+   "en": "Unreadable silhouette",
+   "text": "face in profile or shadow, expression unreadable, only an outline",
+   "pose_ref": null
+  },
+  {
+   "id": "cool-down-at-lens",
+   "zh": "垂眼睨镜",
+   "en": "Cool look down at lens",
+   "text": "looking down at the lens, eyes cool and lazy",
+   "pose_ref": null
+  },
+  {
+   "id": "eyes-closed-basking",
+   "zh": "闭眼晒光",
+   "en": "Eyes closed, basking",
+   "text": "eyes closed, face tilted up, basking in the light",
+   "pose_ref": null
+  },
+  {
+   "id": "eyes-closed-serene",
+   "zh": "闭眼浅笑",
+   "en": "Eyes closed, serene",
+   "text": "eyes closed, a serene small smile",
+   "pose_ref": null
+  },
+  {
+   "id": "through-hair-lips-parted",
+   "zh": "隔发凝视",
+   "en": "Through the hair",
+   "text": "looking at the lens through strands of hair, lips slightly parted",
+   "pose_ref": null
+  },
+  {
+   "id": "half-closed-dreamy",
+   "zh": "半眯出神",
+   "en": "Half-closed, dreamy",
+   "text": "eyes half closed, drifting, like daydreaming",
+   "pose_ref": null
+  },
+  {
+   "id": "squint-into-light",
+   "zh": "迎光眯眼",
+   "en": "Squint into light",
+   "text": "face lifted toward the light, eyes squinting, a faint smile",
+   "pose_ref": null
+  },
+  {
+   "id": "calm-aloof-direct",
+   "zh": "平静直视",
+   "en": "Calm, aloof, direct",
+   "text": "looking straight into the lens, calm and a little distant",
+   "pose_ref": null
+  },
+  {
+   "id": "gaze-out-of-frame",
+   "zh": "看向画外",
+   "en": "Gaze out of frame",
+   "text": "eyes on something outside the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "gaze-just-off-lens",
+   "zh": "视线擦过镜头",
+   "en": "Just off lens",
+   "text": "eyes just to one side of the lens, quiet and a little absent",
+   "pose_ref": null
+  },
+  {
+   "id": "caught-look-back",
+   "zh": "被抓拍的回眸",
+   "en": "Caught look back",
+   "text": "glancing back with a slightly surprised, caught-on-camera look",
+   "pose_ref": null
+  },
+  {
+   "id": "down-at-object",
+   "zh": "低头看手中物",
+   "en": "Down at object",
+   "text": "eyes lowered to the object in the hands, absorbed and quiet",
+   "pose_ref": null
+  },
+  {
+   "id": "down-at-object-smile",
+   "zh": "看着手中物微笑",
+   "en": "Smiling at object",
+   "text": "eyes on the object in the hands, a quiet delighted smile",
+   "pose_ref": null
+  },
+  {
+   "id": "absent-half-lidded",
+   "zh": "慵懒失焦",
+   "en": "Absent, half-lidded",
+   "text": "upper lids relaxed and half lowered, gaze unfocused and off to the side, quietly drowsy",
+   "pose_ref": null
+  },
+  {
+   "id": "knowing-half-smile",
+   "zh": "笃定浅笑",
+   "en": "Knowing half-smile",
+   "text": "confident, a soft knowing half-smile, relaxed eyelids, self-assured warm gaze",
+   "pose_ref": null
+  },
+  {
+   "id": "easy-glance-half-smile",
+   "zh": "随意一瞥",
+   "en": "Easy glance",
+   "text": "a quick glance at the camera with a soft easy half-smile, not staring",
+   "pose_ref": null
+  },
+  {
+   "id": "smile-after-laugh",
+   "zh": "笑后余温",
+   "en": "Smile after a laugh",
+   "text": "a soft natural smile just after laughing, eyes relaxed, warm and unguarded",
+   "pose_ref": null
+  },
+  {
+   "id": "looking-out-window",
+   "zh": "望向窗外",
+   "en": "Looking out the window",
+   "text": "looking out of the window, calm and slightly sleepy",
+   "pose_ref": null
+  },
+  {
+   "id": "lost-in-thought",
+   "zh": "低眉沉思",
+   "en": "Lost in thought",
+   "text": "eyes looking down and to the side, lost in thought",
+   "pose_ref": null
+  },
+  {
+   "id": "looking-up-at-hands",
+   "zh": "抬眼看手",
+   "en": "Looking up at hands",
+   "text": "looking up at what the hands are doing",
+   "pose_ref": null
+  },
+  {
+   "id": "laughing-eyes-closed",
+   "zh": "闭眼大笑",
+   "en": "Laughing, eyes closed",
+   "text": "eyes closed, laughing openly",
+   "pose_ref": null
+  },
+  {
+   "id": "laugh-to-side",
+   "zh": "侧脸大笑",
+   "en": "Laugh to the side",
+   "text": "a natural laugh looking to the side, not posing into the lens",
+   "pose_ref": null
+  },
+  {
+   "id": "eyes-lowered-small-smile",
+   "zh": "垂眸抿笑",
+   "en": "Lowered eyes, small smile",
+   "text": "face turned slightly aside, eyes lowered, small closed-lip smile",
+   "pose_ref": null
+  },
+  {
+   "id": "wonder-up-away",
+   "zh": "仰望出神",
+   "en": "Wonder, up and away",
+   "text": "eyes looking up and away, lips slightly parted in wonder",
+   "pose_ref": null
+  },
+  {
+   "id": "shy-smile-down-aside",
+   "zh": "羞涩低笑",
+   "en": "Shy smile",
+   "text": "eyes down and to the side, a faint shy smile",
+   "pose_ref": null
+  },
+  {
+   "id": "sideways-calm",
+   "zh": "侧目平静",
+   "en": "Sideways calm",
+   "text": "looking sideways, calm",
+   "pose_ref": null
+  },
+  {
+   "id": "past-the-lens-assured",
+   "zh": "从容越过镜头",
+   "en": "Assured past the lens",
+   "text": "calm and self-assured, lips closed, gaze passing just beside the lens",
+   "pose_ref": null
+  },
+  {
+   "id": "serious-direct-editorial",
+   "zh": "冷峻直视",
+   "en": "Serious editorial stare",
+   "text": "a serious, composed editorial look straight into the lens, strong but not hostile",
+   "pose_ref": null
+  },
+  {
+   "id": "soft-smile-to-lens",
+   "zh": "对镜温柔笑",
+   "en": "Soft smile to lens",
+   "text": "a gentle closed-lip smile toward the lens, eyes warm",
+   "pose_ref": null
+  },
+  {
+   "id": "distant-gaze-horizon",
+   "zh": "远眺",
+   "en": "Distant gaze",
+   "text": "gazing far into the distance toward the horizon, still and reflective",
+   "pose_ref": null
+  }
+ ],
+ "gaze_rule": [
+  {
+   "id": "candid-never-at-camera",
+   "zh": "全程不看镜头",
+   "en": "Never at camera",
+   "text": "the subject never looks into the lens (eyes closed, lowered or out of frame); candid, never wide-eyed",
+   "pose_ref": null
+  },
+  {
+   "id": "two-of-nine-glance",
+   "zh": "九张两张看镜",
+   "en": "Two of nine glance",
+   "text": "only 2 of the 9 frames look at the camera, and only as a relaxed glance; never wide-eyed or staring",
+   "pose_ref": null
+  },
+  {
+   "id": "editorial-direct",
+   "zh": "大片直视为主",
+   "en": "Editorial direct",
+   "text": "most frames hold a composed look into the lens, the rest look past it; confident, never wide-eyed or vacant",
+   "pose_ref": null
+  }
+ ],
+ "shot_size": [
+  {
+   "id": "extreme-wide",
+   "zh": "大远景",
+   "en": "Extreme wide",
+   "text": "extreme wide shot, the subject small, about 10-25% of frame height",
+   "pose_ref": null
+  },
+  {
+   "id": "wide",
+   "zh": "远景",
+   "en": "Wide",
+   "text": "wide shot showing the whole place, the figure small-to-medium",
+   "pose_ref": null
+  },
+  {
+   "id": "full-body",
+   "zh": "全身",
+   "en": "Full body",
+   "text": "full body, head to shoes, some space around",
+   "pose_ref": null
+  },
+  {
+   "id": "three-quarter",
+   "zh": "七分身",
+   "en": "Three-quarter",
+   "text": "three-quarter shot from mid-thigh up",
+   "pose_ref": null
+  },
+  {
+   "id": "medium",
+   "zh": "中景",
+   "en": "Medium",
+   "text": "medium shot from the waist up",
+   "pose_ref": null
+  },
+  {
+   "id": "medium-close",
+   "zh": "中近景",
+   "en": "Medium close-up",
+   "text": "medium close-up, chest up",
+   "pose_ref": null
+  },
+  {
+   "id": "close-up",
+   "zh": "近景特写",
+   "en": "Close-up",
+   "text": "close-up, head and shoulders",
+   "pose_ref": null
+  },
+  {
+   "id": "face-close-up",
+   "zh": "面部特写",
+   "en": "Face close-up",
+   "text": "face close-up from forehead to chin",
+   "pose_ref": null
+  },
+  {
+   "id": "tight-face-crop",
+   "zh": "满脸裁切",
+   "en": "Tight face crop",
+   "text": "face filling the frame, forehead and chin partly cropped",
+   "pose_ref": null
+  },
+  {
+   "id": "macro-detail",
+   "zh": "微距细节",
+   "en": "Macro detail",
+   "text": "macro detail of one feature (eye, lips, fingertip) with an extremely shallow focus plane",
+   "pose_ref": null
+  },
+  {
+   "id": "detail-hands",
+   "zh": "手部细节",
+   "en": "Hand detail",
+   "text": "tight detail of the hands and the object they hold",
+   "pose_ref": null
+  }
+ ],
+ "angle": [
+  {
+   "id": "eye-level",
+   "zh": "平视",
+   "en": "Eye level",
+   "text": "camera at eye level",
+   "pose_ref": null
+  },
+  {
+   "id": "ground-up",
+   "zh": "贴地仰拍",
+   "en": "Ground up",
+   "text": "camera almost on the ground looking steeply up, low horizon, sky above the head",
+   "pose_ref": null
+  },
+  {
+   "id": "low-angle",
+   "zh": "低角度仰拍",
+   "en": "Low angle",
+   "text": "low camera looking up from chest height",
+   "pose_ref": null
+  },
+  {
+   "id": "knee-height",
+   "zh": "膝高机位",
+   "en": "Knee height",
+   "text": "camera at knee height, looking slightly up",
+   "pose_ref": null
+  },
+  {
+   "id": "high-angle",
+   "zh": "俯拍",
+   "en": "High angle",
+   "text": "from above at an oblique angle",
+   "pose_ref": null
+  },
+  {
+   "id": "overhead",
+   "zh": "正顶俯拍",
+   "en": "Overhead",
+   "text": "from directly overhead looking straight down",
+   "pose_ref": null
+  },
+  {
+   "id": "side-profile",
+   "zh": "正侧面",
+   "en": "Side profile",
+   "text": "pure side view, profile",
+   "pose_ref": null
+  },
+  {
+   "id": "three-quarter-front",
+   "zh": "四分之三侧",
+   "en": "Three-quarter front",
+   "text": "three-quarter front view, the face turned about 45 degrees",
+   "pose_ref": null
+  },
+  {
+   "id": "from-behind",
+   "zh": "背后",
+   "en": "From behind",
+   "text": "from behind the subject, back to the camera",
+   "pose_ref": null
+  },
+  {
+   "id": "from-behind-shoulder",
+   "zh": "肩后视角",
+   "en": "Behind the shoulder",
+   "text": "three-quarter view from just behind the shoulder",
+   "pose_ref": null
+  },
+  {
+   "id": "over-shoulder-occluded",
+   "zh": "遮挡过肩",
+   "en": "Over-shoulder, occluded",
+   "text": "over-the-shoulder view past a blurred foreground object",
+   "pose_ref": null
+  },
+  {
+   "id": "hidden-candid",
+   "zh": "远处偷拍",
+   "en": "Hidden candid",
+   "text": "from far away, hidden, like a candid long-lens snap",
+   "pose_ref": null
+  }
+ ],
+ "placement": [
+  {
+   "id": "right-third",
+   "zh": "右三分",
+   "en": "Right third",
+   "text": "subject in the right third",
+   "pose_ref": null
+  },
+  {
+   "id": "left-third",
+   "zh": "左三分",
+   "en": "Left third",
+   "text": "subject in the left third",
+   "pose_ref": null
+  },
+  {
+   "id": "off-centre",
+   "zh": "略偏中心",
+   "en": "Off-centre",
+   "text": "subject slightly off-centre",
+   "pose_ref": null
+  },
+  {
+   "id": "centred",
+   "zh": "居中",
+   "en": "Centred",
+   "text": "subject near the centre with natural breathing room",
+   "pose_ref": null
+  },
+  {
+   "id": "diagonal",
+   "zh": "对角线",
+   "en": "Diagonal",
+   "text": "the figure running diagonally across the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "upper-third-small",
+   "zh": "上三分小人",
+   "en": "Small, upper third",
+   "text": "a small figure in the upper third",
+   "pose_ref": null
+  },
+  {
+   "id": "negative-space-side",
+   "zh": "侧边留白",
+   "en": "Negative space",
+   "text": "generous negative space to one side",
+   "pose_ref": null
+  },
+  {
+   "id": "frame-within-frame",
+   "zh": "框中框",
+   "en": "Frame within frame",
+   "text": "subject framed inside a doorway, window or arch",
+   "pose_ref": null
+  }
+ ],
+ "foreground": [
+  {
+   "id": "blurred-passersby",
+   "zh": "前景路人虚影",
+   "en": "Blurred passers-by",
+   "text": "blurred shoulders and heads of strangers in a lower corner",
+   "pose_ref": null
+  },
+  {
+   "id": "flower-bokeh",
+   "zh": "前景花朵虚化",
+   "en": "Flower bokeh",
+   "text": "out-of-focus flowers right in front of the lens as soft creamy bokeh over a quarter of the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "leaf-sprig",
+   "zh": "一枝虚化叶",
+   "en": "Leaf sprig",
+   "text": "a single blurred leaf or sprig at one edge",
+   "pose_ref": null
+  },
+  {
+   "id": "tall-grass",
+   "zh": "贴镜草穗",
+   "en": "Tall grass",
+   "text": "blurred grass stems or wheat ears pressed against the lens, up to half the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "wire-fence",
+   "zh": "铁丝网前景",
+   "en": "Wire fence",
+   "text": "a blurred strip of wire mesh or fence crossing the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "sheer-curtain-fg",
+   "zh": "窗纱前景",
+   "en": "Curtain",
+   "text": "a curtain edge in the foreground, blurred fabric framing the subject",
+   "pose_ref": null
+  },
+  {
+   "id": "flying-fabric",
+   "zh": "飞扬的布料",
+   "en": "Flying fabric",
+   "text": "a flying scarf or fabric blurred across part of the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "tabletop-object",
+   "zh": "桌面物件虚化",
+   "en": "Tabletop object",
+   "text": "a blurred cup, glass or vase on a table edge in the near foreground",
+   "pose_ref": null
+  },
+  {
+   "id": "rain-on-glass",
+   "zh": "玻璃雨滴",
+   "en": "Rain on glass",
+   "text": "shooting through a rain-speckled window, droplets in soft focus",
+   "pose_ref": null
+  },
+  {
+   "id": "bookshelf-edge",
+   "zh": "书架边缘",
+   "en": "Bookshelf edge",
+   "text": "the blurred spines of books at one edge of the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "door-frame-edge",
+   "zh": "门框边",
+   "en": "Door frame",
+   "text": "a dark blurred door frame or pillar edge at one side",
+   "pose_ref": null
+  },
+  {
+   "id": "string-lights-bokeh",
+   "zh": "灯串光斑",
+   "en": "String-light bokeh",
+   "text": "small warm lights very close to the lens as round bokeh",
+   "pose_ref": null
+  },
+  {
+   "id": "snowflakes-near-lens",
+   "zh": "近镜雪花",
+   "en": "Snowflakes",
+   "text": "large out-of-focus snowflakes drifting close to the lens",
+   "pose_ref": null
+  },
+  {
+   "id": "steam-wisps",
+   "zh": "热气",
+   "en": "Steam",
+   "text": "wisps of steam from a hot drink crossing the frame",
+   "pose_ref": null
+  },
+  {
+   "id": "plant-leaves",
+   "zh": "大叶植物",
+   "en": "Large leaves",
+   "text": "large blurred tropical leaves overlapping the frame edge",
+   "pose_ref": null
+  },
+  {
+   "id": "car-window-frame",
+   "zh": "车窗框",
+   "en": "Car window",
+   "text": "the blurred edge of a car window and door frame",
+   "pose_ref": null
+  }
+ ],
+ "camera": [
+  {
+   "id": "20mm-ground",
+   "zh": "20mm 超广贴地",
+   "en": "20mm ground level",
+   "text": "20mm ultra-wide, very low ground position, strong upward perspective",
+   "pose_ref": null
+  },
+  {
+   "id": "24mm-f4",
+   "zh": "24mm f/4",
+   "en": "24mm f/4",
+   "text": "24mm, f/4, environmental wide view",
+   "pose_ref": null
+  },
+  {
+   "id": "28mm-overhead",
+   "zh": "28mm 顶拍",
+   "en": "28mm overhead",
+   "text": "28mm held straight overhead",
+   "pose_ref": null
+  },
+  {
+   "id": "35mm-candid",
+   "zh": "35mm 手持抓拍",
+   "en": "35mm candid",
+   "text": "35mm, close, handheld candid",
+   "pose_ref": null
+  },
+  {
+   "id": "35mm-f2.8",
+   "zh": "35mm f/2.8",
+   "en": "35mm f/2.8",
+   "text": "35mm, f/2.8",
+   "pose_ref": null
+  },
+  {
+   "id": "50mm-f2",
+   "zh": "50mm f/2",
+   "en": "50mm f/2",
+   "text": "50mm, f/2, focus on the eyes",
+   "pose_ref": null
+  },
+  {
+   "id": "50mm-f1.4-night",
+   "zh": "50mm f/1.4 夜拍",
+   "en": "50mm f/1.4 night",
+   "text": "50mm at f/1.4, wide open in low light, focus on the near eye, creamy bokeh",
+   "pose_ref": null
+  },
+  {
+   "id": "85mm-f1.8-eye",
+   "zh": "85mm f/1.8 对焦近眼",
+   "en": "85mm f/1.8",
+   "text": "85mm, f/1.8, focus on the nearer eye, pores visible",
+   "pose_ref": null
+  },
+  {
+   "id": "85mm-f1.6-glam",
+   "zh": "85mm f/1.6 奶油虚化",
+   "en": "85mm f/1.6",
+   "text": "85mm prime at f/1.6, background melting, focus on the eyes",
+   "pose_ref": null
+  },
+  {
+   "id": "85mm-f5.6-studio",
+   "zh": "85mm f/5.6 棚拍",
+   "en": "85mm f/5.6 studio",
+   "text": "85mm portrait lens, f/5.6, sharp from nose to ear, studio clarity",
+   "pose_ref": null
+  },
+  {
+   "id": "100mm-macro",
+   "zh": "100mm 微距",
+   "en": "100mm macro",
+   "text": "100mm macro, extremely shallow depth of field",
+   "pose_ref": null
+  },
+  {
+   "id": "135mm-f2.8",
+   "zh": "135mm 长焦压缩",
+   "en": "135mm compression",
+   "text": "135mm, f/2.8, telephoto compression",
+   "pose_ref": null
+  },
+  {
+   "id": "200mm-hidden",
+   "zh": "200mm 远摄偷拍",
+   "en": "200mm hidden",
+   "text": "200mm telephoto, f/2.8, from far away, focus on the person",
+   "pose_ref": null
+  },
+  {
+   "id": "compact-camera",
+   "zh": "卡片机",
+   "en": "Compact camera",
+   "text": "a compact point-and-shoot camera, slightly wide, everything fairly sharp",
+   "pose_ref": null
+  },
+  {
+   "id": "medium-format-80mm",
+   "zh": "中画幅 80mm",
+   "en": "Medium format 80mm",
+   "text": "medium-format camera with an 80mm lens, f/2.8, gentle depth falloff",
+   "pose_ref": null
+  },
+  {
+   "id": "slow-shutter-handheld",
+   "zh": "慢门手持",
+   "en": "Slow shutter handheld",
+   "text": "35mm at 1/15 s handheld, the subject mostly sharp, lights and movement slightly smeared",
+   "pose_ref": null
+  }
+ ],
+ "props": [
+  {
+   "id": "sheer-scarf",
+   "zh": "长纱巾",
+   "en": "Long scarf",
+   "text": "a long lightweight opaque chiffon scarf",
+   "pose_ref": null
+  },
+  {
+   "id": "old-book",
+   "zh": "旧书",
+   "en": "Old book",
+   "text": "an open worn old book",
+   "pose_ref": null
+  },
+  {
+   "id": "book-stack",
+   "zh": "一摞书",
+   "en": "Stack of books",
+   "text": "a stack of old cloth-bound books",
+   "pose_ref": null
+  },
+  {
+   "id": "white-mug",
+   "zh": "白色马克杯",
+   "en": "White mug",
+   "text": "a matte white ceramic mug",
+   "pose_ref": null
+  },
+  {
+   "id": "coffee-cup-saucer",
+   "zh": "咖啡杯碟",
+   "en": "Coffee cup and saucer",
+   "text": "a small coffee cup on a saucer with a croissant on a plate",
+   "pose_ref": null
+  },
+  {
+   "id": "black-umbrella",
+   "zh": "黑伞",
+   "en": "Black umbrella",
+   "text": "a large black umbrella beaded with rain",
+   "pose_ref": null
+  },
+  {
+   "id": "straw-hat",
+   "zh": "草帽",
+   "en": "Straw hat",
+   "text": "a straw sun hat with a cream ribbon",
+   "pose_ref": null
+  },
+  {
+   "id": "wildflower-bunch",
+   "zh": "野花束",
+   "en": "Wildflower bunch",
+   "text": "a loose bunch of wildflowers tied with string",
+   "pose_ref": null
+  },
+  {
+   "id": "drifting-petals",
+   "zh": "飘落花瓣",
+   "en": "Drifting petals",
+   "text": "a few drifting or falling petals",
+   "pose_ref": null
+  },
+  {
+   "id": "falling-leaves",
+   "zh": "飘落树叶",
+   "en": "Falling leaves",
+   "text": "a few golden leaves drifting down",
+   "pose_ref": null
+  },
+  {
+   "id": "falling-snow",
+   "zh": "飘雪",
+   "en": "Falling snow",
+   "text": "soft snow falling gently",
+   "pose_ref": null
+  },
+  {
+   "id": "black-cat",
+   "zh": "黑猫",
+   "en": "Black cat",
+   "text": "a black short-haired cat with gold-green eyes, natural and unposed",
+   "pose_ref": null
+  },
+  {
+   "id": "film-camera",
+   "zh": "胶片相机",
+   "en": "Film camera",
+   "text": "a vintage 35mm film camera with a leather strap",
+   "pose_ref": null
+  },
+  {
+   "id": "leather-suitcase",
+   "zh": "旧皮箱",
+   "en": "Leather suitcase",
+   "text": "a worn brown leather suitcase",
+   "pose_ref": null
+  },
+  {
+   "id": "vintage-convertible",
+   "zh": "复古敞篷车",
+   "en": "Vintage convertible",
+   "text": "a pale vintage convertible car with chrome details",
+   "pose_ref": null
+  },
+  {
+   "id": "tennis-racket",
+   "zh": "木网球拍",
+   "en": "Wooden racket",
+   "text": "a wooden tennis racket and a few worn tennis balls",
+   "pose_ref": null
+  },
+  {
+   "id": "wool-blanket",
+   "zh": "羊毛毯",
+   "en": "Wool blanket",
+   "text": "a thick checked wool blanket",
+   "pose_ref": null
+  },
+  {
+   "id": "candelabra",
+   "zh": "烛台",
+   "en": "Candelabra",
+   "text": "tall lit candles in iron candelabras",
+   "pose_ref": null
+  },
+  {
+   "id": "newspaper",
+   "zh": "报纸",
+   "en": "Newspaper",
+   "text": "a folded newspaper, print too small to read",
+   "pose_ref": null
+  },
+  {
+   "id": "milkshake-glass",
+   "zh": "奶昔杯",
+   "en": "Milkshake",
+   "text": "a tall glass milkshake with a striped straw",
+   "pose_ref": null
+  },
+  {
+   "id": "watering-can",
+   "zh": "浇水壶",
+   "en": "Watering can",
+   "text": "an old galvanised watering can",
+   "pose_ref": null
+  },
+  {
+   "id": "bicycle",
+   "zh": "老式自行车",
+   "en": "Vintage bicycle",
+   "text": "an old city bicycle with a front basket",
+   "pose_ref": null
+  },
+  {
+   "id": "rotary-phone",
+   "zh": "转盘电话",
+   "en": "Rotary phone",
+   "text": "a black rotary telephone",
+   "pose_ref": null
+  },
+  {
+   "id": "reading-lamp",
+   "zh": "台灯",
+   "en": "Reading lamp",
+   "text": "a small brass reading lamp, switched on",
+   "pose_ref": null
+  },
+  {
+   "id": "wicker-basket",
+   "zh": "藤编篮",
+   "en": "Wicker basket",
+   "text": "a woven wicker basket",
+   "pose_ref": null
+  },
+  {
+   "id": "fedora-hat",
+   "zh": "礼帽",
+   "en": "Fedora",
+   "text": "a felt fedora hat",
+   "pose_ref": null
+  },
+  {
+   "id": "potted-plants",
+   "zh": "盆栽",
+   "en": "Potted plants",
+   "text": "terracotta pots of ferns and trailing plants",
+   "pose_ref": null
+  }
+ ],
+ "negative": [
+  {
+   "id": "no-reflection",
+   "zh": "无镜面反射",
+   "en": "No reflections",
+   "text": "no mirrors, glass or reflections of the subject",
+   "pose_ref": null
+  },
+  {
+   "id": "no-text",
+   "zh": "无文字水印",
+   "en": "No text",
+   "text": "no text, readable signs, watermark, logo or border",
+   "pose_ref": null
+  },
+  {
+   "id": "hands-ok",
+   "zh": "手部正常",
+   "en": "Correct hands",
+   "text": "no extra, fused or malformed fingers, no distorted limbs",
+   "pose_ref": null
+  },
+  {
+   "id": "modest",
+   "zh": "得体不暴露",
+   "en": "Modest",
+   "text": "modest, opaque clothing, nothing revealing or suggestive, adults only",
+   "pose_ref": null
+  },
+  {
+   "id": "anti-plastic",
+   "zh": "拒绝塑料皮",
+   "en": "No plastic skin",
+   "text": "no plastic or airbrushed skin, no perfectly symmetrical influencer face, no enlarged eyes",
+   "pose_ref": null
+  },
+  {
+   "id": "anti-studio-pose",
+   "zh": "拒绝摆拍感",
+   "en": "No stiff posing",
+   "text": "no stiff front-facing studio pose, no centred static framing",
+   "pose_ref": null
+  },
+  {
+   "id": "anti-flat-light",
+   "zh": "拒绝平光",
+   "en": "No flat light",
+   "text": "no soft even fill, no reflector, no flat studio light",
+   "pose_ref": null
+  },
+  {
+   "id": "anti-oversat",
+   "zh": "拒绝过饱和",
+   "en": "No oversaturation",
+   "text": "no oversaturated, neon-boosted or HDR colours",
+   "pose_ref": null
+  },
+  {
+   "id": "no-glasses",
+   "zh": "不戴眼镜",
+   "en": "No glasses",
+   "text": "no glasses on the face",
+   "pose_ref": null
+  },
+  {
+   "id": "anti-ai-illustration",
+   "zh": "拒绝插画/CG 感",
+   "en": "No CGI look",
+   "text": "no AI-illustration, CGI or 3D-render look",
+   "pose_ref": null
+  },
+  {
+   "id": "no-clipping",
+   "zh": "无穿模",
+   "en": "No clipping",
+   "text": "no fabric clipping through the body, no hand-prop interpenetration",
+   "pose_ref": null
+  },
+  {
+   "id": "no-extra-people",
+   "zh": "无多余人物",
+   "en": "No extra people in focus",
+   "text": "no other people in focus; bystanders only as blurred shapes",
+   "pose_ref": null
+  },
+  {
+   "id": "no-colour-tint",
+   "zh": "纯黑白无偏色",
+   "en": "Pure monochrome",
+   "text": "pure black and white, no colour tint or split toning",
+   "pose_ref": null
+  },
+  {
+   "id": "no-modern-objects",
+   "zh": "无现代物件",
+   "en": "No modern objects",
+   "text": "no smartphones, modern cars or modern logos in frame",
+   "pose_ref": null
+  },
+  {
+   "id": "no-harsh-flash-red-eye",
+   "zh": "无红眼",
+   "en": "No red-eye",
+   "text": "no red-eye, no blown-out white face from the flash",
+   "pose_ref": null
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+图片与数据协议 / Content licence
+
+images/、thumbs/ 下的图片和 data/ 下的数据由 Promicat 按
+Creative Commons Attribution 4.0 International（CC BY 4.0）授权：
+https://creativecommons.org/licenses/by/4.0/
+
+你可以复制、分发、修改，也可以商用，条件是注明来源：
+「来自 Promicat（https://promicat.app）」，并说明是否做过修改。
+
+来源说明：
+- images/poses/ 里的白模姿势图大部分来自 Shisei（https://github.com/wquguru/shisei，
+  v0.4.1）的 CC0 1.0 素材，名称和挑选由 Promicat 完成；部分机位由 Promicat 重绘。
+  Shisei 原图本身是 CC0，不受上面署名条件约束。
+- 示例写真、光影、场景和 Promi 图片由 Promicat 用 AI 生成，画面中的人物均为虚构。
+- data/recipes.json 里的图片链接指向 promicat.app 上的配方样片，按 promicat.app 的条款使用。

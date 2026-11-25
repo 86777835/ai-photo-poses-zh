@@ -1,0 +1,2969 @@
+[
+ {
+  "id": "relaxed-lean-back-sit",
+  "name": {
+   "en": "Relaxed lean-back sit",
+   "zh": "慵懒后仰坐"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/relaxed-lean-back-sit-front.webp",
+   "diag": "images/poses/relaxed-lean-back-sit-diag.webp",
+   "side": "images/poses/relaxed-lean-back-sit-side.webp",
+   "above": "images/poses/relaxed-lean-back-sit-above.webp",
+   "below": "images/poses/relaxed-lean-back-sit-below.webp"
+  },
+  "thumb": "thumbs/poses/relaxed-lean-back-sit.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -20,
+     0,
+     0
+    ],
+    "spine": [
+     5,
+     0,
+     0
+    ],
+    "chest": [
+     5,
+     0,
+     0
+    ],
+    "neck": [
+     -20,
+     0,
+     -15
+    ],
+    "head": [
+     -15,
+     0,
+     -10
+    ],
+    "lShoulder": [
+     20,
+     -21,
+     10
+    ],
+    "rShoulder": [
+     20,
+     21,
+     -10
+    ],
+    "lHip": [
+     -121,
+     9,
+     -2
+    ],
+    "lKnee": [
+     103,
+     0,
+     0
+    ],
+    "rHip": [
+     -65,
+     26,
+     -17
+    ],
+    "rKnee": [
+     6,
+     0,
+     0
+    ],
+    "rAnkle": [
+     35,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/relaxed-lean-back-sit?ref=github"
+ },
+ {
+  "id": "side-lean-on-one-hand",
+  "name": {
+   "en": "Side lean on one hand",
+   "zh": "侧身撑手坐"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/side-lean-on-one-hand-front.webp",
+   "diag": "images/poses/side-lean-on-one-hand-diag.webp",
+   "side": "images/poses/side-lean-on-one-hand-side.webp",
+   "above": "images/poses/side-lean-on-one-hand-above.webp",
+   "below": "images/poses/side-lean-on-one-hand-below.webp"
+  },
+  "thumb": "thumbs/poses/side-lean-on-one-hand.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     9,
+     -25
+    ],
+    "spine": [
+     12,
+     -39,
+     27
+    ],
+    "chest": [
+     8,
+     31,
+     8
+    ],
+    "neck": [
+     0,
+     0,
+     -12
+    ],
+    "lShoulder": [
+     -52,
+     90,
+     7
+    ],
+    "rShoulder": [
+     26,
+     27,
+     -47
+    ],
+    "rElbow": [
+     -29,
+     0,
+     0
+    ],
+    "lHip": [
+     -130,
+     50,
+     26
+    ],
+    "lKnee": [
+     136,
+     0,
+     0
+    ],
+    "lAnkle": [
+     50,
+     0,
+     0
+    ],
+    "rHip": [
+     -108,
+     10,
+     30
+    ],
+    "rKnee": [
+     150,
+     0,
+     0
+    ],
+    "rAnkle": [
+     50,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/side-lean-on-one-hand?ref=github"
+ },
+ {
+  "id": "knee-up-hand-to-hair",
+  "name": {
+   "en": "Knee up, hand to hair",
+   "zh": "屈膝抚发"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/knee-up-hand-to-hair-front.webp",
+   "diag": "images/poses/knee-up-hand-to-hair-diag.webp",
+   "side": "images/poses/knee-up-hand-to-hair-side.webp",
+   "below": "images/poses/knee-up-hand-to-hair-below.webp"
+  },
+  "thumb": "thumbs/poses/knee-up-hand-to-hair.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -20,
+     3,
+     -11
+    ],
+    "spine": [
+     3,
+     20,
+     5
+    ],
+    "chest": [
+     24,
+     -18,
+     18
+    ],
+    "neck": [
+     10,
+     0,
+     12
+    ],
+    "head": [
+     5,
+     0,
+     5
+    ],
+    "lShoulder": [
+     22,
+     -1,
+     -3
+    ],
+    "lElbow": [
+     -48,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -100,
+     18,
+     5
+    ],
+    "rElbow": [
+     -114,
+     0,
+     0
+    ],
+    "lHip": [
+     -89,
+     -43,
+     -29
+    ],
+    "lAnkle": [
+     50,
+     0,
+     0
+    ],
+    "rHip": [
+     -127,
+     -17,
+     -7
+    ],
+    "rKnee": [
+     107,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/knee-up-hand-to-hair?ref=github"
+ },
+ {
+  "id": "legs-swept-to-one-side",
+  "name": {
+   "en": "Legs swept to one side",
+   "zh": "斜伸长腿"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/legs-swept-to-one-side-front.webp",
+   "diag": "images/poses/legs-swept-to-one-side-diag.webp",
+   "side": "images/poses/legs-swept-to-one-side-side.webp",
+   "above": "images/poses/legs-swept-to-one-side-above.webp"
+  },
+  "thumb": "thumbs/poses/legs-swept-to-one-side.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     0,
+     14
+    ],
+    "spine": [
+     0,
+     0,
+     -11
+    ],
+    "chest": [
+     0,
+     1,
+     -10
+    ],
+    "neck": [
+     0,
+     0,
+     8
+    ],
+    "lShoulder": [
+     0,
+     0,
+     16
+    ],
+    "rShoulder": [
+     60,
+     52,
+     -47
+    ],
+    "rElbow": [
+     -97,
+     0,
+     0
+    ],
+    "lHip": [
+     -85,
+     0,
+     -28
+    ],
+    "lKnee": [
+     8,
+     0,
+     0
+    ],
+    "lAnkle": [
+     40,
+     0,
+     0
+    ],
+    "rHip": [
+     -85,
+     0,
+     -38
+    ],
+    "rKnee": [
+     8,
+     0,
+     0
+    ],
+    "rAnkle": [
+     40,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/legs-swept-to-one-side?ref=github"
+ },
+ {
+  "id": "folded-forward-hand-at-ankle",
+  "name": {
+   "en": "Folded forward, hand at ankle",
+   "zh": "低头抱踝"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/folded-forward-hand-at-ankle-front.webp",
+   "diag": "images/poses/folded-forward-hand-at-ankle-diag.webp",
+   "side": "images/poses/folded-forward-hand-at-ankle-side.webp",
+   "above": "images/poses/folded-forward-hand-at-ankle-above.webp"
+  },
+  "thumb": "thumbs/poses/folded-forward-hand-at-ankle.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "spine": [
+     30,
+     0,
+     0
+    ],
+    "chest": [
+     20,
+     0,
+     0
+    ],
+    "neck": [
+     20,
+     0,
+     0
+    ],
+    "head": [
+     10,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -65,
+     -18,
+     -10
+    ],
+    "lElbow": [
+     -66,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -82,
+     15,
+     10
+    ],
+    "rElbow": [
+     -36,
+     0,
+     0
+    ],
+    "lHip": [
+     -110,
+     0,
+     4
+    ],
+    "lKnee": [
+     45,
+     0,
+     0
+    ],
+    "lAnkle": [
+     25,
+     0,
+     0
+    ],
+    "rHip": [
+     -110,
+     0,
+     -4
+    ],
+    "rKnee": [
+     45,
+     0,
+     0
+    ],
+    "rAnkle": [
+     25,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/folded-forward-hand-at-ankle?ref=github"
+ },
+ {
+  "id": "chin-on-hand-thinking",
+  "name": {
+   "en": "Chin on hand, thinking",
+   "zh": "托腮沉思"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/chin-on-hand-thinking-front.webp",
+   "diag": "images/poses/chin-on-hand-thinking-diag.webp",
+   "side": "images/poses/chin-on-hand-thinking-side.webp",
+   "above": "images/poses/chin-on-hand-thinking-above.webp"
+  },
+  "thumb": "thumbs/poses/chin-on-hand-thinking.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -36,
+     -11,
+     5
+    ],
+    "spine": [
+     30,
+     -10,
+     -15
+    ],
+    "chest": [
+     35,
+     20,
+     -5
+    ],
+    "neck": [
+     -10,
+     0,
+     -20
+    ],
+    "head": [
+     0,
+     0,
+     -15
+    ],
+    "lShoulder": [
+     -87,
+     -32,
+     4
+    ],
+    "lElbow": [
+     -150,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -64,
+     -21,
+     26
+    ],
+    "rElbow": [
+     -11,
+     0,
+     0
+    ],
+    "lHip": [
+     -114,
+     -3,
+     29
+    ],
+    "lKnee": [
+     121,
+     0,
+     0
+    ],
+    "rHip": [
+     -130,
+     -50,
+     -68
+    ],
+    "rKnee": [
+     120,
+     0,
+     0
+    ],
+    "rAnkle": [
+     30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/chin-on-hand-thinking?ref=github"
+ },
+ {
+  "id": "leaning-back-knees-to-one-side",
+  "name": {
+   "en": "Leaning back, knees to one side",
+   "zh": "侧身仰坐"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/leaning-back-knees-to-one-side-front.webp",
+   "diag": "images/poses/leaning-back-knees-to-one-side-diag.webp",
+   "side": "images/poses/leaning-back-knees-to-one-side-side.webp",
+   "below": "images/poses/leaning-back-knees-to-one-side-below.webp"
+  },
+  "thumb": "thumbs/poses/leaning-back-knees-to-one-side.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -15,
+     0,
+     0
+    ],
+    "spine": [
+     5,
+     0,
+     0
+    ],
+    "chest": [
+     5,
+     0,
+     0
+    ],
+    "neck": [
+     5,
+     0,
+     0
+    ],
+    "lShoulder": [
+     55,
+     -53,
+     26
+    ],
+    "lElbow": [
+     -31,
+     0,
+     0
+    ],
+    "rShoulder": [
+     55,
+     53,
+     -26
+    ],
+    "rElbow": [
+     -31,
+     0,
+     0
+    ],
+    "lHip": [
+     -127,
+     3,
+     0
+    ],
+    "lKnee": [
+     103,
+     0,
+     0
+    ],
+    "rHip": [
+     -126,
+     2,
+     12
+    ],
+    "rKnee": [
+     101,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/leaning-back-knees-to-one-side?ref=github"
+ },
+ {
+  "id": "knees-drawn-side-sit",
+  "name": {
+   "en": "Knees drawn, side sit",
+   "zh": "抱膝侧坐"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/knees-drawn-side-sit-front.webp",
+   "diag": "images/poses/knees-drawn-side-sit-diag.webp",
+   "side": "images/poses/knees-drawn-side-sit-side.webp",
+   "above": "images/poses/knees-drawn-side-sit-above.webp",
+   "below": "images/poses/knees-drawn-side-sit-below.webp"
+  },
+  "thumb": "thumbs/poses/knees-drawn-side-sit.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "spine": [
+     8,
+     0,
+     12
+    ],
+    "chest": [
+     3,
+     0,
+     8
+    ],
+    "neck": [
+     5,
+     0,
+     -12
+    ],
+    "lShoulder": [
+     -7,
+     6,
+     -7
+    ],
+    "lElbow": [
+     -104,
+     0,
+     0
+    ],
+    "rShoulder": [
+     27,
+     -13,
+     -30
+    ],
+    "rElbow": [
+     -72,
+     0,
+     0
+    ],
+    "lHip": [
+     -130,
+     -22,
+     15
+    ],
+    "lKnee": [
+     93,
+     0,
+     0
+    ],
+    "lAnkle": [
+     20,
+     0,
+     0
+    ],
+    "rHip": [
+     -130,
+     -23,
+     26
+    ],
+    "rKnee": [
+     90,
+     0,
+     0
+    ],
+    "rAnkle": [
+     20,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/knees-drawn-side-sit?ref=github"
+ },
+ {
+  "id": "side-sit-cheek-in-hand",
+  "name": {
+   "en": "Side sit, cheek in hand",
+   "zh": "侧坐托腮"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/side-sit-cheek-in-hand-front.webp",
+   "diag": "images/poses/side-sit-cheek-in-hand-diag.webp",
+   "side": "images/poses/side-sit-cheek-in-hand-side.webp",
+   "above": "images/poses/side-sit-cheek-in-hand-above.webp",
+   "below": "images/poses/side-sit-cheek-in-hand-below.webp"
+  },
+  "thumb": "thumbs/poses/side-sit-cheek-in-hand.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -21,
+     -13,
+     21
+    ],
+    "spine": [
+     20,
+     -32,
+     -11
+    ],
+    "chest": [
+     1,
+     35,
+     -20
+    ],
+    "neck": [
+     -10,
+     0,
+     -15
+    ],
+    "head": [
+     -10,
+     0,
+     -10
+    ],
+    "lShoulder": [
+     -68,
+     -40,
+     13
+    ],
+    "lElbow": [
+     -148,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -80,
+     -85,
+     -62
+    ],
+    "rElbow": [
+     -5,
+     0,
+     0
+    ],
+    "lHip": [
+     -127,
+     17,
+     28
+    ],
+    "lKnee": [
+     116,
+     0,
+     0
+    ],
+    "rHip": [
+     -130,
+     -47,
+     -46
+    ],
+    "rKnee": [
+     122,
+     0,
+     0
+    ],
+    "rAnkle": [
+     30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/side-sit-cheek-in-hand?ref=github"
+ },
+ {
+  "id": "seated-one-arm-raised",
+  "name": {
+   "en": "Seated, one arm raised",
+   "zh": "坐姿扬臂"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/seated-one-arm-raised-front.webp",
+   "diag": "images/poses/seated-one-arm-raised-diag.webp",
+   "side": "images/poses/seated-one-arm-raised-side.webp",
+   "above": "images/poses/seated-one-arm-raised-above.webp",
+   "below": "images/poses/seated-one-arm-raised-below.webp"
+  },
+  "thumb": "thumbs/poses/seated-one-arm-raised.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -21,
+     -16,
+     30
+    ],
+    "spine": [
+     20,
+     -32,
+     -11
+    ],
+    "chest": [
+     1,
+     35,
+     -20
+    ],
+    "neck": [
+     0,
+     0,
+     -5
+    ],
+    "lShoulder": [
+     -164,
+     -12,
+     13
+    ],
+    "lElbow": [
+     -9,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -139,
+     -79,
+     -122
+    ],
+    "rElbow": [
+     -17,
+     0,
+     0
+    ],
+    "lHip": [
+     -106,
+     5,
+     48
+    ],
+    "lKnee": [
+     108,
+     0,
+     0
+    ],
+    "rHip": [
+     -126,
+     -41,
+     -38
+    ],
+    "rKnee": [
+     123,
+     0,
+     0
+    ],
+    "rAnkle": [
+     30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/seated-one-arm-raised?ref=github"
+ },
+ {
+  "id": "cross-legged-hand-at-neck",
+  "name": {
+   "en": "Cross-legged, hand at neck",
+   "zh": "盘坐抚颈"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/cross-legged-hand-at-neck-front.webp",
+   "diag": "images/poses/cross-legged-hand-at-neck-diag.webp",
+   "side": "images/poses/cross-legged-hand-at-neck-side.webp",
+   "above": "images/poses/cross-legged-hand-at-neck-above.webp",
+   "below": "images/poses/cross-legged-hand-at-neck-below.webp"
+  },
+  "thumb": "thumbs/poses/cross-legged-hand-at-neck.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -15,
+     0,
+     0
+    ],
+    "spine": [
+     15,
+     0,
+     0
+    ],
+    "chest": [
+     8,
+     0,
+     0
+    ],
+    "neck": [
+     5,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -35,
+     0,
+     15
+    ],
+    "lElbow": [
+     -35,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -70,
+     30,
+     25
+    ],
+    "rElbow": [
+     -135,
+     0,
+     0
+    ],
+    "lHip": [
+     -125,
+     50,
+     50
+    ],
+    "lKnee": [
+     120,
+     0,
+     0
+    ],
+    "lAnkle": [
+     -30,
+     0,
+     0
+    ],
+    "rHip": [
+     -125,
+     -50,
+     -50
+    ],
+    "rKnee": [
+     125,
+     0,
+     0
+    ],
+    "rAnkle": [
+     -30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/cross-legged-hand-at-neck?ref=github"
+ },
+ {
+  "id": "seated-twist-hand-on-floor",
+  "name": {
+   "en": "Seated twist, hand on floor",
+   "zh": "撑地回身"
+  },
+  "group": "sit",
+  "views": {
+   "front": "images/poses/seated-twist-hand-on-floor-front.webp",
+   "diag": "images/poses/seated-twist-hand-on-floor-diag.webp",
+   "below": "images/poses/seated-twist-hand-on-floor-below.webp"
+  },
+  "thumb": "thumbs/poses/seated-twist-hand-on-floor.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     -15,
+     -30,
+     0
+    ],
+    "spine": [
+     8,
+     15,
+     -12
+    ],
+    "chest": [
+     5,
+     15,
+     -8
+    ],
+    "neck": [
+     0,
+     -10,
+     0
+    ],
+    "head": [
+     5,
+     0,
+     10
+    ],
+    "lShoulder": [
+     10,
+     0,
+     22
+    ],
+    "lWrist": [
+     -60,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -45,
+     0,
+     30
+    ],
+    "rElbow": [
+     -20,
+     0,
+     0
+    ],
+    "lHip": [
+     -88,
+     0,
+     -10
+    ],
+    "lKnee": [
+     30,
+     0,
+     0
+    ],
+    "lAnkle": [
+     20,
+     0,
+     0
+    ],
+    "rHip": [
+     -90,
+     0,
+     -5
+    ],
+    "rKnee": [
+     30,
+     0,
+     0
+    ],
+    "rAnkle": [
+     20,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/seated-twist-hand-on-floor?ref=github"
+ },
+ {
+  "id": "half-kneel-hand-on-knee",
+  "name": {
+   "en": "Half-kneel, hand on knee",
+   "zh": "单膝跪"
+  },
+  "group": "kneel",
+  "views": {
+   "front": "images/poses/half-kneel-hand-on-knee-front.webp",
+   "diag": "images/poses/half-kneel-hand-on-knee-diag.webp",
+   "side": "images/poses/half-kneel-hand-on-knee-side.webp"
+  },
+  "thumb": "thumbs/poses/half-kneel-hand-on-knee.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "spine": [
+     5,
+     0,
+     0
+    ],
+    "lShoulder": [
+     0,
+     0,
+     6
+    ],
+    "lElbow": [
+     -10,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -20,
+     0,
+     0
+    ],
+    "rElbow": [
+     -35,
+     0,
+     0
+    ],
+    "lHip": [
+     2,
+     0,
+     4
+    ],
+    "lKnee": [
+     92,
+     0,
+     0
+    ],
+    "lAnkle": [
+     -10,
+     0,
+     0
+    ],
+    "rHip": [
+     -85,
+     0,
+     -6
+    ],
+    "rKnee": [
+     80,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/half-kneel-hand-on-knee?ref=github"
+ },
+ {
+  "id": "kneeling-arms-raised",
+  "name": {
+   "en": "Kneeling, arms raised",
+   "zh": "跪姿举臂"
+  },
+  "group": "kneel",
+  "views": {
+   "front": "images/poses/kneeling-arms-raised-front.webp",
+   "diag": "images/poses/kneeling-arms-raised-diag.webp",
+   "side": "images/poses/kneeling-arms-raised-side.webp"
+  },
+  "thumb": "thumbs/poses/kneeling-arms-raised.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "neck": [
+     -5,
+     0,
+     0
+    ],
+    "lShoulder": [
+     0,
+     0,
+     165
+    ],
+    "rShoulder": [
+     0,
+     0,
+     -165
+    ],
+    "lHip": [
+     0,
+     0,
+     3
+    ],
+    "lKnee": [
+     90,
+     0,
+     0
+    ],
+    "lAnkle": [
+     50,
+     0,
+     0
+    ],
+    "rHip": [
+     0,
+     0,
+     -3
+    ],
+    "rKnee": [
+     90,
+     0,
+     0
+    ],
+    "rAnkle": [
+     50,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/kneeling-arms-raised?ref=github"
+ },
+ {
+  "id": "kneeling-hand-to-brow",
+  "name": {
+   "en": "Kneeling, hand to brow",
+   "zh": "跪姿抚额"
+  },
+  "group": "kneel",
+  "views": {
+   "front": "images/poses/kneeling-hand-to-brow-front.webp",
+   "diag": "images/poses/kneeling-hand-to-brow-diag.webp",
+   "side": "images/poses/kneeling-hand-to-brow-side.webp",
+   "above": "images/poses/kneeling-hand-to-brow-above.webp"
+  },
+  "thumb": "thumbs/poses/kneeling-hand-to-brow.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "spine": [
+     0,
+     0,
+     -4
+    ],
+    "chest": [
+     -5,
+     0,
+     0
+    ],
+    "neck": [
+     -5,
+     0,
+     0
+    ],
+    "head": [
+     -5,
+     0,
+     -8
+    ],
+    "lShoulder": [
+     60,
+     -45,
+     55
+    ],
+    "lElbow": [
+     -100,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -45,
+     45,
+     -120
+    ],
+    "rElbow": [
+     -110,
+     0,
+     0
+    ],
+    "lHip": [
+     0,
+     0,
+     4
+    ],
+    "lKnee": [
+     90,
+     0,
+     0
+    ],
+    "lAnkle": [
+     -10,
+     0,
+     0
+    ],
+    "rHip": [
+     0,
+     0,
+     -4
+    ],
+    "rKnee": [
+     90,
+     0,
+     0
+    ],
+    "rAnkle": [
+     -10,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/kneeling-hand-to-brow?ref=github"
+ },
+ {
+  "id": "kneeling-one-arm-up",
+  "name": {
+   "en": "Kneeling, one arm up",
+   "zh": "跪姿扬臂"
+  },
+  "group": "kneel",
+  "views": {
+   "front": "images/poses/kneeling-one-arm-up-front.webp",
+   "diag": "images/poses/kneeling-one-arm-up-diag.webp",
+   "side": "images/poses/kneeling-one-arm-up-side.webp"
+  },
+  "thumb": "thumbs/poses/kneeling-one-arm-up.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     5,
+     0,
+     0
+    ],
+    "spine": [
+     -5,
+     0,
+     -4
+    ],
+    "chest": [
+     -3,
+     0,
+     0
+    ],
+    "head": [
+     0,
+     -10,
+     -5
+    ],
+    "lShoulder": [
+     50,
+     -40,
+     45
+    ],
+    "lElbow": [
+     -80,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -60,
+     70,
+     -115
+    ],
+    "rElbow": [
+     -20,
+     0,
+     0
+    ],
+    "lHip": [
+     -5,
+     0,
+     4
+    ],
+    "lKnee": [
+     95,
+     0,
+     0
+    ],
+    "lAnkle": [
+     40,
+     0,
+     0
+    ],
+    "rHip": [
+     -5,
+     0,
+     -4
+    ],
+    "rKnee": [
+     95,
+     0,
+     0
+    ],
+    "rAnkle": [
+     40,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/kneeling-one-arm-up?ref=github"
+ },
+ {
+  "id": "quiet-kneel",
+  "name": {
+   "en": "Quiet kneel",
+   "zh": "静坐"
+  },
+  "group": "kneel",
+  "views": {
+   "front": "images/poses/quiet-kneel-front.webp",
+   "diag": "images/poses/quiet-kneel-diag.webp",
+   "above": "images/poses/quiet-kneel-above.webp"
+  },
+  "thumb": "thumbs/poses/quiet-kneel.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "spine": [
+     5,
+     0,
+     0
+    ],
+    "chest": [
+     3,
+     0,
+     0
+    ],
+    "neck": [
+     5,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -25,
+     0,
+     -8
+    ],
+    "lElbow": [
+     -15,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -25,
+     0,
+     8
+    ],
+    "rElbow": [
+     -15,
+     0,
+     0
+    ],
+    "lHip": [
+     -65,
+     0,
+     6
+    ],
+    "lKnee": [
+     145,
+     0,
+     0
+    ],
+    "lAnkle": [
+     50,
+     0,
+     0
+    ],
+    "rHip": [
+     -65,
+     0,
+     -6
+    ],
+    "rKnee": [
+     145,
+     0,
+     0
+    ],
+    "rAnkle": [
+     50,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/quiet-kneel?ref=github"
+ },
+ {
+  "id": "kneeling-twist",
+  "name": {
+   "en": "Kneeling twist",
+   "zh": "跪坐回身"
+  },
+  "group": "kneel",
+  "views": {
+   "front": "images/poses/kneeling-twist-front.webp",
+   "diag": "images/poses/kneeling-twist-diag.webp",
+   "above": "images/poses/kneeling-twist-above.webp"
+  },
+  "thumb": "thumbs/poses/kneeling-twist.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     8,
+     0,
+     0
+    ],
+    "spine": [
+     5,
+     10,
+     -4
+    ],
+    "chest": [
+     5,
+     5,
+     -4
+    ],
+    "neck": [
+     15,
+     0,
+     0
+    ],
+    "head": [
+     10,
+     0,
+     -12
+    ],
+    "lShoulder": [
+     60,
+     -45,
+     55
+    ],
+    "lElbow": [
+     -95,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -5,
+     0,
+     -10
+    ],
+    "rElbow": [
+     -10,
+     0,
+     0
+    ],
+    "lHip": [
+     -5,
+     0,
+     10
+    ],
+    "lKnee": [
+     100,
+     0,
+     0
+    ],
+    "lAnkle": [
+     30,
+     0,
+     0
+    ],
+    "rHip": [
+     -5,
+     0,
+     -10
+    ],
+    "rKnee": [
+     100,
+     0,
+     0
+    ],
+    "rAnkle": [
+     30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/kneeling-twist?ref=github"
+ },
+ {
+  "id": "classic-contrapposto",
+  "name": {
+   "en": "Classic contrapposto",
+   "zh": "经典站姿"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/classic-contrapposto-front.webp",
+   "diag": "images/poses/classic-contrapposto-diag.webp",
+   "side": "images/poses/classic-contrapposto-side.webp"
+  },
+  "thumb": "thumbs/poses/classic-contrapposto.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     8,
+     -4
+    ],
+    "spine": [
+     0,
+     0,
+     3
+    ],
+    "chest": [
+     0,
+     0,
+     2
+    ],
+    "neck": [
+     0,
+     -10,
+     -3
+    ],
+    "lShoulder": [
+     0,
+     0,
+     8
+    ],
+    "lElbow": [
+     -10,
+     0,
+     0
+    ],
+    "rShoulder": [
+     57,
+     39,
+     -48
+    ],
+    "rElbow": [
+     -82,
+     0,
+     0
+    ],
+    "lHip": [
+     -14,
+     -10,
+     -2
+    ],
+    "lKnee": [
+     32,
+     0,
+     0
+    ],
+    "lAnkle": [
+     10,
+     0,
+     0
+    ],
+    "rHip": [
+     0,
+     0,
+     -2
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/classic-contrapposto?ref=github"
+ },
+ {
+  "id": "both-hands-in-hair",
+  "name": {
+   "en": "Both hands in hair",
+   "zh": "双手撩发"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/both-hands-in-hair-front.webp",
+   "diag": "images/poses/both-hands-in-hair-diag.webp",
+   "side": "images/poses/both-hands-in-hair-side.webp",
+   "above": "images/poses/both-hands-in-hair-above.webp",
+   "below": "images/poses/both-hands-in-hair-below.webp"
+  },
+  "thumb": "thumbs/poses/both-hands-in-hair.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "lShoulder": [
+     -79,
+     -50,
+     100
+    ],
+    "lElbow": [
+     -100,
+     0,
+     0
+    ],
+    "lWrist": [
+     0,
+     0,
+     -25
+    ],
+    "rShoulder": [
+     -79,
+     50,
+     -100
+    ],
+    "rElbow": [
+     -100,
+     0,
+     0
+    ],
+    "rWrist": [
+     0,
+     0,
+     25
+    ],
+    "lHip": [
+     0,
+     0,
+     3
+    ],
+    "rHip": [
+     0,
+     0,
+     -3
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/both-hands-in-hair?ref=github"
+ },
+ {
+  "id": "hand-behind-head",
+  "name": {
+   "en": "Hand behind head",
+   "zh": "扶头站"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/hand-behind-head-front.webp",
+   "diag": "images/poses/hand-behind-head-diag.webp",
+   "side": "images/poses/hand-behind-head-side.webp",
+   "above": "images/poses/hand-behind-head-above.webp",
+   "below": "images/poses/hand-behind-head-below.webp"
+  },
+  "thumb": "thumbs/poses/hand-behind-head.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     0,
+     4
+    ],
+    "spine": [
+     0,
+     0,
+     -4
+    ],
+    "chest": [
+     0,
+     0,
+     -3
+    ],
+    "neck": [
+     0,
+     0,
+     -6
+    ],
+    "head": [
+     0,
+     0,
+     -5
+    ],
+    "lShoulder": [
+     57,
+     -39,
+     48
+    ],
+    "lElbow": [
+     -82,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -130,
+     54,
+     -52
+    ],
+    "rElbow": [
+     -123,
+     0,
+     0
+    ],
+    "lHip": [
+     0,
+     0,
+     10
+    ],
+    "lKnee": [
+     6,
+     0,
+     0
+    ],
+    "lAnkle": [
+     15,
+     0,
+     0
+    ],
+    "rHip": [
+     0,
+     0,
+     -4
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/hand-behind-head?ref=github"
+ },
+ {
+  "id": "hand-to-brow-gaze-away",
+  "name": {
+   "en": "Hand to brow, gaze away",
+   "zh": "抚额远望"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/hand-to-brow-gaze-away-front.webp",
+   "diag": "images/poses/hand-to-brow-gaze-away-diag.webp",
+   "side": "images/poses/hand-to-brow-gaze-away-side.webp",
+   "above": "images/poses/hand-to-brow-gaze-away-above.webp",
+   "below": "images/poses/hand-to-brow-gaze-away-below.webp"
+  },
+  "thumb": "thumbs/poses/hand-to-brow-gaze-away.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     -6,
+     0
+    ],
+    "neck": [
+     -6,
+     14,
+     -4
+    ],
+    "head": [
+     -4,
+     10,
+     0
+    ],
+    "lShoulder": [
+     57,
+     -39,
+     48
+    ],
+    "lElbow": [
+     -82,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -109,
+     58,
+     -32
+    ],
+    "rElbow": [
+     -100,
+     0,
+     0
+    ],
+    "lHip": [
+     -4,
+     0,
+     -10
+    ],
+    "lKnee": [
+     25,
+     0,
+     0
+    ],
+    "lAnkle": [
+     20,
+     0,
+     0
+    ],
+    "rHip": [
+     0,
+     0,
+     -1
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/hand-to-brow-gaze-away?ref=github"
+ },
+ {
+  "id": "arm-up-hip-out",
+  "name": {
+   "en": "Arm up, hip out",
+   "zh": "扬臂扭腰"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/arm-up-hip-out-front.webp",
+   "diag": "images/poses/arm-up-hip-out-diag.webp",
+   "side": "images/poses/arm-up-hip-out-side.webp",
+   "above": "images/poses/arm-up-hip-out-above.webp",
+   "below": "images/poses/arm-up-hip-out-below.webp"
+  },
+  "thumb": "thumbs/poses/arm-up-hip-out.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     0,
+     1
+    ],
+    "spine": [
+     0,
+     0,
+     -2
+    ],
+    "chest": [
+     0,
+     0,
+     -2
+    ],
+    "neck": [
+     0,
+     0,
+     4
+    ],
+    "head": [
+     -4,
+     0,
+     6
+    ],
+    "lShoulder": [
+     42,
+     -51,
+     34
+    ],
+    "lElbow": [
+     -54,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -156,
+     63,
+     -12
+    ],
+    "rElbow": [
+     -29,
+     0,
+     0
+    ],
+    "lHip": [
+     0,
+     0,
+     1
+    ],
+    "rHip": [
+     -22,
+     0,
+     10
+    ],
+    "rKnee": [
+     38,
+     0,
+     0
+    ],
+    "rAnkle": [
+     22,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/arm-up-hip-out?ref=github"
+ },
+ {
+  "id": "mid-step-hand-to-hair",
+  "name": {
+   "en": "Mid-step, hand to hair",
+   "zh": "迈步抚发"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/mid-step-hand-to-hair-front.webp",
+   "side": "images/poses/mid-step-hand-to-hair-side.webp",
+   "above": "images/poses/mid-step-hand-to-hair-above.webp",
+   "below": "images/poses/mid-step-hand-to-hair-below.webp"
+  },
+  "thumb": "thumbs/poses/mid-step-hand-to-hair.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     8,
+     0
+    ],
+    "spine": [
+     0,
+     0,
+     -2
+    ],
+    "neck": [
+     0,
+     -6,
+     0
+    ],
+    "head": [
+     0,
+     0,
+     4
+    ],
+    "lShoulder": [
+     12,
+     0,
+     28
+    ],
+    "lElbow": [
+     -12,
+     0,
+     0
+    ],
+    "lWrist": [
+     0,
+     0,
+     -20
+    ],
+    "rShoulder": [
+     -64,
+     43,
+     -92
+    ],
+    "rElbow": [
+     -115,
+     0,
+     0
+    ],
+    "lHip": [
+     -14,
+     0,
+     -3
+    ],
+    "lKnee": [
+     38,
+     0,
+     0
+    ],
+    "lAnkle": [
+     30,
+     0,
+     0
+    ],
+    "rHip": [
+     0,
+     0,
+     -2
+    ],
+    "rKnee": [
+     3,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/mid-step-hand-to-hair?ref=github"
+ },
+ {
+  "id": "both-arms-high",
+  "name": {
+   "en": "Both arms high",
+   "zh": "双臂高举"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/both-arms-high-front.webp",
+   "diag": "images/poses/both-arms-high-diag.webp",
+   "side": "images/poses/both-arms-high-side.webp"
+  },
+  "thumb": "thumbs/poses/both-arms-high.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "neck": [
+     -10,
+     0,
+     0
+    ],
+    "head": [
+     -6,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -5,
+     0,
+     157
+    ],
+    "lElbow": [
+     -5,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -5,
+     0,
+     -157
+    ],
+    "rElbow": [
+     -5,
+     0,
+     0
+    ],
+    "lHip": [
+     0,
+     0,
+     -2
+    ],
+    "lAnkle": [
+     15,
+     0,
+     0
+    ],
+    "rHip": [
+     0,
+     0,
+     2
+    ],
+    "rAnkle": [
+     15,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/both-arms-high?ref=github"
+ },
+ {
+  "id": "arms-spread-wide",
+  "name": {
+   "en": "Arms spread wide",
+   "zh": "双臂舒展"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/arms-spread-wide-front.webp",
+   "diag": "images/poses/arms-spread-wide-diag.webp",
+   "below": "images/poses/arms-spread-wide-below.webp"
+  },
+  "thumb": "thumbs/poses/arms-spread-wide.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     40,
+     0
+    ],
+    "neck": [
+     -4,
+     0,
+     0
+    ],
+    "lShoulder": [
+     0,
+     0,
+     78
+    ],
+    "lElbow": [
+     -8,
+     0,
+     0
+    ],
+    "rShoulder": [
+     0,
+     0,
+     -78
+    ],
+    "rElbow": [
+     -8,
+     0,
+     0
+    ],
+    "lHip": [
+     -6,
+     0,
+     0
+    ],
+    "lKnee": [
+     18,
+     0,
+     0
+    ],
+    "lAnkle": [
+     30,
+     0,
+     0
+    ],
+    "rAnkle": [
+     30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/arms-spread-wide?ref=github"
+ },
+ {
+  "id": "playful-forward-lean",
+  "name": {
+   "en": "Playful forward lean",
+   "zh": "前倾俏皮"
+  },
+  "group": "stand",
+  "views": {
+   "front": "images/poses/playful-forward-lean-front.webp",
+   "diag": "images/poses/playful-forward-lean-diag.webp",
+   "side": "images/poses/playful-forward-lean-side.webp",
+   "above": "images/poses/playful-forward-lean-above.webp"
+  },
+  "thumb": "thumbs/poses/playful-forward-lean.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     8,
+     -10,
+     0
+    ],
+    "spine": [
+     25,
+     0,
+     8
+    ],
+    "chest": [
+     15,
+     -5,
+     6
+    ],
+    "neck": [
+     -40,
+     -10,
+     -12
+    ],
+    "head": [
+     -35,
+     -10,
+     -12
+    ],
+    "lShoulder": [
+     42,
+     -59,
+     38
+    ],
+    "lElbow": [
+     -56,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -38,
+     0,
+     2
+    ],
+    "rElbow": [
+     -8,
+     0,
+     0
+    ],
+    "lHip": [
+     -10,
+     0,
+     0
+    ],
+    "lKnee": [
+     12,
+     0,
+     0
+    ],
+    "lAnkle": [
+     -4,
+     0,
+     0
+    ],
+    "rHip": [
+     -10,
+     0,
+     0
+    ],
+    "rKnee": [
+     12,
+     0,
+     0
+    ],
+    "rAnkle": [
+     -4,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/playful-forward-lean?ref=github"
+ },
+ {
+  "id": "reclining-on-one-elbow",
+  "name": {
+   "en": "Reclining on one elbow",
+   "zh": "侧卧倚肘"
+  },
+  "group": "lie",
+  "views": {
+   "front": "images/poses/reclining-on-one-elbow-front.webp",
+   "diag": "images/poses/reclining-on-one-elbow-diag.webp",
+   "side": "images/poses/reclining-on-one-elbow-side.webp"
+  },
+  "thumb": "thumbs/poses/reclining-on-one-elbow.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     0,
+     90
+    ],
+    "spine": [
+     0,
+     0,
+     -20
+    ],
+    "chest": [
+     0,
+     0,
+     -15
+    ],
+    "neck": [
+     0,
+     0,
+     -10
+    ],
+    "head": [
+     -10,
+     0,
+     -5
+    ],
+    "lShoulder": [
+     -20,
+     -50,
+     35
+    ],
+    "lElbow": [
+     -100,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -70,
+     -20,
+     -70
+    ],
+    "rElbow": [
+     -80,
+     0,
+     0
+    ],
+    "lHip": [
+     -100,
+     45,
+     85
+    ],
+    "lKnee": [
+     100,
+     0,
+     0
+    ],
+    "lAnkle": [
+     30,
+     0,
+     0
+    ],
+    "rHip": [
+     -5,
+     0,
+     0
+    ],
+    "rKnee": [
+     5,
+     0,
+     0
+    ],
+    "rAnkle": [
+     30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/reclining-on-one-elbow?ref=github"
+ },
+ {
+  "id": "lying-stretched-on-one-side",
+  "name": {
+   "en": "Lying stretched on one side",
+   "zh": "侧卧舒展"
+  },
+  "group": "lie",
+  "views": {
+   "front": "images/poses/lying-stretched-on-one-side-front.webp",
+   "diag": "images/poses/lying-stretched-on-one-side-diag.webp",
+   "side": "images/poses/lying-stretched-on-one-side-side.webp",
+   "above": "images/poses/lying-stretched-on-one-side-above.webp"
+  },
+  "thumb": "thumbs/poses/lying-stretched-on-one-side.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "hips": [
+     0,
+     -10,
+     90
+    ],
+    "spine": [
+     0,
+     -10,
+     0
+    ],
+    "chest": [
+     0,
+     -10,
+     0
+    ],
+    "neck": [
+     0,
+     0,
+     25
+    ],
+    "head": [
+     0,
+     0,
+     10
+    ],
+    "lShoulder": [
+     -20,
+     0,
+     0
+    ],
+    "lElbow": [
+     -30,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -60,
+     0,
+     30
+    ],
+    "rElbow": [
+     -15,
+     0,
+     0
+    ],
+    "lHip": [
+     -20,
+     0,
+     0
+    ],
+    "lKnee": [
+     25,
+     0,
+     0
+    ],
+    "lAnkle": [
+     30,
+     0,
+     0
+    ],
+    "rHip": [
+     -8,
+     0,
+     0
+    ],
+    "rKnee": [
+     15,
+     0,
+     0
+    ],
+    "rAnkle": [
+     30,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/lying-stretched-on-one-side?ref=github"
+ },
+ {
+  "id": "crouch-chin-on-hand",
+  "name": {
+   "en": "Crouch, chin on hand",
+   "zh": "蹲坐托腮"
+  },
+  "group": "crouch",
+  "views": {
+   "front": "images/poses/crouch-chin-on-hand-front.webp",
+   "diag": "images/poses/crouch-chin-on-hand-diag.webp",
+   "side": "images/poses/crouch-chin-on-hand-side.webp",
+   "above": "images/poses/crouch-chin-on-hand-above.webp",
+   "below": "images/poses/crouch-chin-on-hand-below.webp"
+  },
+  "thumb": "thumbs/poses/crouch-chin-on-hand.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "spine": [
+     18,
+     0,
+     0
+    ],
+    "chest": [
+     8,
+     0,
+     -4
+    ],
+    "neck": [
+     8,
+     0,
+     -15
+    ],
+    "head": [
+     4,
+     0,
+     -15
+    ],
+    "lShoulder": [
+     -69,
+     -27,
+     -7
+    ],
+    "lElbow": [
+     -137,
+     0,
+     0
+    ],
+    "lWrist": [
+     -20,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -59,
+     68,
+     5
+    ],
+    "rElbow": [
+     -78,
+     0,
+     0
+    ],
+    "lHip": [
+     -120,
+     0,
+     8
+    ],
+    "lKnee": [
+     145,
+     0,
+     0
+    ],
+    "rHip": [
+     -120,
+     0,
+     -8
+    ],
+    "rKnee": [
+     145,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/crouch-chin-on-hand?ref=github"
+ },
+ {
+  "id": "street-style-crouch",
+  "name": {
+   "en": "Street-style crouch",
+   "zh": "街拍蹲姿"
+  },
+  "group": "crouch",
+  "views": {
+   "front": "images/poses/street-style-crouch-front.webp",
+   "diag": "images/poses/street-style-crouch-diag.webp",
+   "side": "images/poses/street-style-crouch-side.webp",
+   "below": "images/poses/street-style-crouch-below.webp"
+  },
+  "thumb": "thumbs/poses/street-style-crouch.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "spine": [
+     30,
+     0,
+     0
+    ],
+    "chest": [
+     10,
+     0,
+     0
+    ],
+    "neck": [
+     -20,
+     25,
+     0
+    ],
+    "lShoulder": [
+     -35,
+     0,
+     10
+    ],
+    "lElbow": [
+     -30,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -35,
+     0,
+     -10
+    ],
+    "rElbow": [
+     -30,
+     0,
+     0
+    ],
+    "lHip": [
+     -95,
+     0,
+     30
+    ],
+    "lKnee": [
+     145,
+     0,
+     0
+    ],
+    "lAnkle": [
+     20,
+     0,
+     0
+    ],
+    "rHip": [
+     -95,
+     0,
+     -30
+    ],
+    "rKnee": [
+     145,
+     0,
+     0
+    ],
+    "rAnkle": [
+     20,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/street-style-crouch?ref=github"
+ },
+ {
+  "id": "finger-to-lips",
+  "name": {
+   "en": "Finger to lips",
+   "zh": "竖指轻嘘"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/finger-to-lips-front.webp",
+   "diag": "images/poses/finger-to-lips-diag.webp",
+   "side": "images/poses/finger-to-lips-side.webp"
+  },
+  "thumb": "thumbs/poses/finger-to-lips.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "rShoulder": [
+     -35,
+     0,
+     0
+    ],
+    "rElbow": [
+     -130,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/finger-to-lips?ref=github"
+ },
+ {
+  "id": "reaching-out",
+  "name": {
+   "en": "Reaching out",
+   "zh": "伸手邀请"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/reaching-out-front.webp",
+   "diag": "images/poses/reaching-out-diag.webp",
+   "above": "images/poses/reaching-out-above.webp",
+   "below": "images/poses/reaching-out-below.webp"
+  },
+  "thumb": "thumbs/poses/reaching-out.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "chest": [
+     0,
+     -8,
+     0
+    ],
+    "rShoulder": [
+     -65,
+     0,
+     -12
+    ],
+    "rElbow": [
+     -10,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/reaching-out?ref=github"
+ },
+ {
+  "id": "chin-in-cupped-hands",
+  "name": {
+   "en": "Chin in cupped hands",
+   "zh": "花朵托腮"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/chin-in-cupped-hands-front.webp",
+   "diag": "images/poses/chin-in-cupped-hands-diag.webp",
+   "side": "images/poses/chin-in-cupped-hands-side.webp",
+   "above": "images/poses/chin-in-cupped-hands-above.webp",
+   "below": "images/poses/chin-in-cupped-hands-below.webp"
+  },
+  "thumb": "thumbs/poses/chin-in-cupped-hands.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "neck": [
+     10,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -35,
+     -35,
+     30
+    ],
+    "lElbow": [
+     -140,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -35,
+     35,
+     -30
+    ],
+    "rElbow": [
+     -140,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/chin-in-cupped-hands?ref=github"
+ },
+ {
+  "id": "self-embrace",
+  "name": {
+   "en": "Self-embrace",
+   "zh": "交叠环抱"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/self-embrace-front.webp",
+   "diag": "images/poses/self-embrace-diag.webp",
+   "above": "images/poses/self-embrace-above.webp"
+  },
+  "thumb": "thumbs/poses/self-embrace.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "neck": [
+     8,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -25,
+     -82,
+     5
+    ],
+    "lElbow": [
+     -125,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -30,
+     82,
+     -5
+    ],
+    "rElbow": [
+     -125,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/self-embrace?ref=github"
+ },
+ {
+  "id": "hand-to-hair-at-the-ear",
+  "name": {
+   "en": "Hand to hair at the ear",
+   "zh": "抚发侧颜"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/hand-to-hair-at-the-ear-front.webp",
+   "diag": "images/poses/hand-to-hair-at-the-ear-diag.webp"
+  },
+  "thumb": "thumbs/poses/hand-to-hair-at-the-ear.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "neck": [
+     0,
+     0,
+     8
+    ],
+    "rShoulder": [
+     -99,
+     48,
+     -74
+    ],
+    "rElbow": [
+     -131,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/hand-to-hair-at-the-ear?ref=github"
+ },
+ {
+  "id": "cheeks-in-both-hands",
+  "name": {
+   "en": "Cheeks in both hands",
+   "zh": "双手捧脸"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/cheeks-in-both-hands-front.webp",
+   "diag": "images/poses/cheeks-in-both-hands-diag.webp",
+   "below": "images/poses/cheeks-in-both-hands-below.webp"
+  },
+  "thumb": "thumbs/poses/cheeks-in-both-hands.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "neck": [
+     5,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -59,
+     -34,
+     -16
+    ],
+    "lElbow": [
+     -146,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -59,
+     35,
+     16
+    ],
+    "rElbow": [
+     -146,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/cheeks-in-both-hands?ref=github"
+ },
+ {
+  "id": "shading-eyes-arm-out",
+  "name": {
+   "en": "Shading eyes, arm out",
+   "zh": "遮光伸展"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/shading-eyes-arm-out-front.webp",
+   "diag": "images/poses/shading-eyes-arm-out-diag.webp",
+   "side": "images/poses/shading-eyes-arm-out-side.webp",
+   "above": "images/poses/shading-eyes-arm-out-above.webp",
+   "below": "images/poses/shading-eyes-arm-out-below.webp"
+  },
+  "thumb": "thumbs/poses/shading-eyes-arm-out.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "chest": [
+     0,
+     8,
+     0
+    ],
+    "neck": [
+     -5,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -75,
+     -37,
+     20
+    ],
+    "lElbow": [
+     -128,
+     0,
+     0
+    ],
+    "rShoulder": [
+     0,
+     30,
+     -72
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/shading-eyes-arm-out?ref=github"
+ },
+ {
+  "id": "peeking-through-fingers",
+  "name": {
+   "en": "Peeking through fingers",
+   "zh": "指缝偷看"
+  },
+  "group": "upper",
+  "views": {
+   "front": "images/poses/peeking-through-fingers-front.webp",
+   "diag": "images/poses/peeking-through-fingers-diag.webp",
+   "above": "images/poses/peeking-through-fingers-above.webp",
+   "below": "images/poses/peeking-through-fingers-below.webp"
+  },
+  "thumb": "thumbs/poses/peeking-through-fingers.webp",
+  "pose3d": {
+   "v": 1,
+   "rot": {
+    "neck": [
+     8,
+     0,
+     0
+    ],
+    "lShoulder": [
+     -50,
+     -22,
+     30
+    ],
+    "lElbow": [
+     -140,
+     0,
+     0
+    ],
+    "rShoulder": [
+     -50,
+     22,
+     -30
+    ],
+    "rElbow": [
+     -140,
+     0,
+     0
+    ]
+   }
+  },
+  "url": "https://promicat.app/zh/poses/peeking-through-fingers?ref=github"
+ }
+]

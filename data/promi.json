@@ -1,0 +1,410 @@
+[
+ {
+  "id": "promi-relaxed-lean-back-sit",
+  "pose": "relaxed-lean-back-sit",
+  "light": "rembrandt",
+  "scene": "plaster-studio",
+  "image": "images/promi/relaxed-lean-back-sit.webp",
+  "thumb": "thumbs/promi/relaxed-lean-back-sit.webp"
+ },
+ {
+  "id": "promi-side-lean-on-one-hand",
+  "pose": "side-lean-on-one-hand",
+  "light": "window",
+  "scene": "cafe",
+  "image": "images/promi/side-lean-on-one-hand.webp",
+  "thumb": "thumbs/promi/side-lean-on-one-hand.webp"
+ },
+ {
+  "id": "promi-knee-up-hand-to-hair",
+  "pose": "knee-up-hand-to-hair",
+  "light": "neon",
+  "scene": "flower-field",
+  "image": "images/promi/knee-up-hand-to-hair.webp",
+  "thumb": "thumbs/promi/knee-up-hand-to-hair.webp"
+ },
+ {
+  "id": "promi-legs-swept-to-one-side",
+  "pose": "legs-swept-to-one-side",
+  "light": "low-key",
+  "scene": "gallery",
+  "image": "images/promi/legs-swept-to-one-side.webp",
+  "thumb": "thumbs/promi/legs-swept-to-one-side.webp"
+ },
+ {
+  "id": "promi-folded-forward-hand-at-ankle",
+  "pose": "folded-forward-hand-at-ankle",
+  "light": "rim",
+  "scene": "garden",
+  "image": "images/promi/folded-forward-hand-at-ankle.webp",
+  "thumb": "thumbs/promi/folded-forward-hand-at-ankle.webp"
+ },
+ {
+  "id": "promi-chin-on-hand-thinking",
+  "pose": "chin-on-hand-thinking",
+  "light": "hard-sun",
+  "scene": "beach",
+  "image": "images/promi/chin-on-hand-thinking.webp",
+  "thumb": "thumbs/promi/chin-on-hand-thinking.webp"
+ },
+ {
+  "id": "promi-leaning-back-knees-to-one-side",
+  "pose": "leaning-back-knees-to-one-side",
+  "light": "high-key",
+  "scene": "forest",
+  "image": "images/promi/leaning-back-knees-to-one-side.webp",
+  "thumb": "thumbs/promi/leaning-back-knees-to-one-side.webp"
+ },
+ {
+  "id": "promi-knees-drawn-side-sit",
+  "pose": "knees-drawn-side-sit",
+  "light": "loop",
+  "scene": "apartment",
+  "image": "images/promi/knees-drawn-side-sit.webp",
+  "thumb": "thumbs/promi/knees-drawn-side-sit.webp"
+ },
+ {
+  "id": "promi-side-sit-cheek-in-hand",
+  "pose": "side-sit-cheek-in-hand",
+  "light": "overcast",
+  "scene": "desert",
+  "image": "images/promi/side-sit-cheek-in-hand.webp",
+  "thumb": "thumbs/promi/side-sit-cheek-in-hand.webp"
+ },
+ {
+  "id": "promi-seated-one-arm-raised",
+  "pose": "seated-one-arm-raised",
+  "light": "blinds",
+  "scene": "staircase",
+  "image": "images/promi/seated-one-arm-raised.webp",
+  "thumb": "thumbs/promi/seated-one-arm-raised.webp"
+ },
+ {
+  "id": "promi-cross-legged-hand-at-neck",
+  "pose": "cross-legged-hand-at-neck",
+  "light": "split",
+  "scene": "city-street",
+  "image": "images/promi/cross-legged-hand-at-neck.webp",
+  "thumb": "thumbs/promi/cross-legged-hand-at-neck.webp"
+ },
+ {
+  "id": "promi-seated-twist-hand-on-floor",
+  "pose": "seated-twist-hand-on-floor",
+  "light": "blue-hour",
+  "scene": "rooftop",
+  "image": "images/promi/seated-twist-hand-on-floor.webp",
+  "thumb": "thumbs/promi/seated-twist-hand-on-floor.webp"
+ },
+ {
+  "id": "promi-half-kneel-hand-on-knee",
+  "pose": "half-kneel-hand-on-knee",
+  "light": "dappled",
+  "scene": "library",
+  "image": "images/promi/half-kneel-hand-on-knee.webp",
+  "thumb": "thumbs/promi/half-kneel-hand-on-knee.webp"
+ },
+ {
+  "id": "promi-kneeling-arms-raised",
+  "pose": "kneeling-arms-raised",
+  "light": "butterfly",
+  "scene": "rainy-street",
+  "image": "images/promi/kneeling-arms-raised.webp",
+  "thumb": "thumbs/promi/kneeling-arms-raised.webp"
+ },
+ {
+  "id": "promi-kneeling-hand-to-brow",
+  "pose": "kneeling-hand-to-brow",
+  "light": "golden-hour",
+  "scene": "plaster-studio",
+  "image": "images/promi/kneeling-hand-to-brow.webp",
+  "thumb": "thumbs/promi/kneeling-hand-to-brow.webp"
+ },
+ {
+  "id": "promi-kneeling-one-arm-up",
+  "pose": "kneeling-one-arm-up",
+  "light": "candle",
+  "scene": "cafe",
+  "image": "images/promi/kneeling-one-arm-up.webp",
+  "thumb": "thumbs/promi/kneeling-one-arm-up.webp"
+ },
+ {
+  "id": "promi-quiet-kneel",
+  "pose": "quiet-kneel",
+  "light": "rembrandt",
+  "scene": "flower-field",
+  "image": "images/promi/quiet-kneel.webp",
+  "thumb": "thumbs/promi/quiet-kneel.webp"
+ },
+ {
+  "id": "promi-kneeling-twist",
+  "pose": "kneeling-twist",
+  "light": "window",
+  "scene": "gallery",
+  "image": "images/promi/kneeling-twist.webp",
+  "thumb": "thumbs/promi/kneeling-twist.webp"
+ },
+ {
+  "id": "promi-classic-contrapposto",
+  "pose": "classic-contrapposto",
+  "light": "neon",
+  "scene": "garden",
+  "image": "images/promi/classic-contrapposto.webp",
+  "thumb": "thumbs/promi/classic-contrapposto.webp"
+ },
+ {
+  "id": "promi-both-hands-in-hair",
+  "pose": "both-hands-in-hair",
+  "light": "low-key",
+  "scene": "beach",
+  "image": "images/promi/both-hands-in-hair.webp",
+  "thumb": "thumbs/promi/both-hands-in-hair.webp"
+ },
+ {
+  "id": "promi-hand-behind-head",
+  "pose": "hand-behind-head",
+  "light": "rim",
+  "scene": "forest",
+  "image": "images/promi/hand-behind-head.webp",
+  "thumb": "thumbs/promi/hand-behind-head.webp"
+ },
+ {
+  "id": "promi-hand-to-brow-gaze-away",
+  "pose": "hand-to-brow-gaze-away",
+  "light": "hard-sun",
+  "scene": "apartment",
+  "image": "images/promi/hand-to-brow-gaze-away.webp",
+  "thumb": "thumbs/promi/hand-to-brow-gaze-away.webp"
+ },
+ {
+  "id": "promi-arm-up-hip-out",
+  "pose": "arm-up-hip-out",
+  "light": "high-key",
+  "scene": "desert",
+  "image": "images/promi/arm-up-hip-out.webp",
+  "thumb": "thumbs/promi/arm-up-hip-out.webp"
+ },
+ {
+  "id": "promi-mid-step-hand-to-hair",
+  "pose": "mid-step-hand-to-hair",
+  "light": "loop",
+  "scene": "staircase",
+  "image": "images/promi/mid-step-hand-to-hair.webp",
+  "thumb": "thumbs/promi/mid-step-hand-to-hair.webp"
+ },
+ {
+  "id": "promi-both-arms-high",
+  "pose": "both-arms-high",
+  "light": "overcast",
+  "scene": "city-street",
+  "image": "images/promi/both-arms-high.webp",
+  "thumb": "thumbs/promi/both-arms-high.webp"
+ },
+ {
+  "id": "promi-arms-spread-wide",
+  "pose": "arms-spread-wide",
+  "light": "blinds",
+  "scene": "rooftop",
+  "image": "images/promi/arms-spread-wide.webp",
+  "thumb": "thumbs/promi/arms-spread-wide.webp"
+ },
+ {
+  "id": "promi-playful-forward-lean",
+  "pose": "playful-forward-lean",
+  "light": "split",
+  "scene": "library",
+  "image": "images/promi/playful-forward-lean.webp",
+  "thumb": "thumbs/promi/playful-forward-lean.webp"
+ },
+ {
+  "id": "promi-reclining-on-one-elbow",
+  "pose": "reclining-on-one-elbow",
+  "light": "blue-hour",
+  "scene": "rainy-street",
+  "image": "images/promi/reclining-on-one-elbow.webp",
+  "thumb": "thumbs/promi/reclining-on-one-elbow.webp"
+ },
+ {
+  "id": "promi-lying-stretched-on-one-side",
+  "pose": "lying-stretched-on-one-side",
+  "light": "dappled",
+  "scene": "plaster-studio",
+  "image": "images/promi/lying-stretched-on-one-side.webp",
+  "thumb": "thumbs/promi/lying-stretched-on-one-side.webp"
+ },
+ {
+  "id": "promi-crouch-chin-on-hand",
+  "pose": "crouch-chin-on-hand",
+  "light": "butterfly",
+  "scene": "cafe",
+  "image": "images/promi/crouch-chin-on-hand.webp",
+  "thumb": "thumbs/promi/crouch-chin-on-hand.webp"
+ },
+ {
+  "id": "promi-street-style-crouch",
+  "pose": "street-style-crouch",
+  "light": "golden-hour",
+  "scene": "flower-field",
+  "image": "images/promi/street-style-crouch.webp",
+  "thumb": "thumbs/promi/street-style-crouch.webp"
+ },
+ {
+  "id": "promi-finger-to-lips",
+  "pose": "finger-to-lips",
+  "light": "candle",
+  "scene": "gallery",
+  "image": "images/promi/finger-to-lips.webp",
+  "thumb": "thumbs/promi/finger-to-lips.webp"
+ },
+ {
+  "id": "promi-reaching-out",
+  "pose": "reaching-out",
+  "light": "rembrandt",
+  "scene": "garden",
+  "image": "images/promi/reaching-out.webp",
+  "thumb": "thumbs/promi/reaching-out.webp"
+ },
+ {
+  "id": "promi-chin-in-cupped-hands",
+  "pose": "chin-in-cupped-hands",
+  "light": "window",
+  "scene": "beach",
+  "image": "images/promi/chin-in-cupped-hands.webp",
+  "thumb": "thumbs/promi/chin-in-cupped-hands.webp"
+ },
+ {
+  "id": "promi-self-embrace",
+  "pose": "self-embrace",
+  "light": "neon",
+  "scene": "forest",
+  "image": "images/promi/self-embrace.webp",
+  "thumb": "thumbs/promi/self-embrace.webp"
+ },
+ {
+  "id": "promi-hand-to-hair-at-the-ear",
+  "pose": "hand-to-hair-at-the-ear",
+  "light": "low-key",
+  "scene": "apartment",
+  "image": "images/promi/hand-to-hair-at-the-ear.webp",
+  "thumb": "thumbs/promi/hand-to-hair-at-the-ear.webp"
+ },
+ {
+  "id": "promi-cheeks-in-both-hands",
+  "pose": "cheeks-in-both-hands",
+  "light": "rim",
+  "scene": "desert",
+  "image": "images/promi/cheeks-in-both-hands.webp",
+  "thumb": "thumbs/promi/cheeks-in-both-hands.webp"
+ },
+ {
+  "id": "promi-shading-eyes-arm-out",
+  "pose": "shading-eyes-arm-out",
+  "light": "hard-sun",
+  "scene": "staircase",
+  "image": "images/promi/shading-eyes-arm-out.webp",
+  "thumb": "thumbs/promi/shading-eyes-arm-out.webp"
+ },
+ {
+  "id": "promi-peeking-through-fingers",
+  "pose": "peeking-through-fingers",
+  "light": "high-key",
+  "scene": "city-street",
+  "image": "images/promi/peeking-through-fingers.webp",
+  "thumb": "thumbs/promi/peeking-through-fingers.webp"
+ },
+ {
+  "id": "promi-light-rembrandt",
+  "light": "rembrandt",
+  "image": "images/promi/light-rembrandt.webp",
+  "thumb": "thumbs/promi/light-rembrandt.webp"
+ },
+ {
+  "id": "promi-light-butterfly",
+  "light": "butterfly",
+  "image": "images/promi/light-butterfly.webp",
+  "thumb": "thumbs/promi/light-butterfly.webp"
+ },
+ {
+  "id": "promi-light-split",
+  "light": "split",
+  "image": "images/promi/light-split.webp",
+  "thumb": "thumbs/promi/light-split.webp"
+ },
+ {
+  "id": "promi-light-loop",
+  "light": "loop",
+  "image": "images/promi/light-loop.webp",
+  "thumb": "thumbs/promi/light-loop.webp"
+ },
+ {
+  "id": "promi-light-rim",
+  "light": "rim",
+  "image": "images/promi/light-rim.webp",
+  "thumb": "thumbs/promi/light-rim.webp"
+ },
+ {
+  "id": "promi-light-window",
+  "light": "window",
+  "image": "images/promi/light-window.webp",
+  "thumb": "thumbs/promi/light-window.webp"
+ },
+ {
+  "id": "promi-light-golden-hour",
+  "light": "golden-hour",
+  "image": "images/promi/light-golden-hour.webp",
+  "thumb": "thumbs/promi/light-golden-hour.webp"
+ },
+ {
+  "id": "promi-light-blue-hour",
+  "light": "blue-hour",
+  "image": "images/promi/light-blue-hour.webp",
+  "thumb": "thumbs/promi/light-blue-hour.webp"
+ },
+ {
+  "id": "promi-light-overcast",
+  "light": "overcast",
+  "image": "images/promi/light-overcast.webp",
+  "thumb": "thumbs/promi/light-overcast.webp"
+ },
+ {
+  "id": "promi-light-hard-sun",
+  "light": "hard-sun",
+  "image": "images/promi/light-hard-sun.webp",
+  "thumb": "thumbs/promi/light-hard-sun.webp"
+ },
+ {
+  "id": "promi-light-neon",
+  "light": "neon",
+  "image": "images/promi/light-neon.webp",
+  "thumb": "thumbs/promi/light-neon.webp"
+ },
+ {
+  "id": "promi-light-candle",
+  "light": "candle",
+  "image": "images/promi/light-candle.webp",
+  "thumb": "thumbs/promi/light-candle.webp"
+ },
+ {
+  "id": "promi-light-dappled",
+  "light": "dappled",
+  "image": "images/promi/light-dappled.webp",
+  "thumb": "thumbs/promi/light-dappled.webp"
+ },
+ {
+  "id": "promi-light-blinds",
+  "light": "blinds",
+  "image": "images/promi/light-blinds.webp",
+  "thumb": "thumbs/promi/light-blinds.webp"
+ },
+ {
+  "id": "promi-light-high-key",
+  "light": "high-key",
+  "image": "images/promi/light-high-key.webp",
+  "thumb": "thumbs/promi/light-high-key.webp"
+ },
+ {
+  "id": "promi-light-low-key",
+  "light": "low-key",
+  "image": "images/promi/light-low-key.webp",
+  "thumb": "thumbs/promi/light-low-key.webp"
+ }
+]

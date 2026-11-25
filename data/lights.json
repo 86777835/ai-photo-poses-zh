@@ -1,0 +1,178 @@
+[
+ {
+  "id": "rembrandt",
+  "name": {
+   "en": "Rembrandt light",
+   "zh": "伦勃朗光"
+  },
+  "prompt": "one soft key light high at 45 degrees to the side, a small triangle of light on the shadow-side cheek, dark moody background",
+  "image": "images/lights/rembrandt.webp",
+  "thumb": "thumbs/lights/rembrandt.webp",
+  "example_prompt": "A photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Rembrandt light — one soft key light high at 45 degrees to the side, a small triangle of light on the shadow-side cheek, dark moody background. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "butterfly",
+  "name": {
+   "en": "Butterfly light",
+   "zh": "蝴蝶光"
+  },
+  "prompt": "key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, even glamorous light",
+  "image": "images/lights/butterfly.webp",
+  "thumb": "thumbs/lights/butterfly.webp",
+  "example_prompt": "A photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Butterfly light — key light high and straight in front of the face, a small butterfly-shaped shadow under the nose, even glamorous light. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "split",
+  "name": {
+   "en": "Split light",
+   "zh": "分割光"
+  },
+  "prompt": "hard light from exactly 90 degrees to one side, half of the face lit and half in shadow, dramatic",
+  "image": "images/lights/split.webp",
+  "thumb": "thumbs/lights/split.webp",
+  "example_prompt": "A photograph of a young East Asian woman with long straight black hair. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Split light — hard light from exactly 90 degrees to one side, half of the face lit and half in shadow, dramatic. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "loop",
+  "name": {
+   "en": "Loop light",
+   "zh": "环形光"
+  },
+  "prompt": "key light slightly above and 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light",
+  "image": "images/lights/loop.webp",
+  "thumb": "thumbs/lights/loop.webp",
+  "example_prompt": "A photograph of a young white European woman with long red curly hair and freckles. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Loop light — key light slightly above and 30 degrees to the side, a small loop shadow from the nose on the cheek, natural flattering light. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "rim",
+  "name": {
+   "en": "Rim backlight",
+   "zh": "轮廓逆光"
+  },
+  "prompt": "strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background",
+  "image": "images/lights/rim.webp",
+  "thumb": "thumbs/lights/rim.webp",
+  "example_prompt": "A photograph of a young Black woman with natural curly hair. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Rim backlight — strong light from behind outlining the hair and shoulders with a glowing rim, face softly filled, dark background. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "window",
+  "name": {
+   "en": "Window light",
+   "zh": "窗边柔光"
+  },
+  "prompt": "large soft daylight from a window on one side, gentle falloff into shadow, calm indoor mood",
+  "image": "images/lights/window.webp",
+  "thumb": "thumbs/lights/window.webp",
+  "example_prompt": "A photograph of a young white European woman with long dark brown hair in a low ponytail. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Window light — large soft daylight from a window on one side, gentle falloff into shadow, calm indoor mood. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "golden-hour",
+  "name": {
+   "en": "Golden hour",
+   "zh": "黄金时刻"
+  },
+  "prompt": "low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood",
+  "image": "images/lights/golden-hour.webp",
+  "thumb": "thumbs/lights/golden-hour.webp",
+  "example_prompt": "A photograph of a white European woman in her early forties with wavy chestnut hair. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Golden hour — low warm sunset sun from behind and to the side, golden glow and lens flare, warm outdoor mood. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "blue-hour",
+  "name": {
+   "en": "Blue hour",
+   "zh": "蓝调时刻"
+  },
+  "prompt": "deep blue twilight sky after sunset, cool ambient light with warm city lights in the background",
+  "image": "images/lights/blue-hour.webp",
+  "thumb": "thumbs/lights/blue-hour.webp",
+  "example_prompt": "A photograph of a white European man in his early thirties with short dark brown hair and light stubble. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Blue hour — deep blue twilight sky after sunset, cool ambient light with warm city lights in the background. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "overcast",
+  "name": {
+   "en": "Overcast soft light",
+   "zh": "阴天散射光"
+  },
+  "prompt": "soft shadowless light from a cloudy sky, natural muted colours, outdoors",
+  "image": "images/lights/overcast.webp",
+  "thumb": "thumbs/lights/overcast.webp",
+  "example_prompt": "A photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Overcast soft light — soft shadowless light from a cloudy sky, natural muted colours, outdoors. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "hard-sun",
+  "name": {
+   "en": "Hard midday sun",
+   "zh": "正午硬光"
+  },
+  "prompt": "bright high midday sun, crisp hard shadows, saturated summer colours, outdoors",
+  "image": "images/lights/hard-sun.webp",
+  "thumb": "thumbs/lights/hard-sun.webp",
+  "example_prompt": "A photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Hard midday sun — bright high midday sun, crisp hard shadows, saturated summer colours, outdoors. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "neon",
+  "name": {
+   "en": "Neon night",
+   "zh": "霓虹夜景"
+  },
+  "prompt": "magenta and cyan neon signs lighting her from both sides at night, wet reflective street, cinematic",
+  "image": "images/lights/neon.webp",
+  "thumb": "thumbs/lights/neon.webp",
+  "example_prompt": "A photograph of a young East Asian woman with long straight black hair. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Neon night — magenta and cyan neon signs lighting her from both sides at night, wet reflective street, cinematic. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "candle",
+  "name": {
+   "en": "Candlelight",
+   "zh": "烛光"
+  },
+  "prompt": "warm flickering candlelight from below and in front, deep dark surroundings, intimate mood",
+  "image": "images/lights/candle.webp",
+  "thumb": "thumbs/lights/candle.webp",
+  "example_prompt": "A photograph of a young white European woman with long red curly hair and freckles. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Candlelight — warm flickering candlelight from below and in front, deep dark surroundings, intimate mood. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "dappled",
+  "name": {
+   "en": "Dappled light",
+   "zh": "树影斑驳光"
+  },
+  "prompt": "sunlight through tree leaves making dappled spots of light and shadow on her and the ground",
+  "image": "images/lights/dappled.webp",
+  "thumb": "thumbs/lights/dappled.webp",
+  "example_prompt": "A photograph of a young Black woman with natural curly hair. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Dappled light — sunlight through tree leaves making dappled spots of light and shadow on her and the ground. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "blinds",
+  "name": {
+   "en": "Venetian blind shadows",
+   "zh": "百叶窗光影"
+  },
+  "prompt": "hard sunlight through venetian blinds casting striped shadows across her and the wall",
+  "image": "images/lights/blinds.webp",
+  "thumb": "thumbs/lights/blinds.webp",
+  "example_prompt": "A photograph of a young white European woman with long dark brown hair in a low ponytail. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Venetian blind shadows — hard sunlight through venetian blinds casting striped shadows across her and the wall. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "high-key",
+  "name": {
+   "en": "High key",
+   "zh": "高调白光"
+  },
+  "prompt": "bright, even, almost shadowless light on a pure white background, airy and clean",
+  "image": "images/lights/high-key.webp",
+  "thumb": "thumbs/lights/high-key.webp",
+  "example_prompt": "A photograph of a white European woman in her early forties with wavy chestnut hair. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: High key — bright, even, almost shadowless light on a pure white background, airy and clean. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "low-key",
+  "name": {
+   "en": "Low key",
+   "zh": "低调暗光"
+  },
+  "prompt": "a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro",
+  "image": "images/lights/low-key.webp",
+  "thumb": "thumbs/lights/low-key.webp",
+  "example_prompt": "A photograph of a white European man in his early thirties with short dark brown hair and light stubble. Half-body portrait, standing relaxed and facing the camera at a slight angle, wearing a simple ivory long-sleeve knit top. Lighting: Low key — a single narrow light on a black background, most of the frame in deep shadow, chiaroscuro. The lighting is the subject of this image: make it clearly recognisable. 85 mm lens, natural skin texture. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ }
+]

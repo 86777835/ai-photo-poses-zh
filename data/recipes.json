@@ -1,0 +1,56 @@
+[
+ {
+  "id": "professional-headshot",
+  "name": {
+   "zh": "自拍变职业头像",
+   "en": "Selfie to professional headshot"
+  },
+  "image": "https://promicat.app/api/media/recipe/professional-headshot-sample-01?w=640",
+  "url": "https://promicat.app/zh/recipes/professional-headshot?ref=github"
+ },
+ {
+  "id": "lifestyle-profile-photo",
+  "name": {
+   "zh": "生活感头像照",
+   "en": "Lifestyle profile photo"
+  },
+  "image": "https://promicat.app/api/media/recipe/lifestyle-profile-photo-sample-01?w=640",
+  "url": "https://promicat.app/zh/recipes/lifestyle-profile-photo?ref=github"
+ },
+ {
+  "id": "animated-family-portrait",
+  "name": {
+   "zh": "3D 动画全家福",
+   "en": "3D animated family portrait"
+  },
+  "image": "https://promicat.app/api/media/recipe/animated-family-portrait-sample-01?w=640",
+  "url": "https://promicat.app/zh/recipes/animated-family-portrait?ref=github"
+ },
+ {
+  "id": "royal-pet-portrait",
+  "name": {
+   "zh": "皇家宠物肖像",
+   "en": "Royal pet portrait"
+  },
+  "image": "https://promicat.app/api/media/recipe/royal-pet-portrait-sample-01?w=640",
+  "url": "https://promicat.app/zh/recipes/royal-pet-portrait?ref=github"
+ },
+ {
+  "id": "holiday-pet-photo",
+  "name": {
+   "zh": "节日宠物照",
+   "en": "Holiday pet photo"
+  },
+  "image": "https://promicat.app/api/media/recipe/holiday-pet-photo-sample-01?w=640",
+  "url": "https://promicat.app/zh/recipes/holiday-pet-photo?ref=github"
+ },
+ {
+  "id": "product-lifestyle-scene",
+  "name": {
+   "zh": "产品生活场景图",
+   "en": "Product lifestyle scene"
+  },
+  "image": "https://promicat.app/api/media/recipe/product-lifestyle-scene-sample-01?w=640",
+  "url": "https://promicat.app/zh/recipes/product-lifestyle-scene?ref=github"
+ }
+]

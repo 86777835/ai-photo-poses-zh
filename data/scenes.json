@@ -1,0 +1,156 @@
+[
+ {
+  "id": "plaster-studio",
+  "name": {
+   "en": "warm neutral plaster studio backdrop",
+   "zh": "暖色素墙影棚"
+  },
+  "prompt": "warm neutral plaster studio backdrop",
+  "image": "images/scenes/plaster-studio.webp",
+  "thumb": "thumbs/scenes/plaster-studio.webp",
+  "example_prompt": "A photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes, wearing an ivory silk dress with long sleeves and a flowing long skirt, in warm neutral plaster studio backdrop. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "beach",
+  "name": {
+   "en": "an empty sunlit beach with soft waves",
+   "zh": "海边沙滩"
+  },
+  "prompt": "an empty sunlit beach with soft waves",
+  "image": "images/scenes/beach.webp",
+  "thumb": "thumbs/scenes/beach.webp",
+  "example_prompt": "A photograph of a young East Asian woman with long straight black hair, wearing a cream linen shirt and wide high-waisted linen trousers, in an empty sunlit beach with soft waves. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "city-street",
+  "name": {
+   "en": "a quiet European city street",
+   "zh": "城市街道"
+  },
+  "prompt": "a quiet European city street",
+  "image": "images/scenes/city-street.webp",
+  "thumb": "thumbs/scenes/city-street.webp",
+  "example_prompt": "A photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes, wearing a chunky oatmeal knit sweater and a long pleated skirt, in a quiet European city street. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "cafe",
+  "name": {
+   "en": "a cosy café by the window",
+   "zh": "咖啡馆窗边"
+  },
+  "prompt": "a cosy café by the window",
+  "image": "images/scenes/cafe.webp",
+  "thumb": "thumbs/scenes/cafe.webp",
+  "example_prompt": "A photograph of a white European man in his late twenties with tousled blond hair, wearing a black suit with a white shirt, no tie, in a cosy café by the window. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "forest",
+  "name": {
+   "en": "a green forest clearing",
+   "zh": "森林空地"
+  },
+  "prompt": "a green forest clearing",
+  "image": "images/scenes/forest.webp",
+  "thumb": "thumbs/scenes/forest.webp",
+  "example_prompt": "A photograph of a young Black woman with natural curly hair, wearing an emerald satin evening gown with long sleeves, in a green forest clearing. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "rooftop",
+  "name": {
+   "en": "a city rooftop with a skyline view",
+   "zh": "城市天台"
+  },
+  "prompt": "a city rooftop with a skyline view",
+  "image": "images/scenes/rooftop.webp",
+  "thumb": "thumbs/scenes/rooftop.webp",
+  "example_prompt": "A photograph of a white European woman in her early forties with wavy chestnut hair, wearing a light blue denim shirt and white wide-leg jeans, in a city rooftop with a skyline view. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "flower-field",
+  "name": {
+   "en": "a wide field of wildflowers",
+   "zh": "花田"
+  },
+  "prompt": "a wide field of wildflowers",
+  "image": "images/scenes/flower-field.webp",
+  "thumb": "thumbs/scenes/flower-field.webp",
+  "example_prompt": "A photograph of a young white European woman with long red curly hair and freckles, wearing a black turtleneck and tailored black trousers, in a wide field of wildflowers. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "apartment",
+  "name": {
+   "en": "a minimal bright apartment with linen curtains",
+   "zh": "极简公寓"
+  },
+  "prompt": "a minimal bright apartment with linen curtains",
+  "image": "images/scenes/apartment.webp",
+  "thumb": "thumbs/scenes/apartment.webp",
+  "example_prompt": "A photograph of a young white European woman with long dark brown hair in a low ponytail, wearing a floral midi dress with puff sleeves, in a minimal bright apartment with linen curtains. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "library",
+  "name": {
+   "en": "an old library with tall wooden bookshelves",
+   "zh": "老图书馆"
+  },
+  "prompt": "an old library with tall wooden bookshelves",
+  "image": "images/scenes/library.webp",
+  "thumb": "thumbs/scenes/library.webp",
+  "example_prompt": "A photograph of a white European man in his early thirties with short dark brown hair and light stubble, wearing a black suit with a white shirt, no tie, in an old library with tall wooden bookshelves. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "gallery",
+  "name": {
+   "en": "a white art gallery with large paintings",
+   "zh": "美术馆"
+  },
+  "prompt": "a white art gallery with large paintings",
+  "image": "images/scenes/gallery.webp",
+  "thumb": "thumbs/scenes/gallery.webp",
+  "example_prompt": "A photograph of a Latino man in his late twenties with wavy black hair, wearing a denim jacket over a white T-shirt and black jeans, in a white art gallery with large paintings. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "desert",
+  "name": {
+   "en": "golden sand dunes in a desert",
+   "zh": "沙漠沙丘"
+  },
+  "prompt": "golden sand dunes in a desert",
+  "image": "images/scenes/desert.webp",
+  "thumb": "thumbs/scenes/desert.webp",
+  "example_prompt": "A photograph of a young white European woman in her mid-twenties with shoulder-length light brown hair and green eyes, wearing a chunky oatmeal knit sweater and a long pleated skirt, in golden sand dunes in a desert. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "rainy-street",
+  "name": {
+   "en": "a rainy street with reflections on the pavement",
+   "zh": "雨夜街头"
+  },
+  "prompt": "a rainy street with reflections on the pavement",
+  "image": "images/scenes/rainy-street.webp",
+  "thumb": "thumbs/scenes/rainy-street.webp",
+  "example_prompt": "A photograph of a young East Asian woman with long straight black hair, wearing a camel trench coat over a white knit dress, in a rainy street with reflections on the pavement. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "garden",
+  "name": {
+   "en": "a formal garden with stone paths and hedges",
+   "zh": "庭院花园"
+  },
+  "prompt": "a formal garden with stone paths and hedges",
+  "image": "images/scenes/garden.webp",
+  "thumb": "thumbs/scenes/garden.webp",
+  "example_prompt": "A photograph of a young Scandinavian woman with a platinum blonde bob and blue eyes, wearing an emerald satin evening gown with long sleeves, in a formal garden with stone paths and hedges. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ },
+ {
+  "id": "staircase",
+  "name": {
+   "en": "a sweeping marble staircase",
+   "zh": "大理石楼梯"
+  },
+  "prompt": "a sweeping marble staircase",
+  "image": "images/scenes/staircase.webp",
+  "thumb": "thumbs/scenes/staircase.webp",
+  "example_prompt": "A photograph of a white European man in his late twenties with tousled blond hair, wearing a black suit with a white shirt, no tie, in a sweeping marble staircase. Full-body environmental portrait: the place is the subject of this image, she or he is small-to-medium in frame and fits naturally into it. Natural light that suits the place. 35 mm lens, editorial travel photography. Portrait 3:4. Tasteful and elegant, modest opaque clothing, no nudity, no lingerie, no text, no logo, no watermark."
+ }
+]
