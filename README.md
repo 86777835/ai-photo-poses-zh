@@ -13,7 +13,7 @@
 - **自己组装人像配方**：从 436 个组件里挑，几行 JSON 就是一套新配方，脚本帮你拼成提示词。
 - **给 AI 生图当姿势参考**：你的照片作为第一张参考图，白模图作为第二张。GPT Image、Nano Banana、Seedream、即梦等都能用。
 - **拍照前找姿势、学光影**：姿势按站、坐、跪、卧、蹲、半身分类；每种光都有示例照和一句能直接用的描述。
-- **给 Agent 用**：自带 Agent Skill（`skills/`）、结构化 JSON（`data/`）和组装脚本（`scripts/`）。
+- **给 Agent 用**：自带两个 Agent Skill（`skills/`），其中「照片配姿势」能看用户的照片自动推荐姿势并生成写真；另有结构化 JSON（`data/`）和组装脚本（`scripts/`）。
 
 ## 写真姿势
 
@@ -279,7 +279,7 @@ Promicat 的吉祥物 Promi 也把这些姿势和光影拍了一遍（55 张）�
 
 | 文件 | 内容 |
 | --- | --- |
-| `data/photo-poses.json` | 200 组写真姿势：风格、姿势名和分类、写真照、白模、示例提示词、「用你的照片」提示词 |
+| `data/photo-poses.json` | 200 组写真姿势：风格、姿势名和分类、动作描述（`pose_text`）、全身或半身（`framing`）、写真照（`photo`）、白模（`pose`）、在线页面（`url`）、示例提示词、「用你的照片」提示词 |
 | `data/portrait-recipes.json` | 24 套人像写真配方：用了哪些组件、每张的组件 id、样片、两版完整提示词、姿势参考图 |
 | `data/components.json` | 人像组件库：20 个槽位、436 个组件，姿势组件带白模图 |
 | `data/poses.json` | 姿势：中英文名、分类、各机位白模图、3D 姿势数据（`pose3d`）、在线页面 |
@@ -293,7 +293,20 @@ Promicat 的吉祥物 Promi 也把这些姿势和光影拍了一遍（55 张）�
 
 ## Agent Skill
 
-`skills/ai-photo-poses/SKILL.md`：让 Claude Code、Codex 等 Agent 按需求套用或组装人像配方、挑姿势，拼好提示词，并给出参考图路径。把 `skills/ai-photo-poses` 复制到你的 Agent 技能目录即可。
+两个技能，复制到你的 Agent（Claude Code、Codex 等）的技能目录即可：
+
+- **`skills/photo-pose-match`：照片配姿势**。用户发来自己的照片，Agent 看照片的穿着、气质和画面风格，从 200 组写真姿势里挑出适合的几组并说明理由，再用「用户照片 + 白模」直接生成写真；没有生图工具时给出 Promicat 页面链接，可以一键生成。只装这个技能、不克隆仓库也能用（`recommend.py --remote` 会从 GitHub 读取数据）。
+
+  <img src="images/skill-demo.webp" width="540" alt="照片配姿势示例：用户照片、白模、生成结果">
+
+  <sub>左：用户照片（示例人物为 AI 生成的虚构人物）　中：技能挑出的白模　右：生成结果。上面一组换成了港风复古的服装，下面一组用 `--keep-outfit` 保留了原来的衣服。</sub>
+
+  ```bash
+  python3 skills/photo-pose-match/recommend.py --list-styles
+  python3 skills/photo-pose-match/recommend.py --style street,hkretro --group stand,lean --limit 6
+  python3 skills/photo-pose-match/recommend.py --id sp101 --keep-outfit   # 保留用户自己的衣服
+  ```
+- **`skills/ai-photo-poses`：写真配方和姿势大全**。按需求套用或组装整套写真配方、挑姿势、拼好提示词，并给出参考图路径。
 
 ## 协议与来源
 
