@@ -1,0 +1,15 @@
+{
+  "name": "ai-photo-poses",
+  "owner": {
+    "name": "leisure-cat",
+    "url": "https://github.com/leisure-cat"
+  },
+  "description": "Portrait pose skills by Promicat: match poses to a user photo and generate portraits from white models.",
+  "plugins": [
+    {
+      "name": "ai-photo-poses",
+      "source": "./",
+      "description": "Match portrait poses to a user photo and generate the shot from 200 white models in 20 styles; assemble AI portrait recipes."
+    }
+  ]
+}

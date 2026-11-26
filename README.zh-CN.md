@@ -15,7 +15,7 @@
 - **24 套写真配方**（216 张样片），由 436 个提示词组件拼成
 - **2 个 Agent Skill**：其中一个能看用户的照片、推荐姿势并直接生成写真
 - 图片和数据 CC BY 4.0，代码 MIT。所有人物都由 AI 生成，均为虚构。
-- 最近更新 (2026-11-26): 每个白模现在有 4 张写真案例（新增 600 张不同风格的案例，附提示词），风格页把它们和白模并排展示 · [更新记录](CHANGELOG.md)
+- 最近更新 (2026-11-26): 可以作为 Claude Code 插件一键安装：`/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses` · [更新记录](CHANGELOG.md)
 
 ## 目录
 
@@ -59,7 +59,20 @@
 <a id="skills"></a>
 ## Agent Skills
 
-把 `skills/` 下的文件夹复制到你的 Agent（Claude Code、Codex 等）的技能目录即可。
+**在 Claude Code 里安装**（两个技能打包成一个插件）：
+
+```text
+/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses
+```
+
+旧版本 Claude Code：
+
+```text
+/plugin marketplace add leisure-cat/ai-photo-poses
+/plugin install ai-photo-poses@ai-photo-poses
+```
+
+**Codex 等其他 Agent**：把 `skills/` 下的文件夹复制到 `~/.agents/skills/`（或你的 Agent 的技能目录）。只复制技能、没有整个仓库时，脚本加 `--remote`。
 
 **`skills/photo-pose-match`：照片配姿势。** 用户发来照片，Agent 看穿着、气质和画面风格，从 200 组写真姿势里挑几组并说明理由，再用「用户照片 + 白模」直接生成写真；没有生图工具时给出 Promicat 页面链接。不克隆仓库也能用：`recommend.py --remote` 会从 GitHub 读取数据。
 

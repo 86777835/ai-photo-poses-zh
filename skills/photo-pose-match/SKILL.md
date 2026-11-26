@@ -15,7 +15,7 @@ python3 skills/photo-pose-match/recommend.py --style street,hkretro --group stan
 python3 skills/photo-pose-match/recommend.py --id sp101 --keep-outfit
 ```
 
-如果只装了这个技能、没有克隆整个仓库，加 `--remote`：数据和图片都从 GitHub 读取，图片路径是可以直接下载的链接。
+作为 Claude Code 插件安装时，脚本路径是 `${CLAUDE_PLUGIN_ROOT}/skills/photo-pose-match/recommend.py`。如果只装了这个技能、没有克隆整个仓库，加 `--remote`：数据和图片都从 GitHub 读取，图片路径是可以直接下载的链接。
 
 ## 怎么做
 

@@ -149,8 +149,18 @@ def readme(lang):
 
     # Skills
     out += ['<a id="skills"></a>', '## Agent Skills', '',
-            L('Copy a folder from `skills/` into your agent\'s skills directory (Claude Code, Codex and others).',
-              '把 `skills/` 下的文件夹复制到你的 Agent（Claude Code、Codex 等）的技能目录即可。'), '',
+            L('**Install in Claude Code** (both skills, one plugin):', '**在 Claude Code 里安装**（两个技能打包成一个插件）：'), '',
+            '```text',
+            '/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses',
+            '```', '',
+            L('On older Claude Code versions:', '旧版本 Claude Code：'), '',
+            '```text',
+            '/plugin marketplace add leisure-cat/ai-photo-poses',
+            '/plugin install ai-photo-poses@ai-photo-poses',
+            '```', '',
+            L('**Codex and other agents**: copy a folder from `skills/` into `~/.agents/skills/` (or your agent\'s skills directory). '
+              'Without the rest of the repo, run the script with `--remote`.',
+              '**Codex 等其他 Agent**：把 `skills/` 下的文件夹复制到 `~/.agents/skills/`（或你的 Agent 的技能目录）。只复制技能、没有整个仓库时，脚本加 `--remote`。'), '',
             L('**`skills/photo-pose-match`: match poses to a photo.** The user sends a photo; the agent reads the outfit, mood and setting, '
               f'picks a few of the {len(PP)} photo poses with a reason for each, then generates the portrait from "user photo + white model". '
               'Without an image tool it hands over the Promicat link instead. Works without cloning: `recommend.py --remote` reads the data from GitHub.',

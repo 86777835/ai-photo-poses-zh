@@ -5,6 +5,8 @@ Newest first. The first entry's two bullets (English, then Chinese) appear in th
 
 ## 2026-11-26
 
+- Installable as a Claude Code plugin: `/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses`
+- 可以作为 Claude Code 插件一键安装：`/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses`
 - Every white model now has 4 portraits (600 new cases in other styles, with prompts); style pages show them next to the white model
 - 每个白模现在有 4 张写真案例（新增 600 张不同风格的案例，附提示词），风格页把它们和白模并排展示
 - English README by default with a Simplified Chinese version; every style page in both languages; repo moved to `leisure-cat/ai-photo-poses`

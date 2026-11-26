@@ -15,7 +15,7 @@ English · [简体中文](README.zh-CN.md)
 - **24 portrait recipes** (216 sample shots) assembled from 436 prompt components
 - **2 Agent Skills**: one looks at a user photo, recommends poses and generates the portrait
 - Images and data under CC BY 4.0, code under MIT. All people are AI-generated and fictional.
-- Latest update (2026-11-26): Every white model now has 4 portraits (600 new cases in other styles, with prompts); style pages show them next to the white model · [Changelog](CHANGELOG.md)
+- Latest update (2026-11-26): Installable as a Claude Code plugin: `/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses` · [Changelog](CHANGELOG.md)
 
 ## Contents
 
@@ -59,7 +59,20 @@ Each pose is a sample photo and a white model drawn from it. The white model is 
 <a id="skills"></a>
 ## Agent Skills
 
-Copy a folder from `skills/` into your agent's skills directory (Claude Code, Codex and others).
+**Install in Claude Code** (both skills, one plugin):
+
+```text
+/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses
+```
+
+On older Claude Code versions:
+
+```text
+/plugin marketplace add leisure-cat/ai-photo-poses
+/plugin install ai-photo-poses@ai-photo-poses
+```
+
+**Codex and other agents**: copy a folder from `skills/` into `~/.agents/skills/` (or your agent's skills directory). Without the rest of the repo, run the script with `--remote`.
 
 **`skills/photo-pose-match`: match poses to a photo.** The user sends a photo; the agent reads the outfit, mood and setting, picks a few of the 200 photo poses with a reason for each, then generates the portrait from "user photo + white model". Without an image tool it hands over the Promicat link instead. Works without cloning: `recommend.py --remote` reads the data from GitHub.
 

@@ -1,0 +1,10 @@
+{
+  "name": "ai-photo-poses",
+  "description": "Match portrait poses to a user photo and generate the shot from 200 white models in 20 styles; assemble AI portrait recipes. Skills: photo-pose-match, ai-photo-poses.",
+  "version": "1.1.0",
+  "author": { "name": "Promicat", "url": "https://promicat.app" },
+  "homepage": "https://github.com/leisure-cat/ai-photo-poses",
+  "repository": "https://github.com/leisure-cat/ai-photo-poses",
+  "license": "MIT",
+  "keywords": ["portrait", "photography", "pose", "white-model", "ai-image", "prompt"]
+}
