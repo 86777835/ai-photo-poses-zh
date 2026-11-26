@@ -2,13 +2,15 @@
 
 English · [简体中文](y2k.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Squatting outside a convenience store with a popsicle (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp151?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp151-photo.webp" width="240" alt="Squatting outside a convenience store with a popsicle"></a> <img src="../thumbs/photo-poses/y2k/sp151-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Boho desert | Gothic | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp151-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp151?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp151-photo.webp" width="150" alt="Squatting outside a convenience store with a popsicle · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp151?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp151-case-boho.webp" width="150" alt="Squatting outside a convenience store with a popsicle · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp151?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp151-case-gothic.webp" width="150" alt="Squatting outside a convenience store with a popsicle · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp151?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp151-case-western.webp" width="150" alt="Squatting outside a convenience store with a popsicle · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp151-photo.webp) · [white model](../images/photo-poses/y2k/sp151-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp151?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Holding a flip phone to the ear (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp152?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp152-photo.webp" width="240" alt="Holding a flip phone to the ear"></a> <img src="../thumbs/photo-poses/y2k/sp152-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Boho desert | Cafe & bookshop | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp152-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp152?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp152-photo.webp" width="150" alt="Holding a flip phone to the ear · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp152?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp152-case-boho.webp" width="150" alt="Holding a flip phone to the ear · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp152?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp152-case-cafe.webp" width="150" alt="Holding a flip phone to the ear · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp152?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp152-case-oldmoney.webp" width="150" alt="Holding a flip phone to the ear · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp152-photo.webp) · [white model](../images/photo-poses/y2k/sp152-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp152?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Pushing the shop door open (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp153?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp153-photo.webp" width="240" alt="Pushing the shop door open"></a> <img src="../thumbs/photo-poses/y2k/sp153-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Seaside holiday | Cosy at home | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp153-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp153?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp153-photo.webp" width="150" alt="Pushing the shop door open · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp153?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp153-case-beach.webp" width="150" alt="Pushing the shop door open · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp153?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp153-case-home.webp" width="150" alt="Pushing the shop door open · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp153?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp153-case-nordic.webp" width="150" alt="Pushing the shop door open · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp153-photo.webp) · [white model](../images/photo-poses/y2k/sp153-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp153?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on the kerb with knees apart and elbows on them (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp154?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp154-photo.webp" width="240" alt="Sitting on the kerb with knees apart and elbows on them"></a> <img src="../thumbs/photo-poses/y2k/sp154-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | New Chinese style | Forest & flower field | Japanese fresh film |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp154-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp154?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp154-photo.webp" width="150" alt="Sitting on the kerb with knees apart and elbows on them · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp154?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp154-case-chinese.webp" width="150" alt="Sitting on the kerb with knees apart and elbows on them · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp154?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp154-case-flower.webp" width="150" alt="Sitting on the kerb with knees apart and elbows on them · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp154?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp154-case-jfilm.webp" width="150" alt="Sitting on the kerb with knees apart and elbows on them · Japanese fresh film"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp154-photo.webp) · [white model](../images/photo-poses/y2k/sp154-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp154?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a lit vending machine (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp155?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp155-photo.webp" width="240" alt="Leaning on a lit vending machine"></a> <img src="../thumbs/photo-poses/y2k/sp155-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | HK retro neon | Japanese fresh film | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp155-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp155?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp155-photo.webp" width="150" alt="Leaning on a lit vending machine · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp155?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp155-case-hkretro.webp" width="150" alt="Leaning on a lit vending machine · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp155?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp155-case-jfilm.webp" width="150" alt="Leaning on a lit vending machine · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp155?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp155-case-mood.webp" width="150" alt="Leaning on a lit vending machine · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp155-photo.webp) · [white model](../images/photo-poses/y2k/sp155-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp155?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Flipping the hair with a hand (In motion)
 
-<a href="https://promicat.app/poses/styles/sp156?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp156-photo.webp" width="240" alt="Flipping the hair with a hand"></a> <img src="../thumbs/photo-poses/y2k/sp156-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Cafe & bookshop | Cyberpunk neon | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp156-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp156?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp156-photo.webp" width="150" alt="Flipping the hair with a hand · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp156?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp156-case-cafe.webp" width="150" alt="Flipping the hair with a hand · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp156?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp156-case-cyber.webp" width="150" alt="Flipping the hair with a hand · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp156?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp156-case-nordic.webp" width="150" alt="Flipping the hair with a hand · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp156-photo.webp) · [white model](../images/photo-poses/y2k/sp156-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp156?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking through a mall holding shopping bags (Walking)
 
-<a href="https://promicat.app/poses/styles/sp157?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp157-photo.webp" width="240" alt="Walking through a mall holding shopping bags"></a> <img src="../thumbs/photo-poses/y2k/sp157-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Gothic | Cosy at home | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp157-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp157?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp157-photo.webp" width="150" alt="Walking through a mall holding shopping bags · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp157?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp157-case-gothic.webp" width="150" alt="Walking through a mall holding shopping bags · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp157?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp157-case-home.webp" width="150" alt="Walking through a mall holding shopping bags · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp157?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp157-case-oldmoney.webp" width="150" alt="Walking through a mall holding shopping bags · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp157-photo.webp) · [white model](../images/photo-poses/y2k/sp157-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp157?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Holding a small digital camera at arm length for a selfie (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp158?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp158-photo.webp" width="240" alt="Holding a small digital camera at arm length for a selfie"></a> <img src="../thumbs/photo-poses/y2k/sp158-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Campus youth | Street punk | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp158-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp158?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp158-photo.webp" width="150" alt="Holding a small digital camera at arm length for a selfie · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp158?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp158-case-campus.webp" width="150" alt="Holding a small digital camera at arm length for a selfie · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp158?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp158-case-punk.webp" width="150" alt="Holding a small digital camera at arm length for a selfie · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp158?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp158-case-street.webp" width="150" alt="Holding a small digital camera at arm length for a selfie · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp158-photo.webp) · [white model](../images/photo-poses/y2k/sp158-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp158?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on an escalator rail on the forearms (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp159?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp159-photo.webp" width="240" alt="Leaning on an escalator rail on the forearms"></a> <img src="../thumbs/photo-poses/y2k/sp159-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Boho desert | Forest & flower field | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp159-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp159?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp159-photo.webp" width="150" alt="Leaning on an escalator rail on the forearms · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp159?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp159-case-boho.webp" width="150" alt="Leaning on an escalator rail on the forearms · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp159?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp159-case-flower.webp" width="150" alt="Leaning on an escalator rail on the forearms · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp159?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp159-case-western.webp" width="150" alt="Leaning on an escalator rail on the forearms · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp159-photo.webp) · [white model](../images/photo-poses/y2k/sp159-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp159?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing on tiptoe making a heart with the hands (Standing)
 
-<a href="https://promicat.app/poses/styles/sp160?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp160-photo.webp" width="240" alt="Standing on tiptoe making a heart with the hands"></a> <img src="../thumbs/photo-poses/y2k/sp160-pose.webp" width="240" alt="White model">
+| White model | Y2K flash | Seaside holiday | Cyberpunk neon | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/y2k/sp160-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp160?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp160-photo.webp" width="150" alt="Standing on tiptoe making a heart with the hands · Y2K flash"></a> | <a href="https://promicat.app/poses/styles/sp160?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp160-case-beach.webp" width="150" alt="Standing on tiptoe making a heart with the hands · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp160?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp160-case-cyber.webp" width="150" alt="Standing on tiptoe making a heart with the hands · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp160?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/y2k/sp160-case-street.webp" width="150" alt="Standing on tiptoe making a heart with the hands · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/y2k/sp160-photo.webp) · [white model](../images/photo-poses/y2k/sp160-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp160?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

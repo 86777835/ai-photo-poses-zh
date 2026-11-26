@@ -2,13 +2,15 @@
 
 [English](beach.md) · 简体中文
 
-10 组写真姿势：一张示例写真和照着它画的白模。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
+10 个白模，每个配 4 张用它拍出的不同风格写真。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
 
 [← 返回全部风格](../README.zh-CN.md#photo-poses)
 
 ## 提裙回眸 (回眸)
 
-<a href="https://promicat.app/zh/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-photo.webp" width="240" alt="提裙回眸"></a> <img src="../thumbs/photo-poses/beach/sp021-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 新中式 | 日系清新 | 老钱风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp021-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-photo.webp" width="150" alt="提裙回眸 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-case-chinese.webp" width="150" alt="提裙回眸 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-case-jfilm.webp" width="150" alt="提裙回眸 · 日系清新"></a> | <a href="https://promicat.app/zh/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-case-oldmoney.webp" width="150" alt="提裙回眸 · 老钱风"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp021-photo.webp) · [白模](../images/photo-poses/beach/sp021-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 赤脚踢水 (动态)
 
-<a href="https://promicat.app/zh/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-photo.webp" width="240" alt="赤脚踢水"></a> <img src="../thumbs/photo-poses/beach/sp022-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 咖啡馆文艺 | 暗黑哥特 | 居家慵懒 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp022-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-photo.webp" width="150" alt="赤脚踢水 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-case-cafe.webp" width="150" alt="赤脚踢水 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-case-gothic.webp" width="150" alt="赤脚踢水 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-case-home.webp" width="150" alt="赤脚踢水 · 居家慵懒"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp022-photo.webp) · [白模](../images/photo-poses/beach/sp022-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 坐沙抱膝 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-photo.webp" width="240" alt="坐沙抱膝"></a> <img src="../thumbs/photo-poses/beach/sp023-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 校园青春 | 森系花田 | 港风复古 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp023-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-photo.webp" width="150" alt="坐沙抱膝 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-case-campus.webp" width="150" alt="坐沙抱膝 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-case-flower.webp" width="150" alt="坐沙抱膝 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-case-hkretro.webp" width="150" alt="坐沙抱膝 · 港风复古"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp023-photo.webp) · [白模](../images/photo-poses/beach/sp023-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 按帽子 (站)
 
-<a href="https://promicat.app/zh/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-photo.webp" width="240" alt="按帽子"></a> <img src="../thumbs/photo-poses/beach/sp024-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 波西米亚 | 咖啡馆文艺 | 好莱坞复古 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp024-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-photo.webp" width="150" alt="按帽子 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-case-boho.webp" width="150" alt="按帽子 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-case-cafe.webp" width="150" alt="按帽子 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-case-hollywood.webp" width="150" alt="按帽子 · 好莱坞复古"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp024-photo.webp) · [白模](../images/photo-poses/beach/sp024-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 拎鞋走 (走)
 
-<a href="https://promicat.app/zh/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-photo.webp" width="240" alt="拎鞋走"></a> <img src="../thumbs/photo-poses/beach/sp025-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 赛博霓虹 | 情绪棚拍 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp025-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-photo.webp" width="150" alt="拎鞋走 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-case-cyber.webp" width="150" alt="拎鞋走 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-case-mood.webp" width="150" alt="拎鞋走 · 情绪棚拍"></a> | <a href="https://promicat.app/zh/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-case-y2k.webp" width="150" alt="拎鞋走 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp025-photo.webp) · [白模](../images/photo-poses/beach/sp025-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 侧躺沙滩 (躺)
 
-<a href="https://promicat.app/zh/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-photo.webp" width="240" alt="侧躺沙滩"></a> <img src="../thumbs/photo-poses/beach/sp026-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 北欧极简 | 街头朋克 | 街拍时尚 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp026-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-photo.webp" width="150" alt="侧躺沙滩 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-case-nordic.webp" width="150" alt="侧躺沙滩 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-case-punk.webp" width="150" alt="侧躺沙滩 · 街头朋克"></a> | <a href="https://promicat.app/zh/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-case-street.webp" width="150" alt="侧躺沙滩 · 街拍时尚"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp026-photo.webp) · [白模](../images/photo-poses/beach/sp026-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 蹲捡贝壳 (蹲跪)
 
-<a href="https://promicat.app/zh/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-photo.webp" width="240" alt="蹲捡贝壳"></a> <img src="../thumbs/photo-poses/beach/sp027-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 街头朋克 | 街拍时尚 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp027-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-photo.webp" width="150" alt="蹲捡贝壳 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-case-punk.webp" width="150" alt="蹲捡贝壳 · 街头朋克"></a> | <a href="https://promicat.app/zh/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-case-street.webp" width="150" alt="蹲捡贝壳 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-case-western.webp" width="150" alt="蹲捡贝壳 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp027-photo.webp) · [白模](../images/photo-poses/beach/sp027-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 张开双臂 (动态)
 
-<a href="https://promicat.app/zh/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-photo.webp" width="240" alt="张开双臂"></a> <img src="../thumbs/photo-poses/beach/sp028-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 赛博霓虹 | 暗黑哥特 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp028-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-photo.webp" width="150" alt="张开双臂 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-case-cyber.webp" width="150" alt="张开双臂 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-case-gothic.webp" width="150" alt="张开双臂 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-case-y2k.webp" width="150" alt="张开双臂 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp028-photo.webp) · [白模](../images/photo-poses/beach/sp028-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 倚礁石 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-photo.webp" width="240" alt="倚礁石"></a> <img src="../thumbs/photo-poses/beach/sp029-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 学院风 | 港风复古 | 街头朋克 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp029-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-photo.webp" width="150" alt="倚礁石 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-case-darkacad.webp" width="150" alt="倚礁石 · 学院风"></a> | <a href="https://promicat.app/zh/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-case-hkretro.webp" width="150" alt="倚礁石 · 港风复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-case-punk.webp" width="150" alt="倚礁石 · 街头朋克"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp029-photo.webp) · [白模](../images/photo-poses/beach/sp029-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 拨发逆光 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-photo.webp" width="240" alt="拨发逆光"></a> <img src="../thumbs/photo-poses/beach/sp030-pose.webp" width="240" alt="白模">
+| 白模 | 海边度假 | 波西米亚 | 居家慵懒 | 老钱风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp030-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-photo.webp" width="150" alt="拨发逆光 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-case-boho.webp" width="150" alt="拨发逆光 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-case-home.webp" width="150" alt="拨发逆光 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-case-oldmoney.webp" width="150" alt="拨发逆光 · 老钱风"></a> |
 
 大图: [写真照](../images/photo-poses/beach/sp030-photo.webp) · [白模](../images/photo-poses/beach/sp030-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

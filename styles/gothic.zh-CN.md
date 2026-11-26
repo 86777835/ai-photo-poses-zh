@@ -2,13 +2,15 @@
 
 [English](gothic.md) · 简体中文
 
-10 组写真姿势：一张示例写真和照着它画的白模。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
+10 个白模，每个配 4 张用它拍出的不同风格写真。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
 
 [← 返回全部风格](../README.zh-CN.md#photo-poses)
 
 ## 回廊回眸 (回眸)
 
-<a href="https://promicat.app/zh/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-photo.webp" width="240" alt="回廊回眸"></a> <img src="../thumbs/photo-poses/gothic/sp101-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 波西米亚 | 新中式 | 好莱坞复古 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp101-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-photo.webp" width="150" alt="回廊回眸 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-case-boho.webp" width="150" alt="回廊回眸 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-case-chinese.webp" width="150" alt="回廊回眸 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-case-hollywood.webp" width="150" alt="回廊回眸 · 好莱坞复古"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp101-photo.webp) · [白模](../images/photo-poses/gothic/sp101-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 烛台前 (站)
 
-<a href="https://promicat.app/zh/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-photo.webp" width="240" alt="烛台前"></a> <img src="../thumbs/photo-poses/gothic/sp102-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 港风复古 | 居家慵懒 | 街拍时尚 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp102-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-photo.webp" width="150" alt="烛台前 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-case-hkretro.webp" width="150" alt="烛台前 · 港风复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-case-home.webp" width="150" alt="烛台前 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-case-street.webp" width="150" alt="烛台前 · 街拍时尚"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp102-photo.webp) · [白模](../images/photo-poses/gothic/sp102-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 王座侧坐 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-photo.webp" width="240" alt="王座侧坐"></a> <img src="../thumbs/photo-poses/gothic/sp103-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 海边度假 | 新中式 | 森系花田 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp103-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-photo.webp" width="150" alt="王座侧坐 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-case-beach.webp" width="150" alt="王座侧坐 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-case-chinese.webp" width="150" alt="王座侧坐 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-case-flower.webp" width="150" alt="王座侧坐 · 森系花田"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp103-photo.webp) · [白模](../images/photo-poses/gothic/sp103-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 倚石柱 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-photo.webp" width="240" alt="倚石柱"></a> <img src="../thumbs/photo-poses/gothic/sp104-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 北欧极简 | 老钱风 | 街头朋克 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp104-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-photo.webp" width="150" alt="倚石柱 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-case-nordic.webp" width="150" alt="倚石柱 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-case-oldmoney.webp" width="150" alt="倚石柱 · 老钱风"></a> | <a href="https://promicat.app/zh/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-case-punk.webp" width="150" alt="倚石柱 · 街头朋克"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp104-photo.webp) · [白模](../images/photo-poses/gothic/sp104-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 手捧玫瑰 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-photo.webp" width="240" alt="手捧玫瑰"></a> <img src="../thumbs/photo-poses/gothic/sp105-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 赛博霓虹 | 日系清新 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp105-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-photo.webp" width="150" alt="手捧玫瑰 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-case-cyber.webp" width="150" alt="手捧玫瑰 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-case-jfilm.webp" width="150" alt="手捧玫瑰 · 日系清新"></a> | <a href="https://promicat.app/zh/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-case-western.webp" width="150" alt="手捧玫瑰 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp105-photo.webp) · [白模](../images/photo-poses/gothic/sp105-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 楼梯下行 (走)
 
-<a href="https://promicat.app/zh/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-photo.webp" width="240" alt="楼梯下行"></a> <img src="../thumbs/photo-poses/gothic/sp106-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 咖啡馆文艺 | 居家慵懒 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp106-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-photo.webp" width="150" alt="楼梯下行 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-case-cafe.webp" width="150" alt="楼梯下行 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-case-home.webp" width="150" alt="楼梯下行 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-case-y2k.webp" width="150" alt="楼梯下行 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp106-photo.webp) · [白模](../images/photo-poses/gothic/sp106-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 跪坐石地 (蹲跪)
 
-<a href="https://promicat.app/zh/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-photo.webp" width="240" alt="跪坐石地"></a> <img src="../thumbs/photo-poses/gothic/sp107-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 波西米亚 | 学院风 | 森系花田 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp107-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-photo.webp" width="150" alt="跪坐石地 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-case-boho.webp" width="150" alt="跪坐石地 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-case-darkacad.webp" width="150" alt="跪坐石地 · 学院风"></a> | <a href="https://promicat.app/zh/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-case-flower.webp" width="150" alt="跪坐石地 · 森系花田"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp107-photo.webp) · [白模](../images/photo-poses/gothic/sp107-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 彩窗光下 (站)
 
-<a href="https://promicat.app/zh/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-photo.webp" width="240" alt="彩窗光下"></a> <img src="../thumbs/photo-poses/gothic/sp108-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 校园青春 | 新中式 | 情绪棚拍 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp108-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-photo.webp" width="150" alt="彩窗光下 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-case-campus.webp" width="150" alt="彩窗光下 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-case-chinese.webp" width="150" alt="彩窗光下 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-case-mood.webp" width="150" alt="彩窗光下 · 情绪棚拍"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp108-photo.webp) · [白模](../images/photo-poses/gothic/sp108-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 手持古书 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-photo.webp" width="240" alt="手持古书"></a> <img src="../thumbs/photo-poses/gothic/sp109-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 咖啡馆文艺 | 日系清新 | 北欧极简 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp109-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-photo.webp" width="150" alt="手持古书 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-case-cafe.webp" width="150" alt="手持古书 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-case-jfilm.webp" width="150" alt="手持古书 · 日系清新"></a> | <a href="https://promicat.app/zh/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-case-nordic.webp" width="150" alt="手持古书 · 北欧极简"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp109-photo.webp) · [白模](../images/photo-poses/gothic/sp109-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 门后半身 (回眸)
 
-<a href="https://promicat.app/zh/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-photo.webp" width="240" alt="门后半身"></a> <img src="../thumbs/photo-poses/gothic/sp110-pose.webp" width="240" alt="白模">
+| 白模 | 暗黑哥特 | 居家慵懒 | 老钱风 | 街头朋克 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp110-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-photo.webp" width="150" alt="门后半身 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-case-home.webp" width="150" alt="门后半身 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-case-oldmoney.webp" width="150" alt="门后半身 · 老钱风"></a> | <a href="https://promicat.app/zh/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-case-punk.webp" width="150" alt="门后半身 · 街头朋克"></a> |
 
 大图: [写真照](../images/photo-poses/gothic/sp110-photo.webp) · [白模](../images/photo-poses/gothic/sp110-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

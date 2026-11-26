@@ -2,13 +2,15 @@
 
 English · [简体中文](punk.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Squatting against a graffiti wall (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp161?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp161-photo.webp" width="240" alt="Squatting against a graffiti wall"></a> <img src="../thumbs/photo-poses/punk/sp161-pose.webp" width="240" alt="White model">
+| White model | Street punk | Campus youth | Nordic minimal | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp161-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp161?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp161-photo.webp" width="150" alt="Squatting against a graffiti wall · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp161?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp161-case-campus.webp" width="150" alt="Squatting against a graffiti wall · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp161?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp161-case-nordic.webp" width="150" alt="Squatting against a graffiti wall · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp161?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp161-case-y2k.webp" width="150" alt="Squatting against a graffiti wall · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp161-photo.webp) · [white model](../images/photo-poses/punk/sp161-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp161?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing with an electric guitar slung on the back (Standing)
 
-<a href="https://promicat.app/poses/styles/sp162?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp162-photo.webp" width="240" alt="Standing with an electric guitar slung on the back"></a> <img src="../thumbs/photo-poses/punk/sp162-pose.webp" width="240" alt="White model">
+| White model | Street punk | Boho desert | 1950s Hollywood | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp162-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp162?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp162-photo.webp" width="150" alt="Standing with an electric guitar slung on the back · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp162?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp162-case-boho.webp" width="150" alt="Standing with an electric guitar slung on the back · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp162?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp162-case-hollywood.webp" width="150" alt="Standing with an electric guitar slung on the back · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp162?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp162-case-y2k.webp" width="150" alt="Standing with an electric guitar slung on the back · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp162-photo.webp) · [white model](../images/photo-poses/punk/sp162-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp162?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning back on a chain-link fence (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp163?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp163-photo.webp" width="240" alt="Leaning back on a chain-link fence"></a> <img src="../thumbs/photo-poses/punk/sp163-pose.webp" width="240" alt="White model">
+| White model | Street punk | New Chinese style | Gothic | HK retro neon |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp163-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp163?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp163-photo.webp" width="150" alt="Leaning back on a chain-link fence · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp163?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp163-case-chinese.webp" width="150" alt="Leaning back on a chain-link fence · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp163?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp163-case-gothic.webp" width="150" alt="Leaning back on a chain-link fence · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp163?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp163-case-hkretro.webp" width="150" alt="Leaning back on a chain-link fence · HK retro neon"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp163-photo.webp) · [white model](../images/photo-poses/punk/sp163-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp163?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on an amp in a rehearsal room (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp164?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp164-photo.webp" width="240" alt="Sitting on an amp in a rehearsal room"></a> <img src="../thumbs/photo-poses/punk/sp164-pose.webp" width="240" alt="White model">
+| White model | Street punk | Seaside holiday | Cosy at home | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp164-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp164?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp164-photo.webp" width="150" alt="Sitting on an amp in a rehearsal room · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp164?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp164-case-beach.webp" width="150" alt="Sitting on an amp in a rehearsal room · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp164?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp164-case-home.webp" width="150" alt="Sitting on an amp in a rehearsal room · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp164?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp164-case-oldmoney.webp" width="150" alt="Sitting on an amp in a rehearsal room · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp164-photo.webp) · [white model](../images/photo-poses/punk/sp164-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp164?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Pulling the leather jacket collar up with both hands (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp165?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp165-photo.webp" width="240" alt="Pulling the leather jacket collar up with both hands"></a> <img src="../thumbs/photo-poses/punk/sp165-pose.webp" width="240" alt="White model">
+| White model | Street punk | Cafe & bookshop | Forest & flower field | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp165-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp165?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp165-photo.webp" width="150" alt="Pulling the leather jacket collar up with both hands · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp165?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp165-case-cafe.webp" width="150" alt="Pulling the leather jacket collar up with both hands · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp165?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp165-case-flower.webp" width="150" alt="Pulling the leather jacket collar up with both hands · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp165?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp165-case-western.webp" width="150" alt="Pulling the leather jacket collar up with both hands · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp165-photo.webp) · [white model](../images/photo-poses/punk/sp165-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp165?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Jumping mid-air with one knee up (In motion)
 
-<a href="https://promicat.app/poses/styles/sp166?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp166-photo.webp" width="240" alt="Jumping mid-air with one knee up"></a> <img src="../thumbs/photo-poses/punk/sp166-pose.webp" width="240" alt="White model">
+| White model | Street punk | Dark academia | Japanese fresh film | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp166-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp166?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp166-photo.webp" width="150" alt="Jumping mid-air with one knee up · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp166?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp166-case-darkacad.webp" width="150" alt="Jumping mid-air with one knee up · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp166?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp166-case-jfilm.webp" width="150" alt="Jumping mid-air with one knee up · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp166?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp166-case-y2k.webp" width="150" alt="Jumping mid-air with one knee up · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp166-photo.webp) · [white model](../images/photo-poses/punk/sp166-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp166?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking down a graffiti alley (Walking)
 
-<a href="https://promicat.app/poses/styles/sp167?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp167-photo.webp" width="240" alt="Walking down a graffiti alley"></a> <img src="../thumbs/photo-poses/punk/sp167-pose.webp" width="240" alt="White model">
+| White model | Street punk | New Chinese style | Cyberpunk neon | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp167-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp167?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp167-photo.webp" width="150" alt="Walking down a graffiti alley · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp167?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp167-case-chinese.webp" width="150" alt="Walking down a graffiti alley · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp167?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp167-case-cyber.webp" width="150" alt="Walking down a graffiti alley · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp167?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp167-case-mood.webp" width="150" alt="Walking down a graffiti alley · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp167-photo.webp) · [white model](../images/photo-poses/punk/sp167-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp167?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Looking back over the shoulder with the tongue out (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp168?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp168-photo.webp" width="240" alt="Looking back over the shoulder with the tongue out"></a> <img src="../thumbs/photo-poses/punk/sp168-pose.webp" width="240" alt="White model">
+| White model | Street punk | Gothic | Moody studio | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp168-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp168?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp168-photo.webp" width="150" alt="Looking back over the shoulder with the tongue out · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp168?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp168-case-gothic.webp" width="150" alt="Looking back over the shoulder with the tongue out · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp168?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp168-case-mood.webp" width="150" alt="Looking back over the shoulder with the tongue out · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp168?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp168-case-street.webp" width="150" alt="Looking back over the shoulder with the tongue out · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp168-photo.webp) · [white model](../images/photo-poses/punk/sp168-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp168?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on the ground against the wall (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp169?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp169-photo.webp" width="240" alt="Sitting on the ground against the wall"></a> <img src="../thumbs/photo-poses/punk/sp169-pose.webp" width="240" alt="White model">
+| White model | Street punk | Seaside holiday | Boho desert | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp169-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp169?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp169-photo.webp" width="150" alt="Sitting on the ground against the wall · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp169?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp169-case-beach.webp" width="150" alt="Sitting on the ground against the wall · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp169?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp169-case-boho.webp" width="150" alt="Sitting on the ground against the wall · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp169?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp169-case-oldmoney.webp" width="150" alt="Sitting on the ground against the wall · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp169-photo.webp) · [white model](../images/photo-poses/punk/sp169-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp169?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing with one foot on a skateboard (Standing)
 
-<a href="https://promicat.app/poses/styles/sp170?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp170-photo.webp" width="240" alt="Standing with one foot on a skateboard"></a> <img src="../thumbs/photo-poses/punk/sp170-pose.webp" width="240" alt="White model">
+| White model | Street punk | Nordic minimal | Western cowboy | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/punk/sp170-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp170?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp170-photo.webp" width="150" alt="Standing with one foot on a skateboard · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp170?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp170-case-nordic.webp" width="150" alt="Standing with one foot on a skateboard · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp170?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp170-case-western.webp" width="150" alt="Standing with one foot on a skateboard · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp170?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/punk/sp170-case-y2k.webp" width="150" alt="Standing with one foot on a skateboard · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/punk/sp170-photo.webp) · [white model](../images/photo-poses/punk/sp170-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp170?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

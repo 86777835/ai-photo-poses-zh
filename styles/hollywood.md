@@ -2,13 +2,15 @@
 
 English · [简体中文](hollywood.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Standing on a grand staircase with one hand on the banister (Standing)
 
-<a href="https://promicat.app/poses/styles/sp181?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp181-photo.webp" width="240" alt="Standing on a grand staircase with one hand on the banister"></a> <img src="../thumbs/photo-poses/hollywood/sp181-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Cyberpunk neon | Japanese fresh film | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp181-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp181?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp181-photo.webp" width="150" alt="Standing on a grand staircase with one hand on the banister · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp181?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp181-case-cyber.webp" width="150" alt="Standing on a grand staircase with one hand on the banister · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp181?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp181-case-jfilm.webp" width="150" alt="Standing on a grand staircase with one hand on the banister · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp181?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp181-case-punk.webp" width="150" alt="Standing on a grand staircase with one hand on the banister · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp181-photo.webp) · [white model](../images/photo-poses/hollywood/sp181-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp181?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting at a vanity mirror putting on an earring (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp182?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp182-photo.webp" width="240" alt="Sitting at a vanity mirror putting on an earring"></a> <img src="../thumbs/photo-poses/hollywood/sp182-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Cafe & bookshop | Dark academia | Forest & flower field |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp182-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp182?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp182-photo.webp" width="150" alt="Sitting at a vanity mirror putting on an earring · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp182?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp182-case-cafe.webp" width="150" alt="Sitting at a vanity mirror putting on an earring · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp182?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp182-case-darkacad.webp" width="150" alt="Sitting at a vanity mirror putting on an earring · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp182?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp182-case-flower.webp" width="150" alt="Sitting at a vanity mirror putting on an earring · Forest & flower field"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp182-photo.webp) · [white model](../images/photo-poses/hollywood/sp182-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp182?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Back turned (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp183?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp183-photo.webp" width="240" alt="Back turned"></a> <img src="../thumbs/photo-poses/hollywood/sp183-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Boho desert | New Chinese style | Gothic |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp183-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp183?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp183-photo.webp" width="150" alt="Back turned · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp183?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp183-case-boho.webp" width="150" alt="Back turned · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp183?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp183-case-chinese.webp" width="150" alt="Back turned · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp183?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp183-case-gothic.webp" width="150" alt="Back turned · Gothic"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp183-photo.webp) · [white model](../images/photo-poses/hollywood/sp183-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp183?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a grand piano with one elbow (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp184?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp184-photo.webp" width="240" alt="Leaning on a grand piano with one elbow"></a> <img src="../thumbs/photo-poses/hollywood/sp184-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Cyberpunk neon | Street fashion | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp184-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp184?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp184-photo.webp" width="150" alt="Leaning on a grand piano with one elbow · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp184?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp184-case-cyber.webp" width="150" alt="Leaning on a grand piano with one elbow · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp184?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp184-case-street.webp" width="150" alt="Leaning on a grand piano with one elbow · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp184?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp184-case-y2k.webp" width="150" alt="Leaning on a grand piano with one elbow · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp184-photo.webp) · [white model](../images/photo-poses/hollywood/sp184-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp184?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Reclining on a chaise longue propped on one arm (Lying)
 
-<a href="https://promicat.app/poses/styles/sp185?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp185-photo.webp" width="240" alt="Reclining on a chaise longue propped on one arm"></a> <img src="../thumbs/photo-poses/hollywood/sp185-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Seaside holiday | Nordic minimal | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp185-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp185?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp185-photo.webp" width="150" alt="Reclining on a chaise longue propped on one arm · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp185?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp185-case-beach.webp" width="150" alt="Reclining on a chaise longue propped on one arm · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp185?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp185-case-nordic.webp" width="150" alt="Reclining on a chaise longue propped on one arm · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp185?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp185-case-oldmoney.webp" width="150" alt="Reclining on a chaise longue propped on one arm · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp185-photo.webp) · [white model](../images/photo-poses/hollywood/sp185-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp185?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Resting the chin on the back of a gloved hand (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp186?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp186-photo.webp" width="240" alt="Resting the chin on the back of a gloved hand"></a> <img src="../thumbs/photo-poses/hollywood/sp186-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Campus youth | HK retro neon | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp186-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp186?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp186-photo.webp" width="150" alt="Resting the chin on the back of a gloved hand · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp186?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp186-case-campus.webp" width="150" alt="Resting the chin on the back of a gloved hand · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp186?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp186-case-hkretro.webp" width="150" alt="Resting the chin on the back of a gloved hand · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp186?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp186-case-mood.webp" width="150" alt="Resting the chin on the back of a gloved hand · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp186-photo.webp) · [white model](../images/photo-poses/hollywood/sp186-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp186?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking toward the camera on a carpet (Walking)
 
-<a href="https://promicat.app/poses/styles/sp187?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp187-photo.webp" width="240" alt="Walking toward the camera on a carpet"></a> <img src="../thumbs/photo-poses/hollywood/sp187-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Forest & flower field | Gothic | Japanese fresh film |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp187-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp187?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp187-photo.webp" width="150" alt="Walking toward the camera on a carpet · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp187?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp187-case-flower.webp" width="150" alt="Walking toward the camera on a carpet · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp187?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp187-case-gothic.webp" width="150" alt="Walking toward the camera on a carpet · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp187?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp187-case-jfilm.webp" width="150" alt="Walking toward the camera on a carpet · Japanese fresh film"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp187-photo.webp) · [white model](../images/photo-poses/hollywood/sp187-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp187?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Turning so the satin gown swirls (In motion)
 
-<a href="https://promicat.app/poses/styles/sp188?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp188-photo.webp" width="240" alt="Turning so the satin gown swirls"></a> <img src="../thumbs/photo-poses/hollywood/sp188-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Seaside holiday | New Chinese style | Dark academia |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp188-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp188?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp188-photo.webp" width="150" alt="Turning so the satin gown swirls · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp188?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp188-case-beach.webp" width="150" alt="Turning so the satin gown swirls · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp188?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp188-case-chinese.webp" width="150" alt="Turning so the satin gown swirls · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp188?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp188-case-darkacad.webp" width="150" alt="Turning so the satin gown swirls · Dark academia"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp188-photo.webp) · [white model](../images/photo-poses/hollywood/sp188-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp188?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on studio steps with the gown spread (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp189?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp189-photo.webp" width="240" alt="Sitting on studio steps with the gown spread"></a> <img src="../thumbs/photo-poses/hollywood/sp189-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Boho desert | New Chinese style | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp189-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp189?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp189-photo.webp" width="150" alt="Sitting on studio steps with the gown spread · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp189?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp189-case-boho.webp" width="150" alt="Sitting on studio steps with the gown spread · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp189?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp189-case-chinese.webp" width="150" alt="Sitting on studio steps with the gown spread · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp189?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp189-case-oldmoney.webp" width="150" alt="Sitting on studio steps with the gown spread · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp189-photo.webp) · [white model](../images/photo-poses/hollywood/sp189-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp189?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Adjusting a bow tie with both hands (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp190?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp190-photo.webp" width="240" alt="Adjusting a bow tie with both hands"></a> <img src="../thumbs/photo-poses/hollywood/sp190-pose.webp" width="240" alt="White model">
+| White model | 1950s Hollywood | Campus youth | Cosy at home | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hollywood/sp190-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp190?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp190-photo.webp" width="150" alt="Adjusting a bow tie with both hands · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp190?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp190-case-campus.webp" width="150" alt="Adjusting a bow tie with both hands · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp190?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp190-case-home.webp" width="150" alt="Adjusting a bow tie with both hands · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp190?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hollywood/sp190-case-western.webp" width="150" alt="Adjusting a bow tie with both hands · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/hollywood/sp190-photo.webp) · [white model](../images/photo-poses/hollywood/sp190-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp190?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

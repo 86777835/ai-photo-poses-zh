@@ -2,13 +2,15 @@
 
 English · [简体中文](home.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Sitting on the floor against the sofa hugging one knee (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp061?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp061-photo.webp" width="240" alt="Sitting on the floor against the sofa hugging one knee"></a> <img src="../thumbs/photo-poses/home/sp061-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Boho desert | HK retro neon | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp061-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp061?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp061-photo.webp" width="150" alt="Sitting on the floor against the sofa hugging one knee · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp061?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp061-case-boho.webp" width="150" alt="Sitting on the floor against the sofa hugging one knee · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp061?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp061-case-hkretro.webp" width="150" alt="Sitting on the floor against the sofa hugging one knee · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp061?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp061-case-oldmoney.webp" width="150" alt="Sitting on the floor against the sofa hugging one knee · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp061-photo.webp) · [white model](../images/photo-poses/home/sp061-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp061?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Stretching both arms overhead by the window (In motion)
 
-<a href="https://promicat.app/poses/styles/sp062?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp062-photo.webp" width="240" alt="Stretching both arms overhead by the window"></a> <img src="../thumbs/photo-poses/home/sp062-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Cyberpunk neon | Dark academia | Gothic |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp062-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp062?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp062-photo.webp" width="150" alt="Stretching both arms overhead by the window · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp062?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp062-case-cyber.webp" width="150" alt="Stretching both arms overhead by the window · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp062?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp062-case-darkacad.webp" width="150" alt="Stretching both arms overhead by the window · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp062?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp062-case-gothic.webp" width="150" alt="Stretching both arms overhead by the window · Gothic"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp062-photo.webp) · [white model](../images/photo-poses/home/sp062-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp062?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting cross-legged on a made bed reading (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp063?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp063-photo.webp" width="240" alt="Sitting cross-legged on a made bed reading"></a> <img src="../thumbs/photo-poses/home/sp063-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Forest & flower field | Japanese fresh film | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp063-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp063?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp063-photo.webp" width="150" alt="Sitting cross-legged on a made bed reading · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp063?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp063-case-flower.webp" width="150" alt="Sitting cross-legged on a made bed reading · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp063?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp063-case-jfilm.webp" width="150" alt="Sitting cross-legged on a made bed reading · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp063?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp063-case-y2k.webp" width="150" alt="Sitting cross-legged on a made bed reading · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp063-photo.webp) · [white model](../images/photo-poses/home/sp063-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp063?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on the kitchen counter holding a mug (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp064?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp064-photo.webp" width="240" alt="Leaning on the kitchen counter holding a mug"></a> <img src="../thumbs/photo-poses/home/sp064-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Cafe & bookshop | New Chinese style | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp064-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp064?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp064-photo.webp" width="150" alt="Leaning on the kitchen counter holding a mug · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp064?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp064-case-cafe.webp" width="150" alt="Leaning on the kitchen counter holding a mug · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp064?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp064-case-chinese.webp" width="150" alt="Leaning on the kitchen counter holding a mug · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp064?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp064-case-mood.webp" width="150" alt="Leaning on the kitchen counter holding a mug · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp064-photo.webp) · [white model](../images/photo-poses/home/sp064-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp064?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Lying on the stomach on a rug propped on the elbows (Lying)
 
-<a href="https://promicat.app/poses/styles/sp065?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp065-photo.webp" width="240" alt="Lying on the stomach on a rug propped on the elbows"></a> <img src="../thumbs/photo-poses/home/sp065-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Street punk | Street fashion | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp065-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp065?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp065-photo.webp" width="150" alt="Lying on the stomach on a rug propped on the elbows · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp065?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp065-case-punk.webp" width="150" alt="Lying on the stomach on a rug propped on the elbows · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp065?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp065-case-street.webp" width="150" alt="Lying on the stomach on a rug propped on the elbows · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp065?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp065-case-western.webp" width="150" alt="Lying on the stomach on a rug propped on the elbows · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp065-photo.webp) · [white model](../images/photo-poses/home/sp065-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp065?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Curled into the corner of the sofa hugging a cushion (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp066?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp066-photo.webp" width="240" alt="Curled into the corner of the sofa hugging a cushion"></a> <img src="../thumbs/photo-poses/home/sp066-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | HK retro neon | Japanese fresh film | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp066-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp066?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp066-photo.webp" width="150" alt="Curled into the corner of the sofa hugging a cushion · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp066?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp066-case-hkretro.webp" width="150" alt="Curled into the corner of the sofa hugging a cushion · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp066?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp066-case-jfilm.webp" width="150" alt="Curled into the corner of the sofa hugging a cushion · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp066?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp066-case-y2k.webp" width="150" alt="Curled into the corner of the sofa hugging a cushion · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp066-photo.webp) · [white model](../images/photo-poses/home/sp066-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp066?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Watering plants on the window sill (Standing)
 
-<a href="https://promicat.app/poses/styles/sp067?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp067-photo.webp" width="240" alt="Watering plants on the window sill"></a> <img src="../thumbs/photo-poses/home/sp067-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Campus youth | Dark academia | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp067-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp067?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp067-photo.webp" width="150" alt="Watering plants on the window sill · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp067?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp067-case-campus.webp" width="150" alt="Watering plants on the window sill · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp067?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp067-case-darkacad.webp" width="150" alt="Watering plants on the window sill · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp067?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp067-case-punk.webp" width="150" alt="Watering plants on the window sill · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp067-photo.webp) · [white model](../images/photo-poses/home/sp067-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp067?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on a deep window sill with knees up (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp068?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp068-photo.webp" width="240" alt="Sitting on a deep window sill with knees up"></a> <img src="../thumbs/photo-poses/home/sp068-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Gothic | Japanese fresh film | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp068-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp068?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp068-photo.webp" width="150" alt="Sitting on a deep window sill with knees up · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp068?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp068-case-gothic.webp" width="150" alt="Sitting on a deep window sill with knees up · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp068?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp068-case-jfilm.webp" width="150" alt="Sitting on a deep window sill with knees up · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp068?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp068-case-oldmoney.webp" width="150" alt="Sitting on a deep window sill with knees up · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp068-photo.webp) · [white model](../images/photo-poses/home/sp068-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp068?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Wrapped in a knitted blanket held closed at the chin (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp069?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp069-photo.webp" width="240" alt="Wrapped in a knitted blanket held closed at the chin"></a> <img src="../thumbs/photo-poses/home/sp069-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | 1950s Hollywood | Nordic minimal | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp069-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp069?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp069-photo.webp" width="150" alt="Wrapped in a knitted blanket held closed at the chin · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp069?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp069-case-hollywood.webp" width="150" alt="Wrapped in a knitted blanket held closed at the chin · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp069?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp069-case-nordic.webp" width="150" alt="Wrapped in a knitted blanket held closed at the chin · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp069?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp069-case-western.webp" width="150" alt="Wrapped in a knitted blanket held closed at the chin · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp069-photo.webp) · [white model](../images/photo-poses/home/sp069-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp069?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking barefoot across the wooden floor carrying a cup (Walking)
 
-<a href="https://promicat.app/poses/styles/sp070?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp070-photo.webp" width="240" alt="Walking barefoot across the wooden floor carrying a cup"></a> <img src="../thumbs/photo-poses/home/sp070-pose.webp" width="240" alt="White model">
+| White model | Cosy at home | Boho desert | Cafe & bookshop | Campus youth |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/home/sp070-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp070?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp070-photo.webp" width="150" alt="Walking barefoot across the wooden floor carrying a cup · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp070?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp070-case-boho.webp" width="150" alt="Walking barefoot across the wooden floor carrying a cup · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp070?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp070-case-cafe.webp" width="150" alt="Walking barefoot across the wooden floor carrying a cup · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp070?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/home/sp070-case-campus.webp" width="150" alt="Walking barefoot across the wooden floor carrying a cup · Campus youth"></a> |
 
 Full size: [photo](../images/photo-poses/home/sp070-photo.webp) · [white model](../images/photo-poses/home/sp070-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp070?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

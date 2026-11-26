@@ -2,13 +2,15 @@
 
 English · [简体中文](jfilm.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Standing by a bicycle on a quiet street (Standing)
 
-<a href="https://promicat.app/poses/styles/sp041?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp041-photo.webp" width="240" alt="Standing by a bicycle on a quiet street"></a> <img src="../thumbs/photo-poses/jfilm/sp041-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Cafe & bookshop | Forest & flower field | Gothic |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp041-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp041?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp041-photo.webp" width="150" alt="Standing by a bicycle on a quiet street · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp041?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp041-case-cafe.webp" width="150" alt="Standing by a bicycle on a quiet street · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp041?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp041-case-flower.webp" width="150" alt="Standing by a bicycle on a quiet street · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp041?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp041-case-gothic.webp" width="150" alt="Standing by a bicycle on a quiet street · Gothic"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp041-photo.webp) · [white model](../images/photo-poses/jfilm/sp041-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp041?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Riding a bicycle slowly (In motion)
 
-<a href="https://promicat.app/poses/styles/sp042?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp042-photo.webp" width="240" alt="Riding a bicycle slowly"></a> <img src="../thumbs/photo-poses/jfilm/sp042-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Campus youth | Dark academia | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp042-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp042?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp042-photo.webp" width="150" alt="Riding a bicycle slowly · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp042?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp042-case-campus.webp" width="150" alt="Riding a bicycle slowly · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp042?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp042-case-darkacad.webp" width="150" alt="Riding a bicycle slowly · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp042?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp042-case-western.webp" width="150" alt="Riding a bicycle slowly · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp042-photo.webp) · [white model](../images/photo-poses/jfilm/sp042-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp042?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on a low kerb with knees together (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp043?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp043-photo.webp" width="240" alt="Sitting on a low kerb with knees together"></a> <img src="../thumbs/photo-poses/jfilm/sp043-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Cyberpunk neon | Old money | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp043-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp043?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp043-photo.webp" width="150" alt="Sitting on a low kerb with knees together · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp043?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp043-case-cyber.webp" width="150" alt="Sitting on a low kerb with knees together · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp043?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp043-case-oldmoney.webp" width="150" alt="Sitting on a low kerb with knees together · Old money"></a> | <a href="https://promicat.app/poses/styles/sp043?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp043-case-punk.webp" width="150" alt="Sitting on a low kerb with knees together · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp043-photo.webp) · [white model](../images/photo-poses/jfilm/sp043-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp043?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing at a small train crossing holding a bag in both hands in front (Standing)
 
-<a href="https://promicat.app/poses/styles/sp044?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp044-photo.webp" width="240" alt="Standing at a small train crossing holding a bag in both hands in front"></a> <img src="../thumbs/photo-poses/jfilm/sp044-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | HK retro neon | Cosy at home | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp044-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp044?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp044-photo.webp" width="150" alt="Standing at a small train crossing holding a bag in both hands in front · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp044?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp044-case-hkretro.webp" width="150" alt="Standing at a small train crossing holding a bag in both hands in front · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp044?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp044-case-home.webp" width="150" alt="Standing at a small train crossing holding a bag in both hands in front · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp044?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp044-case-mood.webp" width="150" alt="Standing at a small train crossing holding a bag in both hands in front · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp044-photo.webp) · [white model](../images/photo-poses/jfilm/sp044-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp044?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a vending machine (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp045?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp045-photo.webp" width="240" alt="Leaning on a vending machine"></a> <img src="../thumbs/photo-poses/jfilm/sp045-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | New Chinese style | 1950s Hollywood | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp045-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp045?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp045-photo.webp" width="150" alt="Leaning on a vending machine · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp045?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp045-case-chinese.webp" width="150" alt="Leaning on a vending machine · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp045?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp045-case-hollywood.webp" width="150" alt="Leaning on a vending machine · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp045?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp045-case-street.webp" width="150" alt="Leaning on a vending machine · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp045-photo.webp) · [white model](../images/photo-poses/jfilm/sp045-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp045?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Shading the eyes with one hand against the bright sky (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp046?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp046-photo.webp" width="240" alt="Shading the eyes with one hand against the bright sky"></a> <img src="../thumbs/photo-poses/jfilm/sp046-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Seaside holiday | Forest & flower field | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp046-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp046?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp046-photo.webp" width="150" alt="Shading the eyes with one hand against the bright sky · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp046?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp046-case-beach.webp" width="150" alt="Shading the eyes with one hand against the bright sky · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp046?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp046-case-flower.webp" width="150" alt="Shading the eyes with one hand against the bright sky · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp046?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp046-case-y2k.webp" width="150" alt="Shading the eyes with one hand against the bright sky · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp046-photo.webp) · [white model](../images/photo-poses/jfilm/sp046-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp046?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Crouching to offer a hand to a cat on the street (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp047?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp047-photo.webp" width="240" alt="Crouching to offer a hand to a cat on the street"></a> <img src="../thumbs/photo-poses/jfilm/sp047-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Boho desert | Moody studio | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp047-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp047?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp047-photo.webp" width="150" alt="Crouching to offer a hand to a cat on the street · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp047?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp047-case-boho.webp" width="150" alt="Crouching to offer a hand to a cat on the street · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp047?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp047-case-mood.webp" width="150" alt="Crouching to offer a hand to a cat on the street · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp047?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp047-case-oldmoney.webp" width="150" alt="Crouching to offer a hand to a cat on the street · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp047-photo.webp) · [white model](../images/photo-poses/jfilm/sp047-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp047?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking past laundry hanging between houses (Walking)
 
-<a href="https://promicat.app/poses/styles/sp048?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp048-photo.webp" width="240" alt="Walking past laundry hanging between houses"></a> <img src="../thumbs/photo-poses/jfilm/sp048-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Dark academia | Nordic minimal | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp048-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp048?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp048-photo.webp" width="150" alt="Walking past laundry hanging between houses · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp048?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp048-case-darkacad.webp" width="150" alt="Walking past laundry hanging between houses · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp048?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp048-case-nordic.webp" width="150" alt="Walking past laundry hanging between houses · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp048?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp048-case-western.webp" width="150" alt="Walking past laundry hanging between houses · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp048-photo.webp) · [white model](../images/photo-poses/jfilm/sp048-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp048?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on old stone steps (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp049?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp049-photo.webp" width="240" alt="Sitting on old stone steps"></a> <img src="../thumbs/photo-poses/jfilm/sp049-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Cafe & bookshop | New Chinese style | HK retro neon |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp049-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp049?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp049-photo.webp" width="150" alt="Sitting on old stone steps · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp049?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp049-case-cafe.webp" width="150" alt="Sitting on old stone steps · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp049?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp049-case-chinese.webp" width="150" alt="Sitting on old stone steps · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp049?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp049-case-hkretro.webp" width="150" alt="Sitting on old stone steps · HK retro neon"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp049-photo.webp) · [white model](../images/photo-poses/jfilm/sp049-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp049?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing on a seaside road with the white shirt blowing (In motion)
 
-<a href="https://promicat.app/poses/styles/sp050?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp050-photo.webp" width="240" alt="Standing on a seaside road with the white shirt blowing"></a> <img src="../thumbs/photo-poses/jfilm/sp050-pose.webp" width="240" alt="White model">
+| White model | Japanese fresh film | Campus youth | Street punk | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/jfilm/sp050-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp050?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp050-photo.webp" width="150" alt="Standing on a seaside road with the white shirt blowing · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp050?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp050-case-campus.webp" width="150" alt="Standing on a seaside road with the white shirt blowing · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp050?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp050-case-punk.webp" width="150" alt="Standing on a seaside road with the white shirt blowing · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp050?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/jfilm/sp050-case-street.webp" width="150" alt="Standing on a seaside road with the white shirt blowing · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/jfilm/sp050-photo.webp) · [white model](../images/photo-poses/jfilm/sp050-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp050?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

@@ -2,13 +2,15 @@
 
 English · [简体中文](gothic.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Walking through a stone cloister (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-photo.webp" width="240" alt="Walking through a stone cloister"></a> <img src="../thumbs/photo-poses/gothic/sp101-pose.webp" width="240" alt="White model">
+| White model | Gothic | Boho desert | New Chinese style | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp101-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-photo.webp" width="150" alt="Walking through a stone cloister · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-case-boho.webp" width="150" alt="Walking through a stone cloister · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-case-chinese.webp" width="150" alt="Walking through a stone cloister · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp101-case-hollywood.webp" width="150" alt="Walking through a stone cloister · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp101-photo.webp) · [white model](../images/photo-poses/gothic/sp101-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp101?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing beside a tall candelabra (Standing)
 
-<a href="https://promicat.app/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-photo.webp" width="240" alt="Standing beside a tall candelabra"></a> <img src="../thumbs/photo-poses/gothic/sp102-pose.webp" width="240" alt="White model">
+| White model | Gothic | HK retro neon | Cosy at home | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp102-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-photo.webp" width="150" alt="Standing beside a tall candelabra · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-case-hkretro.webp" width="150" alt="Standing beside a tall candelabra · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-case-home.webp" width="150" alt="Standing beside a tall candelabra · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp102-case-street.webp" width="150" alt="Standing beside a tall candelabra · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp102-photo.webp) · [white model](../images/photo-poses/gothic/sp102-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp102?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting sideways on a carved wooden chair (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-photo.webp" width="240" alt="Sitting sideways on a carved wooden chair"></a> <img src="../thumbs/photo-poses/gothic/sp103-pose.webp" width="240" alt="White model">
+| White model | Gothic | Seaside holiday | New Chinese style | Forest & flower field |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp103-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-photo.webp" width="150" alt="Sitting sideways on a carved wooden chair · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-case-beach.webp" width="150" alt="Sitting sideways on a carved wooden chair · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-case-chinese.webp" width="150" alt="Sitting sideways on a carved wooden chair · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp103-case-flower.webp" width="150" alt="Sitting sideways on a carved wooden chair · Forest & flower field"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp103-photo.webp) · [white model](../images/photo-poses/gothic/sp103-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp103?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning against a stone column (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-photo.webp" width="240" alt="Leaning against a stone column"></a> <img src="../thumbs/photo-poses/gothic/sp104-pose.webp" width="240" alt="White model">
+| White model | Gothic | Nordic minimal | Old money | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp104-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-photo.webp" width="150" alt="Leaning against a stone column · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-case-nordic.webp" width="150" alt="Leaning against a stone column · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-case-oldmoney.webp" width="150" alt="Leaning against a stone column · Old money"></a> | <a href="https://promicat.app/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp104-case-punk.webp" width="150" alt="Leaning against a stone column · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp104-photo.webp) · [white model](../images/photo-poses/gothic/sp104-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp104?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Holding a dark red rose against the lace collar (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-photo.webp" width="240" alt="Holding a dark red rose against the lace collar"></a> <img src="../thumbs/photo-poses/gothic/sp105-pose.webp" width="240" alt="White model">
+| White model | Gothic | Cyberpunk neon | Japanese fresh film | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp105-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-photo.webp" width="150" alt="Holding a dark red rose against the lace collar · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-case-cyber.webp" width="150" alt="Holding a dark red rose against the lace collar · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-case-jfilm.webp" width="150" alt="Holding a dark red rose against the lace collar · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp105-case-western.webp" width="150" alt="Holding a dark red rose against the lace collar · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp105-photo.webp) · [white model](../images/photo-poses/gothic/sp105-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp105?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Descending a spiral stone staircase (Walking)
 
-<a href="https://promicat.app/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-photo.webp" width="240" alt="Descending a spiral stone staircase"></a> <img src="../thumbs/photo-poses/gothic/sp106-pose.webp" width="240" alt="White model">
+| White model | Gothic | Cafe & bookshop | Cosy at home | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp106-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-photo.webp" width="150" alt="Descending a spiral stone staircase · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-case-cafe.webp" width="150" alt="Descending a spiral stone staircase · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-case-home.webp" width="150" alt="Descending a spiral stone staircase · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp106-case-y2k.webp" width="150" alt="Descending a spiral stone staircase · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp106-photo.webp) · [white model](../images/photo-poses/gothic/sp106-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp106?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Kneeling on the stone floor with the dress spread around (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-photo.webp" width="240" alt="Kneeling on the stone floor with the dress spread around"></a> <img src="../thumbs/photo-poses/gothic/sp107-pose.webp" width="240" alt="White model">
+| White model | Gothic | Boho desert | Dark academia | Forest & flower field |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp107-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-photo.webp" width="150" alt="Kneeling on the stone floor with the dress spread around · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-case-boho.webp" width="150" alt="Kneeling on the stone floor with the dress spread around · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-case-darkacad.webp" width="150" alt="Kneeling on the stone floor with the dress spread around · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp107-case-flower.webp" width="150" alt="Kneeling on the stone floor with the dress spread around · Forest & flower field"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp107-photo.webp) · [white model](../images/photo-poses/gothic/sp107-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp107?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing in coloured light from a stained-glass window (Standing)
 
-<a href="https://promicat.app/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-photo.webp" width="240" alt="Standing in coloured light from a stained-glass window"></a> <img src="../thumbs/photo-poses/gothic/sp108-pose.webp" width="240" alt="White model">
+| White model | Gothic | Campus youth | New Chinese style | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp108-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-photo.webp" width="150" alt="Standing in coloured light from a stained-glass window · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-case-campus.webp" width="150" alt="Standing in coloured light from a stained-glass window · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-case-chinese.webp" width="150" alt="Standing in coloured light from a stained-glass window · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp108-case-mood.webp" width="150" alt="Standing in coloured light from a stained-glass window · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp108-photo.webp) · [white model](../images/photo-poses/gothic/sp108-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp108?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Reading an old leather book held close (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-photo.webp" width="240" alt="Reading an old leather book held close"></a> <img src="../thumbs/photo-poses/gothic/sp109-pose.webp" width="240" alt="White model">
+| White model | Gothic | Cafe & bookshop | Japanese fresh film | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp109-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-photo.webp" width="150" alt="Reading an old leather book held close · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-case-cafe.webp" width="150" alt="Reading an old leather book held close · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-case-jfilm.webp" width="150" alt="Reading an old leather book held close · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp109-case-nordic.webp" width="150" alt="Reading an old leather book held close · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp109-photo.webp) · [white model](../images/photo-poses/gothic/sp109-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp109?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Half hidden behind a heavy wooden door (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-photo.webp" width="240" alt="Half hidden behind a heavy wooden door"></a> <img src="../thumbs/photo-poses/gothic/sp110-pose.webp" width="240" alt="White model">
+| White model | Gothic | Cosy at home | Old money | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/gothic/sp110-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-photo.webp" width="150" alt="Half hidden behind a heavy wooden door · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-case-home.webp" width="150" alt="Half hidden behind a heavy wooden door · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-case-oldmoney.webp" width="150" alt="Half hidden behind a heavy wooden door · Old money"></a> | <a href="https://promicat.app/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/gothic/sp110-case-punk.webp" width="150" alt="Half hidden behind a heavy wooden door · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/gothic/sp110-photo.webp) · [white model](../images/photo-poses/gothic/sp110-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp110?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

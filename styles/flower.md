@@ -2,13 +2,15 @@
 
 English · [简体中文](flower.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Crouching among the flowers (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-photo.webp" width="240" alt="Crouching among the flowers"></a> <img src="../thumbs/photo-poses/flower/sp031-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Seaside holiday | New Chinese style | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp031-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-photo.webp" width="150" alt="Crouching among the flowers · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-case-beach.webp" width="150" alt="Crouching among the flowers · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-case-chinese.webp" width="150" alt="Crouching among the flowers · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-case-western.webp" width="150" alt="Crouching among the flowers · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp031-photo.webp) · [white model](../images/photo-poses/flower/sp031-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Turning in the flower field so the dress flares (In motion)
 
-<a href="https://promicat.app/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-photo.webp" width="240" alt="Turning in the flower field so the dress flares"></a> <img src="../thumbs/photo-poses/flower/sp032-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Seaside holiday | 1950s Hollywood | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp032-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-photo.webp" width="150" alt="Turning in the flower field so the dress flares · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-case-beach.webp" width="150" alt="Turning in the flower field so the dress flares · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-case-hollywood.webp" width="150" alt="Turning in the flower field so the dress flares · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-case-nordic.webp" width="150" alt="Turning in the flower field so the dress flares · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp032-photo.webp) · [white model](../images/photo-poses/flower/sp032-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Lying on the back in the flowers (Lying)
 
-<a href="https://promicat.app/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-photo.webp" width="240" alt="Lying on the back in the flowers"></a> <img src="../thumbs/photo-poses/flower/sp033-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Cafe & bookshop | Moody studio | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp033-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-photo.webp" width="150" alt="Lying on the back in the flowers · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-case-cafe.webp" width="150" alt="Lying on the back in the flowers · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-case-mood.webp" width="150" alt="Lying on the back in the flowers · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-case-street.webp" width="150" alt="Lying on the back in the flowers · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp033-photo.webp) · [white model](../images/photo-poses/flower/sp033-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Kneeling and sitting back on the heels weaving a flower crown (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-photo.webp" width="240" alt="Kneeling and sitting back on the heels weaving a flower crown"></a> <img src="../thumbs/photo-poses/flower/sp034-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Campus youth | Gothic | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp034-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-photo.webp" width="150" alt="Kneeling and sitting back on the heels weaving a flower crown · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-case-campus.webp" width="150" alt="Kneeling and sitting back on the heels weaving a flower crown · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-case-gothic.webp" width="150" alt="Kneeling and sitting back on the heels weaving a flower crown · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-case-nordic.webp" width="150" alt="Kneeling and sitting back on the heels weaving a flower crown · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp034-photo.webp) · [white model](../images/photo-poses/flower/sp034-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning against a birch trunk (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-photo.webp" width="240" alt="Leaning against a birch trunk"></a> <img src="../thumbs/photo-poses/flower/sp035-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Campus youth | HK retro neon | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp035-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-photo.webp" width="150" alt="Leaning against a birch trunk · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-case-campus.webp" width="150" alt="Leaning against a birch trunk · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-case-hkretro.webp" width="150" alt="Leaning against a birch trunk · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-case-mood.webp" width="150" alt="Leaning against a birch trunk · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp035-photo.webp) · [white model](../images/photo-poses/flower/sp035-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Holding a bunch of wildflowers against the chest (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-photo.webp" width="240" alt="Holding a bunch of wildflowers against the chest"></a> <img src="../thumbs/photo-poses/flower/sp036-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Seaside holiday | 1950s Hollywood | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp036-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-photo.webp" width="150" alt="Holding a bunch of wildflowers against the chest · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-case-beach.webp" width="150" alt="Holding a bunch of wildflowers against the chest · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-case-hollywood.webp" width="150" alt="Holding a bunch of wildflowers against the chest · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-case-y2k.webp" width="150" alt="Holding a bunch of wildflowers against the chest · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp036-photo.webp) · [white model](../images/photo-poses/flower/sp036-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking along a forest path brushing the ferns with one hand (Walking)
 
-<a href="https://promicat.app/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-photo.webp" width="240" alt="Walking along a forest path brushing the ferns with one hand"></a> <img src="../thumbs/photo-poses/flower/sp037-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Cafe & bookshop | Japanese fresh film | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp037-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-photo.webp" width="150" alt="Walking along a forest path brushing the ferns with one hand · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-case-cafe.webp" width="150" alt="Walking along a forest path brushing the ferns with one hand · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-case-jfilm.webp" width="150" alt="Walking along a forest path brushing the ferns with one hand · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-case-punk.webp" width="150" alt="Walking along a forest path brushing the ferns with one hand · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp037-photo.webp) · [white model](../images/photo-poses/flower/sp037-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting in the grass leaning back on both hands (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-photo.webp" width="240" alt="Sitting in the grass leaning back on both hands"></a> <img src="../thumbs/photo-poses/flower/sp038-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Cosy at home | Old money | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp038-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-photo.webp" width="150" alt="Sitting in the grass leaning back on both hands · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-case-home.webp" width="150" alt="Sitting in the grass leaning back on both hands · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-case-oldmoney.webp" width="150" alt="Sitting in the grass leaning back on both hands · Old money"></a> | <a href="https://promicat.app/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-case-street.webp" width="150" alt="Sitting in the grass leaning back on both hands · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp038-photo.webp) · [white model](../images/photo-poses/flower/sp038-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Placing a flower crown on the head with both hands (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-photo.webp" width="240" alt="Placing a flower crown on the head with both hands"></a> <img src="../thumbs/photo-poses/flower/sp039-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Boho desert | New Chinese style | Dark academia |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp039-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-photo.webp" width="150" alt="Placing a flower crown on the head with both hands · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-case-boho.webp" width="150" alt="Placing a flower crown on the head with both hands · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-case-chinese.webp" width="150" alt="Placing a flower crown on the head with both hands · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-case-darkacad.webp" width="150" alt="Placing a flower crown on the head with both hands · Dark academia"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp039-photo.webp) · [white model](../images/photo-poses/flower/sp039-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing between trees looking back over the shoulder (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-photo.webp" width="240" alt="Standing between trees looking back over the shoulder"></a> <img src="../thumbs/photo-poses/flower/sp040-pose.webp" width="240" alt="White model">
+| White model | Forest & flower field | Cyberpunk neon | Nordic minimal | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp040-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-photo.webp" width="150" alt="Standing between trees looking back over the shoulder · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-case-cyber.webp" width="150" alt="Standing between trees looking back over the shoulder · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-case-nordic.webp" width="150" alt="Standing between trees looking back over the shoulder · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-case-western.webp" width="150" alt="Standing between trees looking back over the shoulder · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/flower/sp040-photo.webp) · [white model](../images/photo-poses/flower/sp040-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

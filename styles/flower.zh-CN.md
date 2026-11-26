@@ -2,13 +2,15 @@
 
 [English](flower.md) · 简体中文
 
-10 组写真姿势：一张示例写真和照着它画的白模。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
+10 个白模，每个配 4 张用它拍出的不同风格写真。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
 
 [← 返回全部风格](../README.zh-CN.md#photo-poses)
 
 ## 蹲着闻花 (蹲跪)
 
-<a href="https://promicat.app/zh/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-photo.webp" width="240" alt="蹲着闻花"></a> <img src="../thumbs/photo-poses/flower/sp031-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 海边度假 | 新中式 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp031-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-photo.webp" width="150" alt="蹲着闻花 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-case-beach.webp" width="150" alt="蹲着闻花 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-case-chinese.webp" width="150" alt="蹲着闻花 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp031-case-western.webp" width="150" alt="蹲着闻花 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp031-photo.webp) · [白模](../images/photo-poses/flower/sp031-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp031?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 花中转身 (动态)
 
-<a href="https://promicat.app/zh/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-photo.webp" width="240" alt="花中转身"></a> <img src="../thumbs/photo-poses/flower/sp032-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 海边度假 | 好莱坞复古 | 北欧极简 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp032-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-photo.webp" width="150" alt="花中转身 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-case-beach.webp" width="150" alt="花中转身 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-case-hollywood.webp" width="150" alt="花中转身 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp032-case-nordic.webp" width="150" alt="花中转身 · 北欧极简"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp032-photo.webp) · [白模](../images/photo-poses/flower/sp032-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp032?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 躺花丛 (躺)
 
-<a href="https://promicat.app/zh/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-photo.webp" width="240" alt="躺花丛"></a> <img src="../thumbs/photo-poses/flower/sp033-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 咖啡馆文艺 | 情绪棚拍 | 街拍时尚 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp033-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-photo.webp" width="150" alt="躺花丛 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-case-cafe.webp" width="150" alt="躺花丛 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-case-mood.webp" width="150" alt="躺花丛 · 情绪棚拍"></a> | <a href="https://promicat.app/zh/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp033-case-street.webp" width="150" alt="躺花丛 · 街拍时尚"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp033-photo.webp) · [白模](../images/photo-poses/flower/sp033-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp033?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 跪坐编花环 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-photo.webp" width="240" alt="跪坐编花环"></a> <img src="../thumbs/photo-poses/flower/sp034-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 校园青春 | 暗黑哥特 | 北欧极简 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp034-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-photo.webp" width="150" alt="跪坐编花环 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-case-campus.webp" width="150" alt="跪坐编花环 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-case-gothic.webp" width="150" alt="跪坐编花环 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp034-case-nordic.webp" width="150" alt="跪坐编花环 · 北欧极简"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp034-photo.webp) · [白模](../images/photo-poses/flower/sp034-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp034?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 倚树干 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-photo.webp" width="240" alt="倚树干"></a> <img src="../thumbs/photo-poses/flower/sp035-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 校园青春 | 港风复古 | 情绪棚拍 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp035-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-photo.webp" width="150" alt="倚树干 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-case-campus.webp" width="150" alt="倚树干 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-case-hkretro.webp" width="150" alt="倚树干 · 港风复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp035-case-mood.webp" width="150" alt="倚树干 · 情绪棚拍"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp035-photo.webp) · [白模](../images/photo-poses/flower/sp035-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp035?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 捧花半身 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-photo.webp" width="240" alt="捧花半身"></a> <img src="../thumbs/photo-poses/flower/sp036-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 海边度假 | 好莱坞复古 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp036-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-photo.webp" width="150" alt="捧花半身 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-case-beach.webp" width="150" alt="捧花半身 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-case-hollywood.webp" width="150" alt="捧花半身 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp036-case-y2k.webp" width="150" alt="捧花半身 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp036-photo.webp) · [白模](../images/photo-poses/flower/sp036-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp036?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 林间走 (走)
 
-<a href="https://promicat.app/zh/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-photo.webp" width="240" alt="林间走"></a> <img src="../thumbs/photo-poses/flower/sp037-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 咖啡馆文艺 | 日系清新 | 街头朋克 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp037-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-photo.webp" width="150" alt="林间走 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-case-cafe.webp" width="150" alt="林间走 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-case-jfilm.webp" width="150" alt="林间走 · 日系清新"></a> | <a href="https://promicat.app/zh/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp037-case-punk.webp" width="150" alt="林间走 · 街头朋克"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp037-photo.webp) · [白模](../images/photo-poses/flower/sp037-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp037?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 坐草地后仰 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-photo.webp" width="240" alt="坐草地后仰"></a> <img src="../thumbs/photo-poses/flower/sp038-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 居家慵懒 | 老钱风 | 街拍时尚 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp038-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-photo.webp" width="150" alt="坐草地后仰 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-case-home.webp" width="150" alt="坐草地后仰 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-case-oldmoney.webp" width="150" alt="坐草地后仰 · 老钱风"></a> | <a href="https://promicat.app/zh/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp038-case-street.webp" width="150" alt="坐草地后仰 · 街拍时尚"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp038-photo.webp) · [白模](../images/photo-poses/flower/sp038-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp038?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 花环戴头 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-photo.webp" width="240" alt="花环戴头"></a> <img src="../thumbs/photo-poses/flower/sp039-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 波西米亚 | 新中式 | 学院风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp039-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-photo.webp" width="150" alt="花环戴头 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-case-boho.webp" width="150" alt="花环戴头 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-case-chinese.webp" width="150" alt="花环戴头 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp039-case-darkacad.webp" width="150" alt="花环戴头 · 学院风"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp039-photo.webp) · [白模](../images/photo-poses/flower/sp039-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp039?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 回眸穿林 (回眸)
 
-<a href="https://promicat.app/zh/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-photo.webp" width="240" alt="回眸穿林"></a> <img src="../thumbs/photo-poses/flower/sp040-pose.webp" width="240" alt="白模">
+| 白模 | 森系花田 | 赛博霓虹 | 北欧极简 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/flower/sp040-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-photo.webp" width="150" alt="回眸穿林 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-case-cyber.webp" width="150" alt="回眸穿林 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-case-nordic.webp" width="150" alt="回眸穿林 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/flower/sp040-case-western.webp" width="150" alt="回眸穿林 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/flower/sp040-photo.webp) · [白模](../images/photo-poses/flower/sp040-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp040?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

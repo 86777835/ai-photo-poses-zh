@@ -2,13 +2,15 @@
 
 English · [简体中文](hkretro.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Leaning back against a neon-lit wall (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp051-photo.webp" width="240" alt="Leaning back against a neon-lit wall"></a> <img src="../thumbs/photo-poses/hkretro/sp051-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Boho desert | Cosy at home | Japanese fresh film |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp051-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp051-photo.webp" width="150" alt="Leaning back against a neon-lit wall · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp051-case-boho.webp" width="150" alt="Leaning back against a neon-lit wall · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp051-case-home.webp" width="150" alt="Leaning back against a neon-lit wall · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp051-case-jfilm.webp" width="150" alt="Leaning back against a neon-lit wall · Japanese fresh film"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp051-photo.webp) · [white model](../images/photo-poses/hkretro/sp051-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking under neon signs with a jacket over one shoulder (Walking)
 
-<a href="https://promicat.app/poses/styles/sp052?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp052-photo.webp" width="240" alt="Walking under neon signs with a jacket over one shoulder"></a> <img src="../thumbs/photo-poses/hkretro/sp052-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Gothic | Japanese fresh film | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp052-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp052?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp052-photo.webp" width="150" alt="Walking under neon signs with a jacket over one shoulder · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp052?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp052-case-gothic.webp" width="150" alt="Walking under neon signs with a jacket over one shoulder · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp052?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp052-case-jfilm.webp" width="150" alt="Walking under neon signs with a jacket over one shoulder · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp052?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp052-case-y2k.webp" width="150" alt="Walking under neon signs with a jacket over one shoulder · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp052-photo.webp) · [white model](../images/photo-poses/hkretro/sp052-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp052?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing in a red phone booth with the receiver at the ear (Standing)
 
-<a href="https://promicat.app/poses/styles/sp053?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp053-photo.webp" width="240" alt="Standing in a red phone booth with the receiver at the ear"></a> <img src="../thumbs/photo-poses/hkretro/sp053-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Seaside holiday | Forest & flower field | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp053-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp053?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp053-photo.webp" width="150" alt="Standing in a red phone booth with the receiver at the ear · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp053?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp053-case-beach.webp" width="150" alt="Standing in a red phone booth with the receiver at the ear · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp053?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp053-case-flower.webp" width="150" alt="Standing in a red phone booth with the receiver at the ear · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp053?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp053-case-hollywood.webp" width="150" alt="Standing in a red phone booth with the receiver at the ear · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp053-photo.webp) · [white model](../images/photo-poses/hkretro/sp053-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp053?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting in a cha chaan teng booth (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp054?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp054-photo.webp" width="240" alt="Sitting in a cha chaan teng booth"></a> <img src="../thumbs/photo-poses/hkretro/sp054-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Cyberpunk neon | Dark academia | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp054-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp054?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp054-photo.webp" width="150" alt="Sitting in a cha chaan teng booth · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp054?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp054-case-cyber.webp" width="150" alt="Sitting in a cha chaan teng booth · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp054?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp054-case-darkacad.webp" width="150" alt="Sitting in a cha chaan teng booth · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp054?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp054-case-y2k.webp" width="150" alt="Sitting in a cha chaan teng booth · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp054-photo.webp) · [white model](../images/photo-poses/hkretro/sp054-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp054?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking away down a wet street (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp055?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp055-photo.webp" width="240" alt="Walking away down a wet street"></a> <img src="../thumbs/photo-poses/hkretro/sp055-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Boho desert | Forest & flower field | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp055-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp055?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp055-photo.webp" width="150" alt="Walking away down a wet street · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp055?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp055-case-boho.webp" width="150" alt="Walking away down a wet street · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp055?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp055-case-flower.webp" width="150" alt="Walking away down a wet street · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp055?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp055-case-mood.webp" width="150" alt="Walking away down a wet street · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp055-photo.webp) · [white model](../images/photo-poses/hkretro/sp055-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp055?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Cupping both hands near the face as if shielding a match (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp056?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp056-photo.webp" width="240" alt="Cupping both hands near the face as if shielding a match"></a> <img src="../thumbs/photo-poses/hkretro/sp056-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Seaside holiday | 1950s Hollywood | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp056-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp056?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp056-photo.webp" width="150" alt="Cupping both hands near the face as if shielding a match · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp056?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp056-case-beach.webp" width="150" alt="Cupping both hands near the face as if shielding a match · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp056?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp056-case-hollywood.webp" width="150" alt="Cupping both hands near the face as if shielding a match · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp056?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp056-case-nordic.webp" width="150" alt="Cupping both hands near the face as if shielding a match · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp056-photo.webp) · [white model](../images/photo-poses/hkretro/sp056-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp056?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on the roof of a red taxi with one forearm (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp057?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp057-photo.webp" width="240" alt="Leaning on the roof of a red taxi with one forearm"></a> <img src="../thumbs/photo-poses/hkretro/sp057-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Cyberpunk neon | Cosy at home | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp057-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp057?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp057-photo.webp" width="150" alt="Leaning on the roof of a red taxi with one forearm · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp057?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp057-case-cyber.webp" width="150" alt="Leaning on the roof of a red taxi with one forearm · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp057?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp057-case-home.webp" width="150" alt="Leaning on the roof of a red taxi with one forearm · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp057?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp057-case-street.webp" width="150" alt="Leaning on the roof of a red taxi with one forearm · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp057-photo.webp) · [white model](../images/photo-poses/hkretro/sp057-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp057?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on a rooftop ledge with the city lights behind (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp058?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp058-photo.webp" width="240" alt="Sitting on a rooftop ledge with the city lights behind"></a> <img src="../thumbs/photo-poses/hkretro/sp058-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Campus youth | New Chinese style | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp058-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp058?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp058-photo.webp" width="150" alt="Sitting on a rooftop ledge with the city lights behind · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp058?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp058-case-campus.webp" width="150" alt="Sitting on a rooftop ledge with the city lights behind · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp058?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp058-case-chinese.webp" width="150" alt="Sitting on a rooftop ledge with the city lights behind · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp058?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp058-case-oldmoney.webp" width="150" alt="Sitting on a rooftop ledge with the city lights behind · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp058-photo.webp) · [white model](../images/photo-poses/hkretro/sp058-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp058?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing in a tiled stairwell under a green fluorescent light (Standing)
 
-<a href="https://promicat.app/poses/styles/sp059?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp059-photo.webp" width="240" alt="Standing in a tiled stairwell under a green fluorescent light"></a> <img src="../thumbs/photo-poses/hkretro/sp059-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Cafe & bookshop | Gothic | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp059-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp059?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp059-photo.webp" width="150" alt="Standing in a tiled stairwell under a green fluorescent light · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp059?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp059-case-cafe.webp" width="150" alt="Standing in a tiled stairwell under a green fluorescent light · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp059?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp059-case-gothic.webp" width="150" alt="Standing in a tiled stairwell under a green fluorescent light · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp059?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp059-case-western.webp" width="150" alt="Standing in a tiled stairwell under a green fluorescent light · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp059-photo.webp) · [white model](../images/photo-poses/hkretro/sp059-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp059?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing in the rain under a transparent umbrella (Standing)
 
-<a href="https://promicat.app/poses/styles/sp060?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp060-photo.webp" width="240" alt="Standing in the rain under a transparent umbrella"></a> <img src="../thumbs/photo-poses/hkretro/sp060-pose.webp" width="240" alt="White model">
+| White model | HK retro neon | Japanese fresh film | Nordic minimal | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/hkretro/sp060-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp060?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp060-photo.webp" width="150" alt="Standing in the rain under a transparent umbrella · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp060?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp060-case-jfilm.webp" width="150" alt="Standing in the rain under a transparent umbrella · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp060?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp060-case-nordic.webp" width="150" alt="Standing in the rain under a transparent umbrella · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp060?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/hkretro/sp060-case-punk.webp" width="150" alt="Standing in the rain under a transparent umbrella · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/hkretro/sp060-photo.webp) · [white model](../images/photo-poses/hkretro/sp060-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp060?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

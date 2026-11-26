@@ -2,13 +2,15 @@
 
 English · [简体中文](cafe.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Sitting sideways at a window table (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp011?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp011-photo.webp" width="240" alt="Sitting sideways at a window table"></a> <img src="../thumbs/photo-poses/cafe/sp011-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Dark academia | Street fashion | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp011-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp011?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp011-photo.webp" width="150" alt="Sitting sideways at a window table · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp011?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp011-case-darkacad.webp" width="150" alt="Sitting sideways at a window table · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp011?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp011-case-street.webp" width="150" alt="Sitting sideways at a window table · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp011?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp011-case-y2k.webp" width="150" alt="Sitting sideways at a window table · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp011-photo.webp) · [white model](../images/photo-poses/cafe/sp011-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp011?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing at a bookshelf pulling a book halfway out (Standing)
 
-<a href="https://promicat.app/poses/styles/sp012?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp012-photo.webp" width="240" alt="Standing at a bookshelf pulling a book halfway out"></a> <img src="../thumbs/photo-poses/cafe/sp012-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | New Chinese style | Japanese fresh film | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp012-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp012?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp012-photo.webp" width="150" alt="Standing at a bookshelf pulling a book halfway out · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp012?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp012-case-chinese.webp" width="150" alt="Standing at a bookshelf pulling a book halfway out · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp012?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp012-case-jfilm.webp" width="150" alt="Standing at a bookshelf pulling a book halfway out · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp012?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp012-case-western.webp" width="150" alt="Standing at a bookshelf pulling a book halfway out · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp012-photo.webp) · [white model](../images/photo-poses/cafe/sp012-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp012?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Holding a mug with both hands close to the lips (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp013?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp013-photo.webp" width="240" alt="Holding a mug with both hands close to the lips"></a> <img src="../thumbs/photo-poses/cafe/sp013-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Campus youth | Forest & flower field | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp013-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp013?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp013-photo.webp" width="150" alt="Holding a mug with both hands close to the lips · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp013?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp013-case-campus.webp" width="150" alt="Holding a mug with both hands close to the lips · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp013?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp013-case-flower.webp" width="150" alt="Holding a mug with both hands close to the lips · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp013?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp013-case-nordic.webp" width="150" alt="Holding a mug with both hands close to the lips · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp013-photo.webp) · [white model](../images/photo-poses/cafe/sp013-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp013?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting in an armchair with legs crossed (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp014?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp014-photo.webp" width="240" alt="Sitting in an armchair with legs crossed"></a> <img src="../thumbs/photo-poses/cafe/sp014-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Gothic | Street fashion | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp014-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp014?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp014-photo.webp" width="150" alt="Sitting in an armchair with legs crossed · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp014?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp014-case-gothic.webp" width="150" alt="Sitting in an armchair with legs crossed · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp014?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp014-case-street.webp" width="150" alt="Sitting in an armchair with legs crossed · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp014?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp014-case-y2k.webp" width="150" alt="Sitting in an armchair with legs crossed · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp014-photo.webp) · [white model](../images/photo-poses/cafe/sp014-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp014?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning forward on the table with the cheek on stacked arms (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp015?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp015-photo.webp" width="240" alt="Leaning forward on the table with the cheek on stacked arms"></a> <img src="../thumbs/photo-poses/cafe/sp015-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Street punk | Street fashion | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp015-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp015?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp015-photo.webp" width="150" alt="Leaning forward on the table with the cheek on stacked arms · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp015?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp015-case-punk.webp" width="150" alt="Leaning forward on the table with the cheek on stacked arms · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp015?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp015-case-street.webp" width="150" alt="Leaning forward on the table with the cheek on stacked arms · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp015?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp015-case-western.webp" width="150" alt="Leaning forward on the table with the cheek on stacked arms · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp015-photo.webp) · [white model](../images/photo-poses/cafe/sp015-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp015?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on the counter with one elbow (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp016?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp016-photo.webp" width="240" alt="Leaning on the counter with one elbow"></a> <img src="../thumbs/photo-poses/cafe/sp016-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | New Chinese style | Dark academia | Japanese fresh film |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp016-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp016?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp016-photo.webp" width="150" alt="Leaning on the counter with one elbow · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp016?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp016-case-chinese.webp" width="150" alt="Leaning on the counter with one elbow · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp016?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp016-case-darkacad.webp" width="150" alt="Leaning on the counter with one elbow · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp016?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp016-case-jfilm.webp" width="150" alt="Leaning on the counter with one elbow · Japanese fresh film"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp016-photo.webp) · [white model](../images/photo-poses/cafe/sp016-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp016?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Writing in a notebook (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp017?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp017-photo.webp" width="240" alt="Writing in a notebook"></a> <img src="../thumbs/photo-poses/cafe/sp017-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Cyberpunk neon | 1950s Hollywood | Cosy at home |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp017-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp017?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp017-photo.webp" width="150" alt="Writing in a notebook · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp017?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp017-case-cyber.webp" width="150" alt="Writing in a notebook · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp017?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp017-case-hollywood.webp" width="150" alt="Writing in a notebook · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp017?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp017-case-home.webp" width="150" alt="Writing in a notebook · Cosy at home"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp017-photo.webp) · [white model](../images/photo-poses/cafe/sp017-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp017?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Stepping out of the cafe door (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp018?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp018-photo.webp" width="240" alt="Stepping out of the cafe door"></a> <img src="../thumbs/photo-poses/cafe/sp018-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Forest & flower field | Moody studio | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp018-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp018?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp018-photo.webp" width="150" alt="Stepping out of the cafe door · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp018?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp018-case-flower.webp" width="150" alt="Stepping out of the cafe door · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp018?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp018-case-mood.webp" width="150" alt="Stepping out of the cafe door · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp018?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp018-case-oldmoney.webp" width="150" alt="Stepping out of the cafe door · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp018-photo.webp) · [white model](../images/photo-poses/cafe/sp018-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp018?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on the floor between bookshelves (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp019?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp019-photo.webp" width="240" alt="Sitting on the floor between bookshelves"></a> <img src="../thumbs/photo-poses/cafe/sp019-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Seaside holiday | Campus youth | HK retro neon |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp019-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp019?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp019-photo.webp" width="150" alt="Sitting on the floor between bookshelves · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp019?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp019-case-beach.webp" width="150" alt="Sitting on the floor between bookshelves · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp019?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp019-case-campus.webp" width="150" alt="Sitting on the floor between bookshelves · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp019?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp019-case-hkretro.webp" width="150" alt="Sitting on the floor between bookshelves · HK retro neon"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp019-photo.webp) · [white model](../images/photo-poses/cafe/sp019-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp019?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking between tables carrying two cups (Walking)
 
-<a href="https://promicat.app/poses/styles/sp020?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp020-photo.webp" width="240" alt="Walking between tables carrying two cups"></a> <img src="../thumbs/photo-poses/cafe/sp020-pose.webp" width="240" alt="White model">
+| White model | Cafe & bookshop | Boho desert | Dark academia | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cafe/sp020-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp020?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp020-photo.webp" width="150" alt="Walking between tables carrying two cups · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp020?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp020-case-boho.webp" width="150" alt="Walking between tables carrying two cups · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp020?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp020-case-darkacad.webp" width="150" alt="Walking between tables carrying two cups · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp020?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cafe/sp020-case-nordic.webp" width="150" alt="Walking between tables carrying two cups · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/cafe/sp020-photo.webp) · [white model](../images/photo-poses/cafe/sp020-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp020?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

@@ -2,13 +2,15 @@
 
 English · [简体中文](oldmoney.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Standing on a grass tennis court with a racquet resting on the shoulder (Standing)
 
-<a href="https://promicat.app/poses/styles/sp121?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp121-photo.webp" width="240" alt="Standing on a grass tennis court with a racquet resting on the shoulder"></a> <img src="../thumbs/photo-poses/oldmoney/sp121-pose.webp" width="240" alt="White model">
+| White model | Old money | Dark academia | Street fashion | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp121-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp121?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp121-photo.webp" width="150" alt="Standing on a grass tennis court with a racquet resting on the shoulder · Old money"></a> | <a href="https://promicat.app/poses/styles/sp121?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp121-case-darkacad.webp" width="150" alt="Standing on a grass tennis court with a racquet resting on the shoulder · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp121?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp121-case-street.webp" width="150" alt="Standing on a grass tennis court with a racquet resting on the shoulder · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp121?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp121-case-western.webp" width="150" alt="Standing on a grass tennis court with a racquet resting on the shoulder · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp121-photo.webp) · [white model](../images/photo-poses/oldmoney/sp121-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp121?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a stone terrace balustrade with both forearms (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp122?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp122-photo.webp" width="240" alt="Leaning on a stone terrace balustrade with both forearms"></a> <img src="../thumbs/photo-poses/oldmoney/sp122-pose.webp" width="240" alt="White model">
+| White model | Old money | New Chinese style | Dark academia | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp122-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp122?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp122-photo.webp" width="150" alt="Leaning on a stone terrace balustrade with both forearms · Old money"></a> | <a href="https://promicat.app/poses/styles/sp122?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp122-case-chinese.webp" width="150" alt="Leaning on a stone terrace balustrade with both forearms · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp122?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp122-case-darkacad.webp" width="150" alt="Leaning on a stone terrace balustrade with both forearms · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp122?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp122-case-nordic.webp" width="150" alt="Leaning on a stone terrace balustrade with both forearms · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp122-photo.webp) · [white model](../images/photo-poses/oldmoney/sp122-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp122?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking across a lawn with a sweater draped over the shoulders (Walking)
 
-<a href="https://promicat.app/poses/styles/sp123?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp123-photo.webp" width="240" alt="Walking across a lawn with a sweater draped over the shoulders"></a> <img src="../thumbs/photo-poses/oldmoney/sp123-pose.webp" width="240" alt="White model">
+| White model | Old money | Cyberpunk neon | Gothic | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp123-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp123?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp123-photo.webp" width="150" alt="Walking across a lawn with a sweater draped over the shoulders · Old money"></a> | <a href="https://promicat.app/poses/styles/sp123?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp123-case-cyber.webp" width="150" alt="Walking across a lawn with a sweater draped over the shoulders · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp123?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp123-case-gothic.webp" width="150" alt="Walking across a lawn with a sweater draped over the shoulders · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp123?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp123-case-mood.webp" width="150" alt="Walking across a lawn with a sweater draped over the shoulders · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp123-photo.webp) · [white model](../images/photo-poses/oldmoney/sp123-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp123?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting in a wicker chair with legs crossed (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp124?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp124-photo.webp" width="240" alt="Sitting in a wicker chair with legs crossed"></a> <img src="../thumbs/photo-poses/oldmoney/sp124-pose.webp" width="240" alt="White model">
+| White model | Old money | Seaside holiday | HK retro neon | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp124-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp124?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp124-photo.webp" width="150" alt="Sitting in a wicker chair with legs crossed · Old money"></a> | <a href="https://promicat.app/poses/styles/sp124?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp124-case-beach.webp" width="150" alt="Sitting in a wicker chair with legs crossed · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp124?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp124-case-hkretro.webp" width="150" alt="Sitting in a wicker chair with legs crossed · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp124?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp124-case-punk.webp" width="150" alt="Sitting in a wicker chair with legs crossed · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp124-photo.webp) · [white model](../images/photo-poses/oldmoney/sp124-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp124?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Turning back on a garden path holding a straw hat on (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp125?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp125-photo.webp" width="240" alt="Turning back on a garden path holding a straw hat on"></a> <img src="../thumbs/photo-poses/oldmoney/sp125-pose.webp" width="240" alt="White model">
+| White model | Old money | Cafe & bookshop | Campus youth | Dark academia |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp125-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp125?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp125-photo.webp" width="150" alt="Turning back on a garden path holding a straw hat on · Old money"></a> | <a href="https://promicat.app/poses/styles/sp125?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp125-case-cafe.webp" width="150" alt="Turning back on a garden path holding a straw hat on · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp125?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp125-case-campus.webp" width="150" alt="Turning back on a garden path holding a straw hat on · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp125?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp125-case-darkacad.webp" width="150" alt="Turning back on a garden path holding a straw hat on · Dark academia"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp125-photo.webp) · [white model](../images/photo-poses/oldmoney/sp125-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp125?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a vintage convertible door (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp126?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp126-photo.webp" width="240" alt="Leaning on a vintage convertible door"></a> <img src="../thumbs/photo-poses/oldmoney/sp126-pose.webp" width="240" alt="White model">
+| White model | Old money | Boho desert | 1950s Hollywood | Cosy at home |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp126-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp126?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp126-photo.webp" width="150" alt="Leaning on a vintage convertible door · Old money"></a> | <a href="https://promicat.app/poses/styles/sp126?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp126-case-boho.webp" width="150" alt="Leaning on a vintage convertible door · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp126?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp126-case-hollywood.webp" width="150" alt="Leaning on a vintage convertible door · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp126?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp126-case-home.webp" width="150" alt="Leaning on a vintage convertible door · Cosy at home"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp126-photo.webp) · [white model](../images/photo-poses/oldmoney/sp126-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp126?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on a picnic blanket legs folded to one side (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp127?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp127-photo.webp" width="240" alt="Sitting on a picnic blanket legs folded to one side"></a> <img src="../thumbs/photo-poses/oldmoney/sp127-pose.webp" width="240" alt="White model">
+| White model | Old money | Seaside holiday | Forest & flower field | Cosy at home |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp127-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp127?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp127-photo.webp" width="150" alt="Sitting on a picnic blanket legs folded to one side · Old money"></a> | <a href="https://promicat.app/poses/styles/sp127?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp127-case-beach.webp" width="150" alt="Sitting on a picnic blanket legs folded to one side · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp127?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp127-case-flower.webp" width="150" alt="Sitting on a picnic blanket legs folded to one side · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp127?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp127-case-home.webp" width="150" alt="Sitting on a picnic blanket legs folded to one side · Cosy at home"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp127-photo.webp) · [white model](../images/photo-poses/oldmoney/sp127-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp127?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Mid-swing of a tennis forehand (In motion)
 
-<a href="https://promicat.app/poses/styles/sp128?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp128-photo.webp" width="240" alt="Mid-swing of a tennis forehand"></a> <img src="../thumbs/photo-poses/oldmoney/sp128-pose.webp" width="240" alt="White model">
+| White model | Old money | Forest & flower field | HK retro neon | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp128-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp128?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp128-photo.webp" width="150" alt="Mid-swing of a tennis forehand · Old money"></a> | <a href="https://promicat.app/poses/styles/sp128?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp128-case-flower.webp" width="150" alt="Mid-swing of a tennis forehand · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp128?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp128-case-hkretro.webp" width="150" alt="Mid-swing of a tennis forehand · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp128?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp128-case-nordic.webp" width="150" alt="Mid-swing of a tennis forehand · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp128-photo.webp) · [white model](../images/photo-poses/oldmoney/sp128-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp128?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Straightening a crisp shirt collar with both hands (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp129?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp129-photo.webp" width="240" alt="Straightening a crisp shirt collar with both hands"></a> <img src="../thumbs/photo-poses/oldmoney/sp129-pose.webp" width="240" alt="White model">
+| White model | Old money | Dark academia | Gothic | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp129-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp129?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp129-photo.webp" width="150" alt="Straightening a crisp shirt collar with both hands · Old money"></a> | <a href="https://promicat.app/poses/styles/sp129?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp129-case-darkacad.webp" width="150" alt="Straightening a crisp shirt collar with both hands · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp129?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp129-case-gothic.webp" width="150" alt="Straightening a crisp shirt collar with both hands · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp129?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp129-case-mood.webp" width="150" alt="Straightening a crisp shirt collar with both hands · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp129-photo.webp) · [white model](../images/photo-poses/oldmoney/sp129-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp129?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Lying on the lawn on the back with sunglasses on (Lying)
 
-<a href="https://promicat.app/poses/styles/sp130?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp130-photo.webp" width="240" alt="Lying on the lawn on the back with sunglasses on"></a> <img src="../thumbs/photo-poses/oldmoney/sp130-pose.webp" width="240" alt="White model">
+| White model | Old money | Campus youth | Forest & flower field | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/oldmoney/sp130-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp130?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp130-photo.webp" width="150" alt="Lying on the lawn on the back with sunglasses on · Old money"></a> | <a href="https://promicat.app/poses/styles/sp130?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp130-case-campus.webp" width="150" alt="Lying on the lawn on the back with sunglasses on · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp130?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp130-case-flower.webp" width="150" alt="Lying on the lawn on the back with sunglasses on · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp130?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/oldmoney/sp130-case-hollywood.webp" width="150" alt="Lying on the lawn on the back with sunglasses on · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/oldmoney/sp130-photo.webp) · [white model](../images/photo-poses/oldmoney/sp130-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp130?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

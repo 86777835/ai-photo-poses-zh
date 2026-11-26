@@ -19,6 +19,11 @@ if len(ids) != len(set(ids)):
 for r in pp:
     for k in ('photo', 'pose', 'photo_thumb', 'pose_thumb'):
         exists(r[k], f"photo-poses {r['id']}.{k}")
+    for c in r.get('cases', []):
+        exists(c['image'], f"photo-poses {r['id']} case {c['style']}")
+        exists(c['thumb'], f"photo-poses {r['id']} case {c['style']} thumb")
+        if not c.get('prompt'):
+            problems.append(f"photo-poses {r['id']} case {c['style']}: empty prompt")
     for k in ('prompt', 'prompt_with_your_photo', 'pose_text'):
         if not r.get(k):
             problems.append(f"photo-poses {r['id']}: empty {k}")

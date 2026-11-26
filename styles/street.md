@@ -2,13 +2,15 @@
 
 English · [简体中文](street.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Walking across the street toward the camera (Walking)
 
-<a href="https://promicat.app/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-photo.webp" width="240" alt="Walking across the street toward the camera"></a> <img src="../thumbs/photo-poses/street/sp001-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Dark academia | Cosy at home | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp001-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-photo.webp" width="150" alt="Walking across the street toward the camera · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-case-darkacad.webp" width="150" alt="Walking across the street toward the camera · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-case-home.webp" width="150" alt="Walking across the street toward the camera · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-case-oldmoney.webp" width="150" alt="Walking across the street toward the camera · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp001-photo.webp) · [white model](../images/photo-poses/street/sp001-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning a shoulder against a stone wall (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-photo.webp" width="240" alt="Leaning a shoulder against a stone wall"></a> <img src="../thumbs/photo-poses/street/sp002-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Campus youth | Gothic | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp002-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-photo.webp" width="150" alt="Leaning a shoulder against a stone wall · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-case-campus.webp" width="150" alt="Leaning a shoulder against a stone wall · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-case-gothic.webp" width="150" alt="Leaning a shoulder against a stone wall · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-case-punk.webp" width="150" alt="Leaning a shoulder against a stone wall · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp002-photo.webp) · [white model](../images/photo-poses/street/sp002-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Crossing the street (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-photo.webp" width="240" alt="Crossing the street"></a> <img src="../thumbs/photo-poses/street/sp003-pose.webp" width="240" alt="White model">
+| White model | Street fashion | HK retro neon | Japanese fresh film | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp003-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-photo.webp" width="150" alt="Crossing the street · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-case-hkretro.webp" width="150" alt="Crossing the street · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-case-jfilm.webp" width="150" alt="Crossing the street · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-case-western.webp" width="150" alt="Crossing the street · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp003-photo.webp) · [white model](../images/photo-poses/street/sp003-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on wide stone steps leaning back on one hand (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-photo.webp" width="240" alt="Sitting on wide stone steps leaning back on one hand"></a> <img src="../thumbs/photo-poses/street/sp004-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Seaside holiday | Nordic minimal | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp004-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-photo.webp" width="150" alt="Sitting on wide stone steps leaning back on one hand · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-case-beach.webp" width="150" alt="Sitting on wide stone steps leaning back on one hand · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-case-nordic.webp" width="150" alt="Sitting on wide stone steps leaning back on one hand · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-case-y2k.webp" width="150" alt="Sitting on wide stone steps leaning back on one hand · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp004-photo.webp) · [white model](../images/photo-poses/street/sp004-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing by a shop window adjusting a cuff (Standing)
 
-<a href="https://promicat.app/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-photo.webp" width="240" alt="Standing by a shop window adjusting a cuff"></a> <img src="../thumbs/photo-poses/street/sp005-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Boho desert | Cyberpunk neon | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp005-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-photo.webp" width="150" alt="Standing by a shop window adjusting a cuff · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-case-boho.webp" width="150" alt="Standing by a shop window adjusting a cuff · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-case-cyber.webp" width="150" alt="Standing by a shop window adjusting a cuff · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-case-mood.webp" width="150" alt="Standing by a shop window adjusting a cuff · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp005-photo.webp) · [white model](../images/photo-poses/street/sp005-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing three-quarters to the camera with a handbag hooked on the forearm (Standing)
 
-<a href="https://promicat.app/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-photo.webp" width="240" alt="Standing three-quarters to the camera with a handbag hooked on the forearm"></a> <img src="../thumbs/photo-poses/street/sp006-pose.webp" width="240" alt="White model">
+| White model | Street fashion | New Chinese style | Forest & flower field | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp006-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-photo.webp" width="150" alt="Standing three-quarters to the camera with a handbag hooked on the forearm · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-case-chinese.webp" width="150" alt="Standing three-quarters to the camera with a handbag hooked on the forearm · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-case-flower.webp" width="150" alt="Standing three-quarters to the camera with a handbag hooked on the forearm · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-case-hollywood.webp" width="150" alt="Standing three-quarters to the camera with a handbag hooked on the forearm · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp006-photo.webp) · [white model](../images/photo-poses/street/sp006-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Crouching on the pavement fixing a shoe strap (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-photo.webp" width="240" alt="Crouching on the pavement fixing a shoe strap"></a> <img src="../thumbs/photo-poses/street/sp007-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Boho desert | Cafe & bookshop | HK retro neon |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp007-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-photo.webp" width="150" alt="Crouching on the pavement fixing a shoe strap · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-case-boho.webp" width="150" alt="Crouching on the pavement fixing a shoe strap · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-case-cafe.webp" width="150" alt="Crouching on the pavement fixing a shoe strap · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-case-hkretro.webp" width="150" alt="Crouching on the pavement fixing a shoe strap · HK retro neon"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp007-photo.webp) · [white model](../images/photo-poses/street/sp007-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning back against a lamp post with ankles crossed (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-photo.webp" width="240" alt="Leaning back against a lamp post with ankles crossed"></a> <img src="../thumbs/photo-poses/street/sp008-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Cafe & bookshop | 1950s Hollywood | Cosy at home |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp008-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-photo.webp" width="150" alt="Leaning back against a lamp post with ankles crossed · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-case-cafe.webp" width="150" alt="Leaning back against a lamp post with ankles crossed · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-case-hollywood.webp" width="150" alt="Leaning back against a lamp post with ankles crossed · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-case-home.webp" width="150" alt="Leaning back against a lamp post with ankles crossed · Cosy at home"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp008-photo.webp) · [white model](../images/photo-poses/street/sp008-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking past cafes tucking hair behind the ear (Walking)
 
-<a href="https://promicat.app/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-photo.webp" width="240" alt="Walking past cafes tucking hair behind the ear"></a> <img src="../thumbs/photo-poses/street/sp009-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Seaside holiday | Gothic | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp009-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-photo.webp" width="150" alt="Walking past cafes tucking hair behind the ear · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-case-beach.webp" width="150" alt="Walking past cafes tucking hair behind the ear · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-case-gothic.webp" width="150" alt="Walking past cafes tucking hair behind the ear · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-case-oldmoney.webp" width="150" alt="Walking past cafes tucking hair behind the ear · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp009-photo.webp) · [white model](../images/photo-poses/street/sp009-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Putting on sunglasses with both hands (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-photo.webp" width="240" alt="Putting on sunglasses with both hands"></a> <img src="../thumbs/photo-poses/street/sp010-pose.webp" width="240" alt="White model">
+| White model | Street fashion | Cyberpunk neon | Moody studio | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp010-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-photo.webp" width="150" alt="Putting on sunglasses with both hands · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-case-cyber.webp" width="150" alt="Putting on sunglasses with both hands · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-case-mood.webp" width="150" alt="Putting on sunglasses with both hands · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-case-punk.webp" width="150" alt="Putting on sunglasses with both hands · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/street/sp010-photo.webp) · [white model](../images/photo-poses/street/sp010-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

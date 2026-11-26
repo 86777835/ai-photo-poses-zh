@@ -21,6 +21,7 @@ STYLE_NAME = {r['style']: r['style_name'] for r in PP}
 EXTRA = [v for v in d['components']['pose'] if not v['pose_ref']]
 NCOMP = sum(len(v) for v in d['components'].values())
 NSHOTS = sum(len(r['shots']) for r in PR)
+NCASES = sum(len(r.get('cases', [])) for r in PP)
 POSE = {p['id']: p for p in d['poses']}
 COMP = {slot: {v['id']: v for v in vals} for slot, vals in d['components'].items()}
 
@@ -98,16 +99,18 @@ def readme(lang):
            f'<a href="{poses_url}"><img src="images/readme/mosaic.webp" alt="'
            + L('Portrait photos in 18 styles, each shot from a white-model pose in this library',
                '18 种风格的写真，每张都照着这个库里的白模姿势拍') + '" width="100%"></a>', '',
-           L(f"**{len(PP)} natural portrait poses in {len(STYLES)} styles**, each a photo-shoot photo plus the wooden white model drawn from it. "
+           L(f"**{len(PP)} white models for natural portrait poses, in {len(STYLES)} styles**, with {len(PP) + NCASES} portraits shot from them: "
+             "every white model comes with 4 photos in different styles, so you can see the pose works anywhere. "
              "Give an AI image model your own photo and a white model, and it shoots you in that exact pose.",
-             f"**{len(PP)} 组自然不僵的写真姿势，{len(STYLES)} 种风格**，每组一张写真照和照着它画的木头白模。"
+             f"**{len(PP)} 个自然不僵的写真白模，{len(STYLES)} 种风格**，以及用它们拍出的 {len(PP) + NCASES} 张写真："
+             "每个白模配 4 张不同风格的案例，一眼看出这个姿势放到哪里都好看。"
              "把你的照片和白模一起交给 AI 生图模型，就能拍出同一个姿势的你。"), '',
            f"**[{L('▶ Try any pose with your own photo on Promicat', '▶ 在 Promicat 上传照片，一键生成同款')}]({poses_url})**", '',
            f'<a href="{site(PP[50]["url"], lang)}"><img src="images/readme/site-{lang}.webp" alt="'
            + L('A white model on Promicat, with portraits shot from it on the left', 'Promicat 上的白模页：右边是白模，左边是用它拍出的写真')
            + '" width="100%"></a>', '']
-    out += [L(f'- **{len(PP)} photo poses** in {len(STYLES)} styles, from street fashion and HK retro to gothic, Y2K and new Chinese style',
-              f'- **{len(PP)} 组写真姿势**，{len(STYLES)} 种风格：街拍、港风、哥特、Y2K、新中式……'),
+    out += [L(f'- **{len(PP)} white models** in {len(STYLES)} styles, from street fashion and HK retro to gothic, Y2K and new Chinese style, with **{len(PP) + NCASES} portraits** shot from them',
+              f'- **{len(PP)} 个写真白模**，{len(STYLES)} 种风格：街拍、港风、哥特、Y2K、新中式……共 **{len(PP) + NCASES} 张**用它们拍出的写真'),
             L(f'- **{len(d["poses"])} white models with 3D data** you can fine-tune in the browser, plus {len(EXTRA)} extra pose references',
               f'- **{len(d["poses"])} 个带 3D 数据的白模**，可以在浏览器里拖动微调；另有 {len(EXTRA)} 个补充姿势'),
             L(f'- **{len(PR)} portrait recipes** ({NSHOTS} sample shots) assembled from {NCOMP} prompt components',
@@ -238,8 +241,8 @@ def readme(lang):
     # Data, license
     out += ['<a id="data"></a>', f"## {L('Data format', '数据格式')}", '',
             f"| {L('File', '文件')} | {L('Contents', '内容')} |", '|---|---|',
-            L(f'| `data/photo-poses.json` | {len(PP)} photo poses: style, pose name, group, `pose_text`, `framing`, `photo`, white model (`pose`), `url`, sample prompt, `prompt_with_your_photo` |',
-              f'| `data/photo-poses.json` | {len(PP)} 组写真姿势：风格、姿势名、分类、动作描述 `pose_text`、全身或半身 `framing`、写真照 `photo`、白模 `pose`、在线页面 `url`、示例提示词、「用你的照片」提示词 |'),
+            L(f'| `data/photo-poses.json` | {len(PP)} white models: style, pose name, group, `pose_text`, `framing`, `photo`, white model (`pose`), `cases` ({NCASES} more portraits with their prompts), `url`, sample prompt, `prompt_with_your_photo` |',
+              f'| `data/photo-poses.json` | {len(PP)} 个白模：风格、姿势名、分类、动作描述 `pose_text`、全身或半身 `framing`、写真照 `photo`、白模 `pose`、案例 `cases`（另外 {NCASES} 张写真和各自的提示词）、在线页面 `url`、示例提示词、「用你的照片」提示词 |'),
             L(f'| `data/portrait-recipes.json` | {len(PR)} recipes: component ids, shots, samples, both prompts, pose references |',
               f'| `data/portrait-recipes.json` | {len(PR)} 套写真配方：组件 id、每张的设置、样片、两版提示词、姿势参考图 |'),
             L(f'| `data/components.json` | {len(SLOTS)} slots, {NCOMP} components |', f'| `data/components.json` | {len(SLOTS)} 个槽位、{NCOMP} 个组件 |'),
@@ -275,15 +278,18 @@ def style_pages(lang):
         other = f'[简体中文]({st}.zh-CN.md)' if lang == 'en' else f'[English]({st}.md)'
         back = '../README.md#photo-poses' if lang == 'en' else '../README.zh-CN.md#photo-poses'
         md = [f"# {nm(STYLE_NAME[st])}", '', (f'English · {other}' if lang == 'en' else f'{other} · 简体中文'), '',
-              L(f'{len(rows)} photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. '
+              L(f'{len(rows)} white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. '
                 f'Try them with your own photo on [Promicat]({site(SITE + "/zh/poses", lang)}).',
-                f'{len(rows)} 组写真姿势：一张示例写真和照着它画的白模。参考图顺序是你的照片在前、白模在后。'
+                f'{len(rows)} 个白模，每个配 4 张用它拍出的不同风格写真。参考图顺序是你的照片在前、白模在后。'
                 f'也可以在 [Promicat]({site(SITE + "/zh/poses", lang)}) 上传照片直接生成。'), '',
               f"[{L('← Back to all styles', '← 返回全部风格')}]({back})", '']
         for r in rows:
+            shots = [(r['photo_thumb'], nm(r['style_name']))] + [(c['thumb'], nm(c['style_name'])) for c in r.get('cases', [])]
             md += [f"## {nm(r['name'])} ({nm(r['group_name'])})", '',
-                   f'<a href="{site(r["url"], lang)}"><img src="../{r["photo_thumb"]}" width="240" alt="{nm(r["name"])}"></a> '
-                   f'<img src="../{r["pose_thumb"]}" width="240" alt="{L("White model", "白模")}">', '',
+                   '| ' + ' | '.join([L('White model', '白模')] + [lab for _, lab in shots]) + ' |',
+                   '|' + '---|' * (len(shots) + 1),
+                   f'| <img src="../{r["pose_thumb"]}" width="150" alt="{L("White model", "白模")}"> | '
+                   + ' | '.join(f'<a href="{site(r["url"], lang)}"><img src="../{t}" width="150" alt="{nm(r["name"])} · {lab}"></a>' for t, lab in shots) + ' |', '',
                    f"{L('Full size', '大图')}: [{L('photo', '写真照')}](../{r['photo']}) · [{L('white model', '白模')}](../{r['pose']}) · "
                    f"[{L('try it on Promicat', '在 Promicat 生成')}]({site(r['url'], lang)})", '',
                    f"<details><summary>{L('Prompt with your photo (image 1: your photo, image 2: white model)', '提示词：用你的照片（图 1 你的照片，图 2 白模）')}</summary>", '',

@@ -4,18 +4,18 @@
 
 <a href="https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/mosaic.webp" alt="18 种风格的写真，每张都照着这个库里的白模姿势拍" width="100%"></a>
 
-**200 组自然不僵的写真姿势，20 种风格**，每组一张写真照和照着它画的木头白模。把你的照片和白模一起交给 AI 生图模型，就能拍出同一个姿势的你。
+**200 个自然不僵的写真白模，20 种风格**，以及用它们拍出的 800 张写真：每个白模配 4 张不同风格的案例，一眼看出这个姿势放到哪里都好看。把你的照片和白模一起交给 AI 生图模型，就能拍出同一个姿势的你。
 
 **[▶ 在 Promicat 上传照片，一键生成同款](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)**
 
 <a href="https://promicat.app/zh/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/site-zh.webp" alt="Promicat 上的白模页：右边是白模，左边是用它拍出的写真" width="100%"></a>
 
-- **200 组写真姿势**，20 种风格：街拍、港风、哥特、Y2K、新中式……
+- **200 个写真白模**，20 种风格：街拍、港风、哥特、Y2K、新中式……共 **800 张**用它们拍出的写真
 - **39 个带 3D 数据的白模**，可以在浏览器里拖动微调；另有 23 个补充姿势
 - **24 套写真配方**（216 张样片），由 436 个提示词组件拼成
 - **2 个 Agent Skill**：其中一个能看用户的照片、推荐姿势并直接生成写真
 - 图片和数据 CC BY 4.0，代码 MIT。所有人物都由 AI 生成，均为虚构。
-- 最近更新 (2026-11-26): 默认英文 README，另有简体中文版；每个风格页都有中英两版；仓库迁到 `leisure-cat/ai-photo-poses` · [更新记录](CHANGELOG.md)
+- 最近更新 (2026-11-26): 每个白模现在有 4 张写真案例（新增 600 张不同风格的案例，附提示词），风格页把它们和白模并排展示 · [更新记录](CHANGELOG.md)
 
 ## 目录
 
@@ -306,7 +306,7 @@ Promicat 的吉祥物 Promi 也把这些姿势和光影拍了一遍（55 张，�
 
 | 文件 | 内容 |
 |---|---|
-| `data/photo-poses.json` | 200 组写真姿势：风格、姿势名、分类、动作描述 `pose_text`、全身或半身 `framing`、写真照 `photo`、白模 `pose`、在线页面 `url`、示例提示词、「用你的照片」提示词 |
+| `data/photo-poses.json` | 200 个白模：风格、姿势名、分类、动作描述 `pose_text`、全身或半身 `framing`、写真照 `photo`、白模 `pose`、案例 `cases`（另外 600 张写真和各自的提示词）、在线页面 `url`、示例提示词、「用你的照片」提示词 |
 | `data/portrait-recipes.json` | 24 套写真配方：组件 id、每张的设置、样片、两版提示词、姿势参考图 |
 | `data/components.json` | 20 个槽位、436 个组件 |
 | `data/poses.json` | 3D 白模：名字、分类、各机位图、`pose3d`、在线页面 |

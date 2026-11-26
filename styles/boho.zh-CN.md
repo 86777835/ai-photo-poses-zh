@@ -2,13 +2,15 @@
 
 [English](boho.md) · 简体中文
 
-10 组写真姿势：一张示例写真和照着它画的白模。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
+10 个白模，每个配 4 张用它拍出的不同风格写真。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
 
 [← 返回全部风格](../README.zh-CN.md#photo-poses)
 
 ## 沙丘张臂 (动态)
 
-<a href="https://promicat.app/zh/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-photo.webp" width="240" alt="沙丘张臂"></a> <img src="../thumbs/photo-poses/boho/sp141-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 学院风 | 居家慵懒 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp141-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-photo.webp" width="150" alt="沙丘张臂 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-case-darkacad.webp" width="150" alt="沙丘张臂 · 学院风"></a> | <a href="https://promicat.app/zh/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-case-home.webp" width="150" alt="沙丘张臂 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-case-western.webp" width="150" alt="沙丘张臂 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp141-photo.webp) · [白模](../images/photo-poses/boho/sp141-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 坐地毯 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-photo.webp" width="240" alt="坐地毯"></a> <img src="../thumbs/photo-poses/boho/sp142-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 新中式 | 好莱坞复古 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp142-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-photo.webp" width="150" alt="坐地毯 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-case-chinese.webp" width="150" alt="坐地毯 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-case-hollywood.webp" width="150" alt="坐地毯 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-case-western.webp" width="150" alt="坐地毯 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp142-photo.webp) · [白模](../images/photo-poses/boho/sp142-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 沙中走 (走)
 
-<a href="https://promicat.app/zh/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-photo.webp" width="240" alt="沙中走"></a> <img src="../thumbs/photo-poses/boho/sp143-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 海边度假 | 北欧极简 | 老钱风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp143-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-photo.webp" width="150" alt="沙中走 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-case-beach.webp" width="150" alt="沙中走 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-case-nordic.webp" width="150" alt="沙中走 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-case-oldmoney.webp" width="150" alt="沙中走 · 老钱风"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp143-photo.webp) · [白模](../images/photo-poses/boho/sp143-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 倚枯树 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-photo.webp" width="240" alt="倚枯树"></a> <img src="../thumbs/photo-poses/boho/sp144-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 港风复古 | 街头朋克 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp144-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-photo.webp" width="150" alt="倚枯树 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-case-hkretro.webp" width="150" alt="倚枯树 · 港风复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-case-punk.webp" width="150" alt="倚枯树 · 街头朋克"></a> | <a href="https://promicat.app/zh/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-case-western.webp" width="150" alt="倚枯树 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp144-photo.webp) · [白模](../images/photo-poses/boho/sp144-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 转圈裙摆 (动态)
 
-<a href="https://promicat.app/zh/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-photo.webp" width="240" alt="转圈裙摆"></a> <img src="../thumbs/photo-poses/boho/sp145-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 学院风 | 暗黑哥特 | 日系清新 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp145-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-photo.webp" width="150" alt="转圈裙摆 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-case-darkacad.webp" width="150" alt="转圈裙摆 · 学院风"></a> | <a href="https://promicat.app/zh/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-case-gothic.webp" width="150" alt="转圈裙摆 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-case-jfilm.webp" width="150" alt="转圈裙摆 · 日系清新"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp145-photo.webp) · [白模](../images/photo-poses/boho/sp145-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 压帽回头 (回眸)
 
-<a href="https://promicat.app/zh/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-photo.webp" width="240" alt="压帽回头"></a> <img src="../thumbs/photo-poses/boho/sp146-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 校园青春 | 街拍时尚 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp146-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-photo.webp" width="150" alt="压帽回头 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-case-campus.webp" width="150" alt="压帽回头 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-case-street.webp" width="150" alt="压帽回头 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-case-y2k.webp" width="150" alt="压帽回头 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp146-photo.webp) · [白模](../images/photo-poses/boho/sp146-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 跪坐沙地 (蹲跪)
 
-<a href="https://promicat.app/zh/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-photo.webp" width="240" alt="跪坐沙地"></a> <img src="../thumbs/photo-poses/boho/sp147-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 新中式 | 赛博霓虹 | 情绪棚拍 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp147-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-photo.webp" width="150" alt="跪坐沙地 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-case-chinese.webp" width="150" alt="跪坐沙地 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-case-cyber.webp" width="150" alt="跪坐沙地 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-case-mood.webp" width="150" alt="跪坐沙地 · 情绪棚拍"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp147-photo.webp) · [白模](../images/photo-poses/boho/sp147-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 手链特写 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-photo.webp" width="240" alt="手链特写"></a> <img src="../thumbs/photo-poses/boho/sp148-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 赛博霓虹 | 情绪棚拍 | 街头朋克 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp148-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-photo.webp" width="150" alt="手链特写 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-case-cyber.webp" width="150" alt="手链特写 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-case-mood.webp" width="150" alt="手链特写 · 情绪棚拍"></a> | <a href="https://promicat.app/zh/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-case-punk.webp" width="150" alt="手链特写 · 街头朋克"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp148-photo.webp) · [白模](../images/photo-poses/boho/sp148-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 靠帐篷 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-photo.webp" width="240" alt="靠帐篷"></a> <img src="../thumbs/photo-poses/boho/sp149-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 校园青春 | 港风复古 | 街拍时尚 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp149-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-photo.webp" width="150" alt="靠帐篷 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-case-campus.webp" width="150" alt="靠帐篷 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-case-hkretro.webp" width="150" alt="靠帐篷 · 港风复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-case-street.webp" width="150" alt="靠帐篷 · 街拍时尚"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp149-photo.webp) · [白模](../images/photo-poses/boho/sp149-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 躺地毯 (躺)
 
-<a href="https://promicat.app/zh/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-photo.webp" width="240" alt="躺地毯"></a> <img src="../thumbs/photo-poses/boho/sp150-pose.webp" width="240" alt="白模">
+| 白模 | 波西米亚 | 海边度假 | 好莱坞复古 | 日系清新 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp150-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-photo.webp" width="150" alt="躺地毯 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-case-beach.webp" width="150" alt="躺地毯 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-case-hollywood.webp" width="150" alt="躺地毯 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-case-jfilm.webp" width="150" alt="躺地毯 · 日系清新"></a> |
 
 大图: [写真照](../images/photo-poses/boho/sp150-photo.webp) · [白模](../images/photo-poses/boho/sp150-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

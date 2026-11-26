@@ -2,13 +2,15 @@
 
 English · [简体中文](nordic.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Standing by a big window with hands in the coat pockets (Standing)
 
-<a href="https://promicat.app/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-photo.webp" width="240" alt="Standing by a big window with hands in the coat pockets"></a> <img src="../thumbs/photo-poses/nordic/sp191-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | 1950s Hollywood | Street punk | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp191-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-photo.webp" width="150" alt="Standing by a big window with hands in the coat pockets · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-case-hollywood.webp" width="150" alt="Standing by a big window with hands in the coat pockets · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-case-punk.webp" width="150" alt="Standing by a big window with hands in the coat pockets · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-case-y2k.webp" width="150" alt="Standing by a big window with hands in the coat pockets · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp191-photo.webp) · [white model](../images/photo-poses/nordic/sp191-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on the concrete floor against the wall (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-photo.webp" width="240" alt="Sitting on the concrete floor against the wall"></a> <img src="../thumbs/photo-poses/nordic/sp192-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | 1950s Hollywood | Cosy at home | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp192-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-photo.webp" width="150" alt="Sitting on the concrete floor against the wall · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-case-hollywood.webp" width="150" alt="Sitting on the concrete floor against the wall · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-case-home.webp" width="150" alt="Sitting on the concrete floor against the wall · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-case-street.webp" width="150" alt="Sitting on the concrete floor against the wall · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp192-photo.webp) · [white model](../images/photo-poses/nordic/sp192-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking across the empty room (Walking)
 
-<a href="https://promicat.app/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-photo.webp" width="240" alt="Walking across the empty room"></a> <img src="../thumbs/photo-poses/nordic/sp193-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Cafe & bookshop | Moody studio | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp193-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-photo.webp" width="150" alt="Walking across the empty room · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-case-cafe.webp" width="150" alt="Walking across the empty room · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-case-mood.webp" width="150" alt="Walking across the empty room · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-case-western.webp" width="150" alt="Walking across the empty room · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp193-photo.webp) · [white model](../images/photo-poses/nordic/sp193-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on the window frame with one shoulder (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-photo.webp" width="240" alt="Leaning on the window frame with one shoulder"></a> <img src="../thumbs/photo-poses/nordic/sp194-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Cyberpunk neon | Forest & flower field | HK retro neon |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp194-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-photo.webp" width="150" alt="Leaning on the window frame with one shoulder · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-case-cyber.webp" width="150" alt="Leaning on the window frame with one shoulder · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-case-flower.webp" width="150" alt="Leaning on the window frame with one shoulder · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-case-hkretro.webp" width="150" alt="Leaning on the window frame with one shoulder · HK retro neon"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp194-photo.webp) · [white model](../images/photo-poses/nordic/sp194-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting backwards on a minimal chair (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-photo.webp" width="240" alt="Sitting backwards on a minimal chair"></a> <img src="../thumbs/photo-poses/nordic/sp195-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Gothic | Japanese fresh film | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp195-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-photo.webp" width="150" alt="Sitting backwards on a minimal chair · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-case-gothic.webp" width="150" alt="Sitting backwards on a minimal chair · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-case-jfilm.webp" width="150" alt="Sitting backwards on a minimal chair · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-case-western.webp" width="150" alt="Sitting backwards on a minimal chair · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp195-photo.webp) · [white model](../images/photo-poses/nordic/sp195-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Head tilted back in the daylight (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-photo.webp" width="240" alt="Head tilted back in the daylight"></a> <img src="../thumbs/photo-poses/nordic/sp196-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Cafe & bookshop | 1950s Hollywood | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp196-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-photo.webp" width="150" alt="Head tilted back in the daylight · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-case-cafe.webp" width="150" alt="Head tilted back in the daylight · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-case-hollywood.webp" width="150" alt="Head tilted back in the daylight · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-case-street.webp" width="150" alt="Head tilted back in the daylight · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp196-photo.webp) · [white model](../images/photo-poses/nordic/sp196-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Crouching beside a potted plant (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-photo.webp" width="240" alt="Crouching beside a potted plant"></a> <img src="../thumbs/photo-poses/nordic/sp197-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Boho desert | Cyberpunk neon | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp197-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-photo.webp" width="150" alt="Crouching beside a potted plant · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-case-boho.webp" width="150" alt="Crouching beside a potted plant · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-case-cyber.webp" width="150" alt="Crouching beside a potted plant · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-case-oldmoney.webp" width="150" alt="Crouching beside a potted plant · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp197-photo.webp) · [white model](../images/photo-poses/nordic/sp197-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking away (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-photo.webp" width="240" alt="Walking away"></a> <img src="../thumbs/photo-poses/nordic/sp198-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Moody studio | Street punk | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp198-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-photo.webp" width="150" alt="Walking away · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-case-mood.webp" width="150" alt="Walking away · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-case-punk.webp" width="150" alt="Walking away · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-case-y2k.webp" width="150" alt="Walking away · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp198-photo.webp) · [white model](../images/photo-poses/nordic/sp198-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Lying on the floor on the back (Lying)
 
-<a href="https://promicat.app/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-photo.webp" width="240" alt="Lying on the floor on the back"></a> <img src="../thumbs/photo-poses/nordic/sp199-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Dark academia | HK retro neon | Cosy at home |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp199-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-photo.webp" width="150" alt="Lying on the floor on the back · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-case-darkacad.webp" width="150" alt="Lying on the floor on the back · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-case-hkretro.webp" width="150" alt="Lying on the floor on the back · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-case-home.webp" width="150" alt="Lying on the floor on the back · Cosy at home"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp199-photo.webp) · [white model](../images/photo-poses/nordic/sp199-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Pulling a big wool scarf up over the chin (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-photo.webp" width="240" alt="Pulling a big wool scarf up over the chin"></a> <img src="../thumbs/photo-poses/nordic/sp200-pose.webp" width="240" alt="White model">
+| White model | Nordic minimal | Seaside holiday | Campus youth | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp200-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-photo.webp" width="150" alt="Pulling a big wool scarf up over the chin · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-case-beach.webp" width="150" alt="Pulling a big wool scarf up over the chin · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-case-campus.webp" width="150" alt="Pulling a big wool scarf up over the chin · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-case-oldmoney.webp" width="150" alt="Pulling a big wool scarf up over the chin · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/nordic/sp200-photo.webp) · [white model](../images/photo-poses/nordic/sp200-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

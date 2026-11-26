@@ -2,13 +2,15 @@
 
 English · [简体中文](darkacad.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Standing on a library ladder reaching for a book (Standing)
 
-<a href="https://promicat.app/poses/styles/sp111?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp111-photo.webp" width="240" alt="Standing on a library ladder reaching for a book"></a> <img src="../thumbs/photo-poses/darkacad/sp111-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Campus youth | HK retro neon | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp111-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp111?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp111-photo.webp" width="150" alt="Standing on a library ladder reaching for a book · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp111?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp111-case-campus.webp" width="150" alt="Standing on a library ladder reaching for a book · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp111?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp111-case-hkretro.webp" width="150" alt="Standing on a library ladder reaching for a book · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp111?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp111-case-western.webp" width="150" alt="Standing on a library ladder reaching for a book · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp111-photo.webp) · [white model](../images/photo-poses/darkacad/sp111-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp111?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting at a desk under a green lamp (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp112?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp112-photo.webp" width="240" alt="Sitting at a desk under a green lamp"></a> <img src="../thumbs/photo-poses/darkacad/sp112-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Seaside holiday | Cyberpunk neon | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp112-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp112?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp112-photo.webp" width="150" alt="Sitting at a desk under a green lamp · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp112?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp112-case-beach.webp" width="150" alt="Sitting at a desk under a green lamp · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp112?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp112-case-cyber.webp" width="150" alt="Sitting at a desk under a green lamp · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp112?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp112-case-y2k.webp" width="150" alt="Sitting at a desk under a green lamp · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp112-photo.webp) · [white model](../images/photo-poses/darkacad/sp112-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp112?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on the bookshelves hugging books (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp113?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp113-photo.webp" width="240" alt="Leaning on the bookshelves hugging books"></a> <img src="../thumbs/photo-poses/darkacad/sp113-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Gothic | Moody studio | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp113-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp113?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp113-photo.webp" width="150" alt="Leaning on the bookshelves hugging books · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp113?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp113-case-gothic.webp" width="150" alt="Leaning on the bookshelves hugging books · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp113?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp113-case-mood.webp" width="150" alt="Leaning on the bookshelves hugging books · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp113?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp113-case-street.webp" width="150" alt="Leaning on the bookshelves hugging books · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp113-photo.webp) · [white model](../images/photo-poses/darkacad/sp113-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp113?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on the rug among piles of books (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp114?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp114-photo.webp" width="240" alt="Sitting on the rug among piles of books"></a> <img src="../thumbs/photo-poses/darkacad/sp114-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Moody studio | Nordic minimal | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp114-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp114?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp114-photo.webp" width="150" alt="Sitting on the rug among piles of books · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp114?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp114-case-mood.webp" width="150" alt="Sitting on the rug among piles of books · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp114?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp114-case-nordic.webp" width="150" alt="Sitting on the rug among piles of books · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp114?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp114-case-western.webp" width="150" alt="Sitting on the rug among piles of books · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp114-photo.webp) · [white model](../images/photo-poses/darkacad/sp114-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp114?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking briskly down a panelled corridor with books under the arm (Walking)
 
-<a href="https://promicat.app/poses/styles/sp115?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp115-photo.webp" width="240" alt="Walking briskly down a panelled corridor with books under the arm"></a> <img src="../thumbs/photo-poses/darkacad/sp115-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Boho desert | 1950s Hollywood | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp115-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp115?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp115-photo.webp" width="150" alt="Walking briskly down a panelled corridor with books under the arm · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp115?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp115-case-boho.webp" width="150" alt="Walking briskly down a panelled corridor with books under the arm · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp115?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp115-case-hollywood.webp" width="150" alt="Walking briskly down a panelled corridor with books under the arm · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp115?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp115-case-street.webp" width="150" alt="Walking briskly down a panelled corridor with books under the arm · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp115-photo.webp) · [white model](../images/photo-poses/darkacad/sp115-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp115?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting at a window seat writing a letter on the knee (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp116?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp116-photo.webp" width="240" alt="Sitting at a window seat writing a letter on the knee"></a> <img src="../thumbs/photo-poses/darkacad/sp116-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Cafe & bookshop | Cyberpunk neon | Japanese fresh film |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp116-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp116?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp116-photo.webp" width="150" alt="Sitting at a window seat writing a letter on the knee · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp116?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp116-case-cafe.webp" width="150" alt="Sitting at a window seat writing a letter on the knee · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp116?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp116-case-cyber.webp" width="150" alt="Sitting at a window seat writing a letter on the knee · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp116?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp116-case-jfilm.webp" width="150" alt="Sitting at a window seat writing a letter on the knee · Japanese fresh film"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp116-photo.webp) · [white model](../images/photo-poses/darkacad/sp116-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp116?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Pushing up round glasses with one finger (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp117?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp117-photo.webp" width="240" alt="Pushing up round glasses with one finger"></a> <img src="../thumbs/photo-poses/darkacad/sp117-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Forest & flower field | Gothic | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp117-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp117?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp117-photo.webp" width="150" alt="Pushing up round glasses with one finger · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp117?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp117-case-flower.webp" width="150" alt="Pushing up round glasses with one finger · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp117?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp117-case-gothic.webp" width="150" alt="Pushing up round glasses with one finger · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp117?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp117-case-y2k.webp" width="150" alt="Pushing up round glasses with one finger · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp117-photo.webp) · [white model](../images/photo-poses/darkacad/sp117-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp117?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Turning around between shelves at a sound (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp118?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp118-photo.webp" width="240" alt="Turning around between shelves at a sound"></a> <img src="../thumbs/photo-poses/darkacad/sp118-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Seaside holiday | Cosy at home | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp118-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp118?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp118-photo.webp" width="150" alt="Turning around between shelves at a sound · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp118?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp118-case-beach.webp" width="150" alt="Turning around between shelves at a sound · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp118?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp118-case-home.webp" width="150" alt="Turning around between shelves at a sound · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp118?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp118-case-punk.webp" width="150" alt="Turning around between shelves at a sound · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp118-photo.webp) · [white model](../images/photo-poses/darkacad/sp118-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp118?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing by a fireplace with one hand on the mantel (Standing)
 
-<a href="https://promicat.app/poses/styles/sp119?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp119-photo.webp" width="240" alt="Standing by a fireplace with one hand on the mantel"></a> <img src="../thumbs/photo-poses/darkacad/sp119-pose.webp" width="240" alt="White model">
+| White model | Dark academia | Campus youth | New Chinese style | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp119-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp119?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp119-photo.webp" width="150" alt="Standing by a fireplace with one hand on the mantel · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp119?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp119-case-campus.webp" width="150" alt="Standing by a fireplace with one hand on the mantel · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp119?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp119-case-chinese.webp" width="150" alt="Standing by a fireplace with one hand on the mantel · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp119?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp119-case-oldmoney.webp" width="150" alt="Standing by a fireplace with one hand on the mantel · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp119-photo.webp) · [white model](../images/photo-poses/darkacad/sp119-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp119?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Perched on the edge of an oak table (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp120?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp120-photo.webp" width="240" alt="Perched on the edge of an oak table"></a> <img src="../thumbs/photo-poses/darkacad/sp120-pose.webp" width="240" alt="White model">
+| White model | Dark academia | HK retro neon | Japanese fresh film | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/darkacad/sp120-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp120?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp120-photo.webp" width="150" alt="Perched on the edge of an oak table · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp120?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp120-case-hkretro.webp" width="150" alt="Perched on the edge of an oak table · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp120?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp120-case-jfilm.webp" width="150" alt="Perched on the edge of an oak table · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp120?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/darkacad/sp120-case-y2k.webp" width="150" alt="Perched on the edge of an oak table · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/darkacad/sp120-photo.webp) · [white model](../images/photo-poses/darkacad/sp120-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp120?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

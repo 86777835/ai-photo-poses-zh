@@ -2,13 +2,15 @@
 
 English · [简体中文](beach.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Walking along the waterline holding the hem of the dress (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-photo.webp" width="240" alt="Walking along the waterline holding the hem of the dress"></a> <img src="../thumbs/photo-poses/beach/sp021-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | New Chinese style | Japanese fresh film | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp021-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-photo.webp" width="150" alt="Walking along the waterline holding the hem of the dress · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-case-chinese.webp" width="150" alt="Walking along the waterline holding the hem of the dress · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-case-jfilm.webp" width="150" alt="Walking along the waterline holding the hem of the dress · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp021-case-oldmoney.webp" width="150" alt="Walking along the waterline holding the hem of the dress · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp021-photo.webp) · [white model](../images/photo-poses/beach/sp021-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp021?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Kicking water up with one bare foot (In motion)
 
-<a href="https://promicat.app/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-photo.webp" width="240" alt="Kicking water up with one bare foot"></a> <img src="../thumbs/photo-poses/beach/sp022-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Cafe & bookshop | Gothic | Cosy at home |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp022-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-photo.webp" width="150" alt="Kicking water up with one bare foot · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-case-cafe.webp" width="150" alt="Kicking water up with one bare foot · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-case-gothic.webp" width="150" alt="Kicking water up with one bare foot · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp022-case-home.webp" width="150" alt="Kicking water up with one bare foot · Cosy at home"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp022-photo.webp) · [white model](../images/photo-poses/beach/sp022-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp022?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on the sand hugging one knee (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-photo.webp" width="240" alt="Sitting on the sand hugging one knee"></a> <img src="../thumbs/photo-poses/beach/sp023-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Campus youth | Forest & flower field | HK retro neon |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp023-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-photo.webp" width="150" alt="Sitting on the sand hugging one knee · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-case-campus.webp" width="150" alt="Sitting on the sand hugging one knee · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-case-flower.webp" width="150" alt="Sitting on the sand hugging one knee · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp023-case-hkretro.webp" width="150" alt="Sitting on the sand hugging one knee · HK retro neon"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp023-photo.webp) · [white model](../images/photo-poses/beach/sp023-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp023?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing in the wind holding a straw hat on the head with one hand (Standing)
 
-<a href="https://promicat.app/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-photo.webp" width="240" alt="Standing in the wind holding a straw hat on the head with one hand"></a> <img src="../thumbs/photo-poses/beach/sp024-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Boho desert | Cafe & bookshop | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp024-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-photo.webp" width="150" alt="Standing in the wind holding a straw hat on the head with one hand · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-case-boho.webp" width="150" alt="Standing in the wind holding a straw hat on the head with one hand · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-case-cafe.webp" width="150" alt="Standing in the wind holding a straw hat on the head with one hand · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp024-case-hollywood.webp" width="150" alt="Standing in the wind holding a straw hat on the head with one hand · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp024-photo.webp) · [white model](../images/photo-poses/beach/sp024-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp024?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking toward the camera carrying sandals in one hand (Walking)
 
-<a href="https://promicat.app/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-photo.webp" width="240" alt="Walking toward the camera carrying sandals in one hand"></a> <img src="../thumbs/photo-poses/beach/sp025-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Cyberpunk neon | Moody studio | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp025-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-photo.webp" width="150" alt="Walking toward the camera carrying sandals in one hand · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-case-cyber.webp" width="150" alt="Walking toward the camera carrying sandals in one hand · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-case-mood.webp" width="150" alt="Walking toward the camera carrying sandals in one hand · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp025-case-y2k.webp" width="150" alt="Walking toward the camera carrying sandals in one hand · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp025-photo.webp) · [white model](../images/photo-poses/beach/sp025-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp025?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Lying on the side on a beach blanket propped on one elbow (Lying)
 
-<a href="https://promicat.app/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-photo.webp" width="240" alt="Lying on the side on a beach blanket propped on one elbow"></a> <img src="../thumbs/photo-poses/beach/sp026-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Nordic minimal | Street punk | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp026-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-photo.webp" width="150" alt="Lying on the side on a beach blanket propped on one elbow · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-case-nordic.webp" width="150" alt="Lying on the side on a beach blanket propped on one elbow · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-case-punk.webp" width="150" alt="Lying on the side on a beach blanket propped on one elbow · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp026-case-street.webp" width="150" alt="Lying on the side on a beach blanket propped on one elbow · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp026-photo.webp) · [white model](../images/photo-poses/beach/sp026-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp026?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Squatting at the waterline holding a shell up to look at it (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-photo.webp" width="240" alt="Squatting at the waterline holding a shell up to look at it"></a> <img src="../thumbs/photo-poses/beach/sp027-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Street punk | Street fashion | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp027-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-photo.webp" width="150" alt="Squatting at the waterline holding a shell up to look at it · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-case-punk.webp" width="150" alt="Squatting at the waterline holding a shell up to look at it · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-case-street.webp" width="150" alt="Squatting at the waterline holding a shell up to look at it · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp027-case-western.webp" width="150" alt="Squatting at the waterline holding a shell up to look at it · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp027-photo.webp) · [white model](../images/photo-poses/beach/sp027-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp027?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing with arms spread wide facing the sunset (In motion)
 
-<a href="https://promicat.app/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-photo.webp" width="240" alt="Standing with arms spread wide facing the sunset"></a> <img src="../thumbs/photo-poses/beach/sp028-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Cyberpunk neon | Gothic | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp028-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-photo.webp" width="150" alt="Standing with arms spread wide facing the sunset · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-case-cyber.webp" width="150" alt="Standing with arms spread wide facing the sunset · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-case-gothic.webp" width="150" alt="Standing with arms spread wide facing the sunset · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp028-case-y2k.webp" width="150" alt="Standing with arms spread wide facing the sunset · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp028-photo.webp) · [white model](../images/photo-poses/beach/sp028-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp028?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning back against a big rock (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-photo.webp" width="240" alt="Leaning back against a big rock"></a> <img src="../thumbs/photo-poses/beach/sp029-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Dark academia | HK retro neon | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp029-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-photo.webp" width="150" alt="Leaning back against a big rock · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-case-darkacad.webp" width="150" alt="Leaning back against a big rock · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-case-hkretro.webp" width="150" alt="Leaning back against a big rock · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp029-case-punk.webp" width="150" alt="Leaning back against a big rock · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp029-photo.webp) · [white model](../images/photo-poses/beach/sp029-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp029?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Pushing windblown hair off the face with one hand (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-photo.webp" width="240" alt="Pushing windblown hair off the face with one hand"></a> <img src="../thumbs/photo-poses/beach/sp030-pose.webp" width="240" alt="White model">
+| White model | Seaside holiday | Boho desert | Cosy at home | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/beach/sp030-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-photo.webp" width="150" alt="Pushing windblown hair off the face with one hand · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-case-boho.webp" width="150" alt="Pushing windblown hair off the face with one hand · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-case-home.webp" width="150" alt="Pushing windblown hair off the face with one hand · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/beach/sp030-case-oldmoney.webp" width="150" alt="Pushing windblown hair off the face with one hand · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/beach/sp030-photo.webp) · [white model](../images/photo-poses/beach/sp030-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp030?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

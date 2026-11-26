@@ -4,18 +4,18 @@ English · [简体中文](README.zh-CN.md)
 
 <a href="https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/mosaic.webp" alt="Portrait photos in 18 styles, each shot from a white-model pose in this library" width="100%"></a>
 
-**200 natural portrait poses in 20 styles**, each a photo-shoot photo plus the wooden white model drawn from it. Give an AI image model your own photo and a white model, and it shoots you in that exact pose.
+**200 white models for natural portrait poses, in 20 styles**, with 800 portraits shot from them: every white model comes with 4 photos in different styles, so you can see the pose works anywhere. Give an AI image model your own photo and a white model, and it shoots you in that exact pose.
 
 **[▶ Try any pose with your own photo on Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)**
 
 <a href="https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/site-en.webp" alt="A white model on Promicat, with portraits shot from it on the left" width="100%"></a>
 
-- **200 photo poses** in 20 styles, from street fashion and HK retro to gothic, Y2K and new Chinese style
+- **200 white models** in 20 styles, from street fashion and HK retro to gothic, Y2K and new Chinese style, with **800 portraits** shot from them
 - **39 white models with 3D data** you can fine-tune in the browser, plus 23 extra pose references
 - **24 portrait recipes** (216 sample shots) assembled from 436 prompt components
 - **2 Agent Skills**: one looks at a user photo, recommends poses and generates the portrait
 - Images and data under CC BY 4.0, code under MIT. All people are AI-generated and fictional.
-- Latest update (2026-11-26): English README by default with a Simplified Chinese version; every style page in both languages; repo moved to `leisure-cat/ai-photo-poses` · [Changelog](CHANGELOG.md)
+- Latest update (2026-11-26): Every white model now has 4 portraits (600 new cases in other styles, with prompts); style pages show them next to the white model · [Changelog](CHANGELOG.md)
 
 ## Contents
 
@@ -306,7 +306,7 @@ Promi, the Promicat mascot, shot these poses and lights too (55 images in `image
 
 | File | Contents |
 |---|---|
-| `data/photo-poses.json` | 200 photo poses: style, pose name, group, `pose_text`, `framing`, `photo`, white model (`pose`), `url`, sample prompt, `prompt_with_your_photo` |
+| `data/photo-poses.json` | 200 white models: style, pose name, group, `pose_text`, `framing`, `photo`, white model (`pose`), `cases` (600 more portraits with their prompts), `url`, sample prompt, `prompt_with_your_photo` |
 | `data/portrait-recipes.json` | 24 recipes: component ids, shots, samples, both prompts, pose references |
 | `data/components.json` | 20 slots, 436 components |
 | `data/poses.json` | 3D white models: names, group, views, `pose3d`, page |

@@ -2,13 +2,15 @@
 
 [English](nordic.md) · 简体中文
 
-10 组写真姿势：一张示例写真和照着它画的白模。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
+10 个白模，每个配 4 张用它拍出的不同风格写真。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
 
 [← 返回全部风格](../README.zh-CN.md#photo-poses)
 
 ## 窗前站 (站)
 
-<a href="https://promicat.app/zh/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-photo.webp" width="240" alt="窗前站"></a> <img src="../thumbs/photo-poses/nordic/sp191-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 好莱坞复古 | 街头朋克 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp191-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-photo.webp" width="150" alt="窗前站 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-case-hollywood.webp" width="150" alt="窗前站 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-case-punk.webp" width="150" alt="窗前站 · 街头朋克"></a> | <a href="https://promicat.app/zh/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp191-case-y2k.webp" width="150" alt="窗前站 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp191-photo.webp) · [白模](../images/photo-poses/nordic/sp191-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp191?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 坐地靠墙 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-photo.webp" width="240" alt="坐地靠墙"></a> <img src="../thumbs/photo-poses/nordic/sp192-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 好莱坞复古 | 居家慵懒 | 街拍时尚 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp192-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-photo.webp" width="150" alt="坐地靠墙 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-case-hollywood.webp" width="150" alt="坐地靠墙 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-case-home.webp" width="150" alt="坐地靠墙 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp192-case-street.webp" width="150" alt="坐地靠墙 · 街拍时尚"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp192-photo.webp) · [白模](../images/photo-poses/nordic/sp192-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp192?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 走过空间 (走)
 
-<a href="https://promicat.app/zh/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-photo.webp" width="240" alt="走过空间"></a> <img src="../thumbs/photo-poses/nordic/sp193-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 咖啡馆文艺 | 情绪棚拍 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp193-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-photo.webp" width="150" alt="走过空间 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-case-cafe.webp" width="150" alt="走过空间 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-case-mood.webp" width="150" alt="走过空间 · 情绪棚拍"></a> | <a href="https://promicat.app/zh/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp193-case-western.webp" width="150" alt="走过空间 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp193-photo.webp) · [白模](../images/photo-poses/nordic/sp193-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp193?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 倚窗框 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-photo.webp" width="240" alt="倚窗框"></a> <img src="../thumbs/photo-poses/nordic/sp194-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 赛博霓虹 | 森系花田 | 港风复古 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp194-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-photo.webp" width="150" alt="倚窗框 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-case-cyber.webp" width="150" alt="倚窗框 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-case-flower.webp" width="150" alt="倚窗框 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp194-case-hkretro.webp" width="150" alt="倚窗框 · 港风复古"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp194-photo.webp) · [白模](../images/photo-poses/nordic/sp194-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp194?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 椅子反坐 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-photo.webp" width="240" alt="椅子反坐"></a> <img src="../thumbs/photo-poses/nordic/sp195-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 暗黑哥特 | 日系清新 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp195-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-photo.webp" width="150" alt="椅子反坐 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-case-gothic.webp" width="150" alt="椅子反坐 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-case-jfilm.webp" width="150" alt="椅子反坐 · 日系清新"></a> | <a href="https://promicat.app/zh/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp195-case-western.webp" width="150" alt="椅子反坐 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp195-photo.webp) · [白模](../images/photo-poses/nordic/sp195-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp195?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 仰头闭眼 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-photo.webp" width="240" alt="仰头闭眼"></a> <img src="../thumbs/photo-poses/nordic/sp196-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 咖啡馆文艺 | 好莱坞复古 | 街拍时尚 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp196-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-photo.webp" width="150" alt="仰头闭眼 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-case-cafe.webp" width="150" alt="仰头闭眼 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-case-hollywood.webp" width="150" alt="仰头闭眼 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp196-case-street.webp" width="150" alt="仰头闭眼 · 街拍时尚"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp196-photo.webp) · [白模](../images/photo-poses/nordic/sp196-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp196?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 蹲看植物 (蹲跪)
 
-<a href="https://promicat.app/zh/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-photo.webp" width="240" alt="蹲看植物"></a> <img src="../thumbs/photo-poses/nordic/sp197-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 波西米亚 | 赛博霓虹 | 老钱风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp197-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-photo.webp" width="150" alt="蹲看植物 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-case-boho.webp" width="150" alt="蹲看植物 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-case-cyber.webp" width="150" alt="蹲看植物 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp197-case-oldmoney.webp" width="150" alt="蹲看植物 · 老钱风"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp197-photo.webp) · [白模](../images/photo-poses/nordic/sp197-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp197?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 回头看 (回眸)
 
-<a href="https://promicat.app/zh/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-photo.webp" width="240" alt="回头看"></a> <img src="../thumbs/photo-poses/nordic/sp198-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 情绪棚拍 | 街头朋克 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp198-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-photo.webp" width="150" alt="回头看 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-case-mood.webp" width="150" alt="回头看 · 情绪棚拍"></a> | <a href="https://promicat.app/zh/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-case-punk.webp" width="150" alt="回头看 · 街头朋克"></a> | <a href="https://promicat.app/zh/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp198-case-y2k.webp" width="150" alt="回头看 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp198-photo.webp) · [白模](../images/photo-poses/nordic/sp198-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp198?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 躺地面 (躺)
 
-<a href="https://promicat.app/zh/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-photo.webp" width="240" alt="躺地面"></a> <img src="../thumbs/photo-poses/nordic/sp199-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 学院风 | 港风复古 | 居家慵懒 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp199-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-photo.webp" width="150" alt="躺地面 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-case-darkacad.webp" width="150" alt="躺地面 · 学院风"></a> | <a href="https://promicat.app/zh/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-case-hkretro.webp" width="150" alt="躺地面 · 港风复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp199-case-home.webp" width="150" alt="躺地面 · 居家慵懒"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp199-photo.webp) · [白模](../images/photo-poses/nordic/sp199-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp199?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 拉围巾 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-photo.webp" width="240" alt="拉围巾"></a> <img src="../thumbs/photo-poses/nordic/sp200-pose.webp" width="240" alt="白模">
+| 白模 | 北欧极简 | 海边度假 | 校园青春 | 老钱风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/nordic/sp200-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-photo.webp" width="150" alt="拉围巾 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-case-beach.webp" width="150" alt="拉围巾 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-case-campus.webp" width="150" alt="拉围巾 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/nordic/sp200-case-oldmoney.webp" width="150" alt="拉围巾 · 老钱风"></a> |
 
 大图: [写真照](../images/photo-poses/nordic/sp200-photo.webp) · [白模](../images/photo-poses/nordic/sp200-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp200?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

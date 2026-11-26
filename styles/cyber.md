@@ -2,13 +2,15 @@
 
 English · [简体中文](cyber.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Walking on a wet neon street turning the head back (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp171?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp171-photo.webp" width="240" alt="Walking on a wet neon street turning the head back"></a> <img src="../thumbs/photo-poses/cyber/sp171-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | HK retro neon | Cosy at home | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp171-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp171?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp171-photo.webp" width="150" alt="Walking on a wet neon street turning the head back · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp171?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp171-case-hkretro.webp" width="150" alt="Walking on a wet neon street turning the head back · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp171?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp171-case-home.webp" width="150" alt="Walking on a wet neon street turning the head back · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp171?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp171-case-punk.webp" width="150" alt="Walking on a wet neon street turning the head back · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp171-photo.webp) · [white model](../images/photo-poses/cyber/sp171-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp171?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a glowing sign (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp172?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp172-photo.webp" width="240" alt="Leaning on a glowing sign"></a> <img src="../thumbs/photo-poses/cyber/sp172-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Campus youth | Dark academia | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp172-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp172?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp172-photo.webp" width="150" alt="Leaning on a glowing sign · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp172?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp172-case-campus.webp" width="150" alt="Leaning on a glowing sign · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp172?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp172-case-darkacad.webp" width="150" alt="Leaning on a glowing sign · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp172?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp172-case-hollywood.webp" width="150" alt="Leaning on a glowing sign · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp172-photo.webp) · [white model](../images/photo-poses/cyber/sp172-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp172?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Crouching on a rooftop edge-safe ledge (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp173?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp173-photo.webp" width="240" alt="Crouching on a rooftop edge-safe ledge"></a> <img src="../thumbs/photo-poses/cyber/sp173-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Forest & flower field | Japanese fresh film | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp173-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp173?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp173-photo.webp" width="150" alt="Crouching on a rooftop edge-safe ledge · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp173?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp173-case-flower.webp" width="150" alt="Crouching on a rooftop edge-safe ledge · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp173?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp173-case-jfilm.webp" width="150" alt="Crouching on a rooftop edge-safe ledge · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp173?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp173-case-punk.webp" width="150" alt="Crouching on a rooftop edge-safe ledge · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp173-photo.webp) · [white model](../images/photo-poses/cyber/sp173-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp173?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Zipping the high collar up to the chin (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp174?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp174-photo.webp" width="240" alt="Zipping the high collar up to the chin"></a> <img src="../thumbs/photo-poses/cyber/sp174-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Cafe & bookshop | HK retro neon | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp174-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp174?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp174-photo.webp" width="150" alt="Zipping the high collar up to the chin · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp174?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp174-case-cafe.webp" width="150" alt="Zipping the high collar up to the chin · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp174?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp174-case-hkretro.webp" width="150" alt="Zipping the high collar up to the chin · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp174?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp174-case-hollywood.webp" width="150" alt="Zipping the high collar up to the chin · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp174-photo.webp) · [white model](../images/photo-poses/cyber/sp174-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp174?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing at a subway entrance under cyan light (Standing)
 
-<a href="https://promicat.app/poses/styles/sp175?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp175-photo.webp" width="240" alt="Standing at a subway entrance under cyan light"></a> <img src="../thumbs/photo-poses/cyber/sp175-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Boho desert | Gothic | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp175-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp175?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp175-photo.webp" width="150" alt="Standing at a subway entrance under cyan light · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp175?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp175-case-boho.webp" width="150" alt="Standing at a subway entrance under cyan light · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp175?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp175-case-gothic.webp" width="150" alt="Standing at a subway entrance under cyan light · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp175?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp175-case-y2k.webp" width="150" alt="Standing at a subway entrance under cyan light · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp175-photo.webp) · [white model](../images/photo-poses/cyber/sp175-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp175?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Striding across a crossing with the jacket straps swinging (Walking)
 
-<a href="https://promicat.app/poses/styles/sp176?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp176-photo.webp" width="240" alt="Striding across a crossing with the jacket straps swinging"></a> <img src="../thumbs/photo-poses/cyber/sp176-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Seaside holiday | Cafe & bookshop | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp176-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp176?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp176-photo.webp" width="150" alt="Striding across a crossing with the jacket straps swinging · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp176?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp176-case-beach.webp" width="150" alt="Striding across a crossing with the jacket straps swinging · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp176?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp176-case-cafe.webp" width="150" alt="Striding across a crossing with the jacket straps swinging · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp176?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp176-case-oldmoney.webp" width="150" alt="Striding across a crossing with the jacket straps swinging · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp176-photo.webp) · [white model](../images/photo-poses/cyber/sp176-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp176?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting sideways on a parked motorbike (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp177?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp177-photo.webp" width="240" alt="Sitting sideways on a parked motorbike"></a> <img src="../thumbs/photo-poses/cyber/sp177-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Moody studio | Nordic minimal | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp177-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp177?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp177-photo.webp" width="150" alt="Sitting sideways on a parked motorbike · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp177?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp177-case-mood.webp" width="150" alt="Sitting sideways on a parked motorbike · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp177?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp177-case-nordic.webp" width="150" alt="Sitting sideways on a parked motorbike · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp177?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp177-case-punk.webp" width="150" alt="Sitting sideways on a parked motorbike · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp177-photo.webp) · [white model](../images/photo-poses/cyber/sp177-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp177?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Raising a wrist to check a glowing smartwatch (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp178?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp178-photo.webp" width="240" alt="Raising a wrist to check a glowing smartwatch"></a> <img src="../thumbs/photo-poses/cyber/sp178-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | New Chinese style | Cosy at home | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp178-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp178?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp178-photo.webp" width="150" alt="Raising a wrist to check a glowing smartwatch · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp178?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp178-case-chinese.webp" width="150" alt="Raising a wrist to check a glowing smartwatch · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp178?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp178-case-home.webp" width="150" alt="Raising a wrist to check a glowing smartwatch · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp178?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp178-case-western.webp" width="150" alt="Raising a wrist to check a glowing smartwatch · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp178-photo.webp) · [white model](../images/photo-poses/cyber/sp178-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp178?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a noodle-bar window from outside (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp179?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp179-photo.webp" width="240" alt="Leaning on a noodle-bar window from outside"></a> <img src="../thumbs/photo-poses/cyber/sp179-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Campus youth | Japanese fresh film | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp179-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp179?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp179-photo.webp" width="150" alt="Leaning on a noodle-bar window from outside · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp179?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp179-case-campus.webp" width="150" alt="Leaning on a noodle-bar window from outside · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp179?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp179-case-jfilm.webp" width="150" alt="Leaning on a noodle-bar window from outside · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp179?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp179-case-street.webp" width="150" alt="Leaning on a noodle-bar window from outside · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp179-photo.webp) · [white model](../images/photo-poses/cyber/sp179-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp179?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing under an umbrella looking up at a hologram sign (Standing)
 
-<a href="https://promicat.app/poses/styles/sp180?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp180-photo.webp" width="240" alt="Standing under an umbrella looking up at a hologram sign"></a> <img src="../thumbs/photo-poses/cyber/sp180-pose.webp" width="240" alt="White model">
+| White model | Cyberpunk neon | Dark academia | Forest & flower field | Nordic minimal |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/cyber/sp180-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp180?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp180-photo.webp" width="150" alt="Standing under an umbrella looking up at a hologram sign · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp180?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp180-case-darkacad.webp" width="150" alt="Standing under an umbrella looking up at a hologram sign · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp180?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp180-case-flower.webp" width="150" alt="Standing under an umbrella looking up at a hologram sign · Forest & flower field"></a> | <a href="https://promicat.app/poses/styles/sp180?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/cyber/sp180-case-nordic.webp" width="150" alt="Standing under an umbrella looking up at a hologram sign · Nordic minimal"></a> |
 
 Full size: [photo](../images/photo-poses/cyber/sp180-photo.webp) · [white model](../images/photo-poses/cyber/sp180-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp180?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

@@ -2,13 +2,15 @@
 
 English · [简体中文](western.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Sitting on the top rail of a wooden fence (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp131?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp131-photo.webp" width="240" alt="Sitting on the top rail of a wooden fence"></a> <img src="../thumbs/photo-poses/western/sp131-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Cafe & bookshop | Old money | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp131-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp131?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp131-photo.webp" width="150" alt="Sitting on the top rail of a wooden fence · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp131?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp131-case-cafe.webp" width="150" alt="Sitting on the top rail of a wooden fence · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp131?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp131-case-oldmoney.webp" width="150" alt="Sitting on the top rail of a wooden fence · Old money"></a> | <a href="https://promicat.app/poses/styles/sp131?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp131-case-punk.webp" width="150" alt="Sitting on the top rail of a wooden fence · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp131-photo.webp) · [white model](../images/photo-poses/western/sp131-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp131?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Pulling the hat brim down with one hand (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp132?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp132-photo.webp" width="240" alt="Pulling the hat brim down with one hand"></a> <img src="../thumbs/photo-poses/western/sp132-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Campus youth | Cyberpunk neon | 1950s Hollywood |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp132-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp132?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp132-photo.webp" width="150" alt="Pulling the hat brim down with one hand · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp132?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp132-case-campus.webp" width="150" alt="Pulling the hat brim down with one hand · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp132?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp132-case-cyber.webp" width="150" alt="Pulling the hat brim down with one hand · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp132?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp132-case-hollywood.webp" width="150" alt="Pulling the hat brim down with one hand · 1950s Hollywood"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp132-photo.webp) · [white model](../images/photo-poses/western/sp132-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp132?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning against a red barn wall (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp133?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp133-photo.webp" width="240" alt="Leaning against a red barn wall"></a> <img src="../thumbs/photo-poses/western/sp133-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Old money | Street fashion | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp133-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp133?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp133-photo.webp" width="150" alt="Leaning against a red barn wall · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp133?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp133-case-oldmoney.webp" width="150" alt="Leaning against a red barn wall · Old money"></a> | <a href="https://promicat.app/poses/styles/sp133?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp133-case-street.webp" width="150" alt="Leaning against a red barn wall · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp133?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp133-case-y2k.webp" width="150" alt="Leaning against a red barn wall · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp133-photo.webp) · [white model](../images/photo-poses/western/sp133-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp133?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking toward the camera in the golden dust (Walking)
 
-<a href="https://promicat.app/poses/styles/sp134?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp134-photo.webp" width="240" alt="Walking toward the camera in the golden dust"></a> <img src="../thumbs/photo-poses/western/sp134-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Boho desert | Moody studio | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp134-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp134?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp134-photo.webp" width="150" alt="Walking toward the camera in the golden dust · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp134?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp134-case-boho.webp" width="150" alt="Walking toward the camera in the golden dust · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp134?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp134-case-mood.webp" width="150" alt="Walking toward the camera in the golden dust · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp134?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp134-case-y2k.webp" width="150" alt="Walking toward the camera in the golden dust · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp134-photo.webp) · [white model](../images/photo-poses/western/sp134-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp134?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Crouching on one heel (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp135?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp135-photo.webp" width="240" alt="Crouching on one heel"></a> <img src="../thumbs/photo-poses/western/sp135-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Cyberpunk neon | Gothic | HK retro neon |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp135-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp135?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp135-photo.webp" width="150" alt="Crouching on one heel · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp135?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp135-case-cyber.webp" width="150" alt="Crouching on one heel · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp135?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp135-case-gothic.webp" width="150" alt="Crouching on one heel · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp135?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp135-case-hkretro.webp" width="150" alt="Crouching on one heel · HK retro neon"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp135-photo.webp) · [white model](../images/photo-poses/western/sp135-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp135?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Swinging a lasso overhead (In motion)
 
-<a href="https://promicat.app/poses/styles/sp136?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp136-photo.webp" width="240" alt="Swinging a lasso overhead"></a> <img src="../thumbs/photo-poses/western/sp136-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Cafe & bookshop | Campus youth | Forest & flower field |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp136-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp136?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp136-photo.webp" width="150" alt="Swinging a lasso overhead · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp136?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp136-case-cafe.webp" width="150" alt="Swinging a lasso overhead · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp136?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp136-case-campus.webp" width="150" alt="Swinging a lasso overhead · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp136?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp136-case-flower.webp" width="150" alt="Swinging a lasso overhead · Forest & flower field"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp136-photo.webp) · [white model](../images/photo-poses/western/sp136-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp136?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting on the open tailgate of an old pickup (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp137?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp137-photo.webp" width="240" alt="Sitting on the open tailgate of an old pickup"></a> <img src="../thumbs/photo-poses/western/sp137-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Cosy at home | Nordic minimal | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp137-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp137?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp137-photo.webp" width="150" alt="Sitting on the open tailgate of an old pickup · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp137?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp137-case-home.webp" width="150" alt="Sitting on the open tailgate of an old pickup · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp137?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp137-case-nordic.webp" width="150" alt="Sitting on the open tailgate of an old pickup · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp137?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp137-case-street.webp" width="150" alt="Sitting on the open tailgate of an old pickup · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp137-photo.webp) · [white model](../images/photo-poses/western/sp137-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp137?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking away toward the horses (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp138?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp138-photo.webp" width="240" alt="Walking away toward the horses"></a> <img src="../thumbs/photo-poses/western/sp138-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Dark academia | 1950s Hollywood | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp138-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp138?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp138-photo.webp" width="150" alt="Walking away toward the horses · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp138?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp138-case-darkacad.webp" width="150" alt="Walking away toward the horses · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp138?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp138-case-hollywood.webp" width="150" alt="Walking away toward the horses · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp138?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp138-case-oldmoney.webp" width="150" alt="Walking away toward the horses · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp138-photo.webp) · [white model](../images/photo-poses/western/sp138-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp138?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Standing with one boot up on a hay bale (Standing)
 
-<a href="https://promicat.app/poses/styles/sp139?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp139-photo.webp" width="240" alt="Standing with one boot up on a hay bale"></a> <img src="../thumbs/photo-poses/western/sp139-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Seaside holiday | Japanese fresh film | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp139-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp139?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp139-photo.webp" width="150" alt="Standing with one boot up on a hay bale · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp139?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp139-case-beach.webp" width="150" alt="Standing with one boot up on a hay bale · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp139?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp139-case-jfilm.webp" width="150" alt="Standing with one boot up on a hay bale · Japanese fresh film"></a> | <a href="https://promicat.app/poses/styles/sp139?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp139-case-punk.webp" width="150" alt="Standing with one boot up on a hay bale · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp139-photo.webp) · [white model](../images/photo-poses/western/sp139-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp139?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Tilting a canteen to drink (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp140?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp140-photo.webp" width="240" alt="Tilting a canteen to drink"></a> <img src="../thumbs/photo-poses/western/sp140-pose.webp" width="240" alt="White model">
+| White model | Western cowboy | Cafe & bookshop | New Chinese style | Forest & flower field |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/western/sp140-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp140?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp140-photo.webp" width="150" alt="Tilting a canteen to drink · Western cowboy"></a> | <a href="https://promicat.app/poses/styles/sp140?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp140-case-cafe.webp" width="150" alt="Tilting a canteen to drink · Cafe & bookshop"></a> | <a href="https://promicat.app/poses/styles/sp140?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp140-case-chinese.webp" width="150" alt="Tilting a canteen to drink · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp140?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/western/sp140-case-flower.webp" width="150" alt="Tilting a canteen to drink · Forest & flower field"></a> |
 
 Full size: [photo](../images/photo-poses/western/sp140-photo.webp) · [white model](../images/photo-poses/western/sp140-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp140?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

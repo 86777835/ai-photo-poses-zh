@@ -2,13 +2,15 @@
 
 [English](street.md) · 简体中文
 
-10 组写真姿势：一张示例写真和照着它画的白模。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
+10 个白模，每个配 4 张用它拍出的不同风格写真。参考图顺序是你的照片在前、白模在后。也可以在 [Promicat](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 上传照片直接生成。
 
 [← 返回全部风格](../README.zh-CN.md#photo-poses)
 
 ## 迎面走来提衣领 (走)
 
-<a href="https://promicat.app/zh/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-photo.webp" width="240" alt="迎面走来提衣领"></a> <img src="../thumbs/photo-poses/street/sp001-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 学院风 | 居家慵懒 | 老钱风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp001-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-photo.webp" width="150" alt="迎面走来提衣领 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-case-darkacad.webp" width="150" alt="迎面走来提衣领 · 学院风"></a> | <a href="https://promicat.app/zh/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-case-home.webp" width="150" alt="迎面走来提衣领 · 居家慵懒"></a> | <a href="https://promicat.app/zh/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp001-case-oldmoney.webp" width="150" alt="迎面走来提衣领 · 老钱风"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp001-photo.webp) · [白模](../images/photo-poses/street/sp001-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp001?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 靠墙低头看墨镜 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-photo.webp" width="240" alt="靠墙低头看墨镜"></a> <img src="../thumbs/photo-poses/street/sp002-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 校园青春 | 暗黑哥特 | 街头朋克 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp002-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-photo.webp" width="150" alt="靠墙低头看墨镜 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-case-campus.webp" width="150" alt="靠墙低头看墨镜 · 校园青春"></a> | <a href="https://promicat.app/zh/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-case-gothic.webp" width="150" alt="靠墙低头看墨镜 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp002-case-punk.webp" width="150" alt="靠墙低头看墨镜 · 街头朋克"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp002-photo.webp) · [白模](../images/photo-poses/street/sp002-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp002?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 过马路回头 (回眸)
 
-<a href="https://promicat.app/zh/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-photo.webp" width="240" alt="过马路回头"></a> <img src="../thumbs/photo-poses/street/sp003-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 港风复古 | 日系清新 | 西部牛仔 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp003-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-photo.webp" width="150" alt="过马路回头 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-case-hkretro.webp" width="150" alt="过马路回头 · 港风复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-case-jfilm.webp" width="150" alt="过马路回头 · 日系清新"></a> | <a href="https://promicat.app/zh/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp003-case-western.webp" width="150" alt="过马路回头 · 西部牛仔"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp003-photo.webp) · [白模](../images/photo-poses/street/sp003-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp003?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 坐台阶看街 (坐)
 
-<a href="https://promicat.app/zh/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-photo.webp" width="240" alt="坐台阶看街"></a> <img src="../thumbs/photo-poses/street/sp004-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 海边度假 | 北欧极简 | Y2K 千禧辣妹 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp004-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-photo.webp" width="150" alt="坐台阶看街 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-case-beach.webp" width="150" alt="坐台阶看街 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-case-nordic.webp" width="150" alt="坐台阶看街 · 北欧极简"></a> | <a href="https://promicat.app/zh/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp004-case-y2k.webp" width="150" alt="坐台阶看街 · Y2K 千禧辣妹"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp004-photo.webp) · [白模](../images/photo-poses/street/sp004-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp004?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 整理袖口 (站)
 
-<a href="https://promicat.app/zh/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-photo.webp" width="240" alt="整理袖口"></a> <img src="../thumbs/photo-poses/street/sp005-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 波西米亚 | 赛博霓虹 | 情绪棚拍 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp005-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-photo.webp" width="150" alt="整理袖口 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-case-boho.webp" width="150" alt="整理袖口 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-case-cyber.webp" width="150" alt="整理袖口 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp005-case-mood.webp" width="150" alt="整理袖口 · 情绪棚拍"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp005-photo.webp) · [白模](../images/photo-poses/street/sp005-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp005?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 拎包侧身 (站)
 
-<a href="https://promicat.app/zh/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-photo.webp" width="240" alt="拎包侧身"></a> <img src="../thumbs/photo-poses/street/sp006-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 新中式 | 森系花田 | 好莱坞复古 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp006-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-photo.webp" width="150" alt="拎包侧身 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-case-chinese.webp" width="150" alt="拎包侧身 · 新中式"></a> | <a href="https://promicat.app/zh/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-case-flower.webp" width="150" alt="拎包侧身 · 森系花田"></a> | <a href="https://promicat.app/zh/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp006-case-hollywood.webp" width="150" alt="拎包侧身 · 好莱坞复古"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp006-photo.webp) · [白模](../images/photo-poses/street/sp006-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp006?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 蹲地系鞋 (蹲跪)
 
-<a href="https://promicat.app/zh/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-photo.webp" width="240" alt="蹲地系鞋"></a> <img src="../thumbs/photo-poses/street/sp007-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 波西米亚 | 咖啡馆文艺 | 港风复古 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp007-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-photo.webp" width="150" alt="蹲地系鞋 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-case-boho.webp" width="150" alt="蹲地系鞋 · 波西米亚"></a> | <a href="https://promicat.app/zh/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-case-cafe.webp" width="150" alt="蹲地系鞋 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp007-case-hkretro.webp" width="150" alt="蹲地系鞋 · 港风复古"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp007-photo.webp) · [白模](../images/photo-poses/street/sp007-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp007?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 倚路灯 (靠)
 
-<a href="https://promicat.app/zh/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-photo.webp" width="240" alt="倚路灯"></a> <img src="../thumbs/photo-poses/street/sp008-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 咖啡馆文艺 | 好莱坞复古 | 居家慵懒 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp008-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-photo.webp" width="150" alt="倚路灯 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-case-cafe.webp" width="150" alt="倚路灯 · 咖啡馆文艺"></a> | <a href="https://promicat.app/zh/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-case-hollywood.webp" width="150" alt="倚路灯 · 好莱坞复古"></a> | <a href="https://promicat.app/zh/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp008-case-home.webp" width="150" alt="倚路灯 · 居家慵懒"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp008-photo.webp) · [白模](../images/photo-poses/street/sp008-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp008?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 边走边理头发 (走)
 
-<a href="https://promicat.app/zh/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-photo.webp" width="240" alt="边走边理头发"></a> <img src="../thumbs/photo-poses/street/sp009-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 海边度假 | 暗黑哥特 | 老钱风 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp009-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-photo.webp" width="150" alt="边走边理头发 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-case-beach.webp" width="150" alt="边走边理头发 · 海边度假"></a> | <a href="https://promicat.app/zh/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-case-gothic.webp" width="150" alt="边走边理头发 · 暗黑哥特"></a> | <a href="https://promicat.app/zh/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp009-case-oldmoney.webp" width="150" alt="边走边理头发 · 老钱风"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp009-photo.webp) · [白模](../images/photo-poses/street/sp009-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp009?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## 戴墨镜半身 (半身)
 
-<a href="https://promicat.app/zh/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-photo.webp" width="240" alt="戴墨镜半身"></a> <img src="../thumbs/photo-poses/street/sp010-pose.webp" width="240" alt="白模">
+| 白模 | 街拍时尚 | 赛博霓虹 | 情绪棚拍 | 街头朋克 |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/street/sp010-pose.webp" width="150" alt="白模"> | <a href="https://promicat.app/zh/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-photo.webp" width="150" alt="戴墨镜半身 · 街拍时尚"></a> | <a href="https://promicat.app/zh/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-case-cyber.webp" width="150" alt="戴墨镜半身 · 赛博霓虹"></a> | <a href="https://promicat.app/zh/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-case-mood.webp" width="150" alt="戴墨镜半身 · 情绪棚拍"></a> | <a href="https://promicat.app/zh/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/street/sp010-case-punk.webp" width="150" alt="戴墨镜半身 · 街头朋克"></a> |
 
 大图: [写真照](../images/photo-poses/street/sp010-photo.webp) · [白模](../images/photo-poses/street/sp010-pose.webp) · [在 Promicat 生成](https://promicat.app/zh/poses/styles/sp010?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 

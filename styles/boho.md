@@ -2,13 +2,15 @@
 
 English · [简体中文](boho.zh-CN.md)
 
-10 photo poses: a sample photo and the white model drawn from it. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
+10 white models, each with 4 portraits shot from it in different styles. Attach your photo first and the white model second. Try them with your own photo on [Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses).
 
 [← Back to all styles](../README.md#photo-poses)
 
 ## Standing on a dune ridge (In motion)
 
-<a href="https://promicat.app/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-photo.webp" width="240" alt="Standing on a dune ridge"></a> <img src="../thumbs/photo-poses/boho/sp141-pose.webp" width="240" alt="White model">
+| White model | Boho desert | Dark academia | Cosy at home | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp141-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-photo.webp" width="150" alt="Standing on a dune ridge · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-case-darkacad.webp" width="150" alt="Standing on a dune ridge · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-case-home.webp" width="150" alt="Standing on a dune ridge · Cosy at home"></a> | <a href="https://promicat.app/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp141-case-western.webp" width="150" alt="Standing on a dune ridge · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp141-photo.webp) · [white model](../images/photo-poses/boho/sp141-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp141?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -30,7 +32,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Sitting cross-legged on a woven rug in the desert (Sitting)
 
-<a href="https://promicat.app/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-photo.webp" width="240" alt="Sitting cross-legged on a woven rug in the desert"></a> <img src="../thumbs/photo-poses/boho/sp142-pose.webp" width="240" alt="White model">
+| White model | Boho desert | New Chinese style | 1950s Hollywood | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp142-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-photo.webp" width="150" alt="Sitting cross-legged on a woven rug in the desert · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-case-chinese.webp" width="150" alt="Sitting cross-legged on a woven rug in the desert · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-case-hollywood.webp" width="150" alt="Sitting cross-legged on a woven rug in the desert · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp142-case-western.webp" width="150" alt="Sitting cross-legged on a woven rug in the desert · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp142-photo.webp) · [white model](../images/photo-poses/boho/sp142-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp142?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -52,7 +56,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking down a sand dune (Walking)
 
-<a href="https://promicat.app/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-photo.webp" width="240" alt="Walking down a sand dune"></a> <img src="../thumbs/photo-poses/boho/sp143-pose.webp" width="240" alt="White model">
+| White model | Boho desert | Seaside holiday | Nordic minimal | Old money |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp143-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-photo.webp" width="150" alt="Walking down a sand dune · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-case-beach.webp" width="150" alt="Walking down a sand dune · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-case-nordic.webp" width="150" alt="Walking down a sand dune · Nordic minimal"></a> | <a href="https://promicat.app/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp143-case-oldmoney.webp" width="150" alt="Walking down a sand dune · Old money"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp143-photo.webp) · [white model](../images/photo-poses/boho/sp143-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp143?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -74,7 +80,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning on a twisted dry tree (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-photo.webp" width="240" alt="Leaning on a twisted dry tree"></a> <img src="../thumbs/photo-poses/boho/sp144-pose.webp" width="240" alt="White model">
+| White model | Boho desert | HK retro neon | Street punk | Western cowboy |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp144-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-photo.webp" width="150" alt="Leaning on a twisted dry tree · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-case-hkretro.webp" width="150" alt="Leaning on a twisted dry tree · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-case-punk.webp" width="150" alt="Leaning on a twisted dry tree · Street punk"></a> | <a href="https://promicat.app/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp144-case-western.webp" width="150" alt="Leaning on a twisted dry tree · Western cowboy"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp144-photo.webp) · [white model](../images/photo-poses/boho/sp144-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp144?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -96,7 +104,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Spinning so the maxi dress flares (In motion)
 
-<a href="https://promicat.app/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-photo.webp" width="240" alt="Spinning so the maxi dress flares"></a> <img src="../thumbs/photo-poses/boho/sp145-pose.webp" width="240" alt="White model">
+| White model | Boho desert | Dark academia | Gothic | Japanese fresh film |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp145-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-photo.webp" width="150" alt="Spinning so the maxi dress flares · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-case-darkacad.webp" width="150" alt="Spinning so the maxi dress flares · Dark academia"></a> | <a href="https://promicat.app/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-case-gothic.webp" width="150" alt="Spinning so the maxi dress flares · Gothic"></a> | <a href="https://promicat.app/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp145-case-jfilm.webp" width="150" alt="Spinning so the maxi dress flares · Japanese fresh film"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp145-photo.webp) · [white model](../images/photo-poses/boho/sp145-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp145?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -118,7 +128,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Walking away (Looking back)
 
-<a href="https://promicat.app/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-photo.webp" width="240" alt="Walking away"></a> <img src="../thumbs/photo-poses/boho/sp146-pose.webp" width="240" alt="White model">
+| White model | Boho desert | Campus youth | Street fashion | Y2K flash |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp146-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-photo.webp" width="150" alt="Walking away · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-case-campus.webp" width="150" alt="Walking away · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-case-street.webp" width="150" alt="Walking away · Street fashion"></a> | <a href="https://promicat.app/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp146-case-y2k.webp" width="150" alt="Walking away · Y2K flash"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp146-photo.webp) · [white model](../images/photo-poses/boho/sp146-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp146?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -140,7 +152,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Kneeling in the sand letting it run through the fingers (Crouching)
 
-<a href="https://promicat.app/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-photo.webp" width="240" alt="Kneeling in the sand letting it run through the fingers"></a> <img src="../thumbs/photo-poses/boho/sp147-pose.webp" width="240" alt="White model">
+| White model | Boho desert | New Chinese style | Cyberpunk neon | Moody studio |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp147-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-photo.webp" width="150" alt="Kneeling in the sand letting it run through the fingers · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-case-chinese.webp" width="150" alt="Kneeling in the sand letting it run through the fingers · New Chinese style"></a> | <a href="https://promicat.app/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-case-cyber.webp" width="150" alt="Kneeling in the sand letting it run through the fingers · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp147-case-mood.webp" width="150" alt="Kneeling in the sand letting it run through the fingers · Moody studio"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp147-photo.webp) · [white model](../images/photo-poses/boho/sp147-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp147?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -162,7 +176,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Raising the wrist to the face (Upper body)
 
-<a href="https://promicat.app/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-photo.webp" width="240" alt="Raising the wrist to the face"></a> <img src="../thumbs/photo-poses/boho/sp148-pose.webp" width="240" alt="White model">
+| White model | Boho desert | Cyberpunk neon | Moody studio | Street punk |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp148-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-photo.webp" width="150" alt="Raising the wrist to the face · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-case-cyber.webp" width="150" alt="Raising the wrist to the face · Cyberpunk neon"></a> | <a href="https://promicat.app/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-case-mood.webp" width="150" alt="Raising the wrist to the face · Moody studio"></a> | <a href="https://promicat.app/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp148-case-punk.webp" width="150" alt="Raising the wrist to the face · Street punk"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp148-photo.webp) · [white model](../images/photo-poses/boho/sp148-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp148?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -184,7 +200,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Leaning in a tent doorway (Leaning)
 
-<a href="https://promicat.app/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-photo.webp" width="240" alt="Leaning in a tent doorway"></a> <img src="../thumbs/photo-poses/boho/sp149-pose.webp" width="240" alt="White model">
+| White model | Boho desert | Campus youth | HK retro neon | Street fashion |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp149-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-photo.webp" width="150" alt="Leaning in a tent doorway · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-case-campus.webp" width="150" alt="Leaning in a tent doorway · Campus youth"></a> | <a href="https://promicat.app/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-case-hkretro.webp" width="150" alt="Leaning in a tent doorway · HK retro neon"></a> | <a href="https://promicat.app/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp149-case-street.webp" width="150" alt="Leaning in a tent doorway · Street fashion"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp149-photo.webp) · [white model](../images/photo-poses/boho/sp149-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp149?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
@@ -206,7 +224,9 @@ A real professional portrait photoshoot photo, the kind posted by a top portrait
 
 ## Lying on the back on a rug (Lying)
 
-<a href="https://promicat.app/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-photo.webp" width="240" alt="Lying on the back on a rug"></a> <img src="../thumbs/photo-poses/boho/sp150-pose.webp" width="240" alt="White model">
+| White model | Boho desert | Seaside holiday | 1950s Hollywood | Japanese fresh film |
+|---|---|---|---|---|
+| <img src="../thumbs/photo-poses/boho/sp150-pose.webp" width="150" alt="White model"> | <a href="https://promicat.app/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-photo.webp" width="150" alt="Lying on the back on a rug · Boho desert"></a> | <a href="https://promicat.app/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-case-beach.webp" width="150" alt="Lying on the back on a rug · Seaside holiday"></a> | <a href="https://promicat.app/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-case-hollywood.webp" width="150" alt="Lying on the back on a rug · 1950s Hollywood"></a> | <a href="https://promicat.app/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="../thumbs/photo-poses/boho/sp150-case-jfilm.webp" width="150" alt="Lying on the back on a rug · Japanese fresh film"></a> |
 
 Full size: [photo](../images/photo-poses/boho/sp150-photo.webp) · [white model](../images/photo-poses/boho/sp150-pose.webp) · [try it on Promicat](https://promicat.app/poses/styles/sp150?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)
 
