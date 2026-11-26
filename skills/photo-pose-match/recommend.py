@@ -15,7 +15,7 @@ Standard library only.
 """
 import argparse, json, os, sys, urllib.request
 
-RAW = 'https://raw.githubusercontent.com/86777835/ai-photo-poses-zh/main/'
+RAW = 'https://raw.githubusercontent.com/86777835/ai-photo-poses/main/'
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 GROUPS = ['stand', 'sit', 'lean', 'walk', 'look', 'crouch', 'lie', 'upper', 'move']
 
@@ -26,7 +26,7 @@ def load(remote):
             return json.load(r)
     path = os.path.join(ROOT, 'data', 'photo-poses.json')
     if not os.path.exists(path):
-        sys.exit(f'{path} not found: run from a clone of ai-photo-poses-zh, or pass --remote')
+        sys.exit(f'{path} not found: run from a clone of ai-photo-poses, or pass --remote')
     return json.load(open(path, encoding='utf-8'))
 
 

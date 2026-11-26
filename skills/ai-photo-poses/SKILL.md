@@ -1,6 +1,6 @@
 ---
 name: ai-photo-poses
-description: 用开源人像摄影库按风格找写真姿势（200 组写真照 + 白模，20 种风格：街拍、港风、哥特、老钱风、Y2K、新中式……），或套用、组装 AI 写真配方：从组件（光影、场景、胶片质感、服装、姿势、景别、机位、镜头）拼出整套 9 张的写真提示词，并给出姿势参考图（白模图）。用户说「找个港风/哥特/街拍的姿势」「给我一套写真提示词」「做一组人像写真」「找个拍照姿势」「这张照片换个姿势」「什么光好看」「AI 写真姿势参考」时使用。
+description: Find portrait poses by style (200 photo + white-model pairs), or apply and assemble AI portrait recipes from components (light, scene, film look, outfit, pose, framing, angle, lens) into full 9-shot prompts with white-model pose references. 用开源人像摄影库按风格找写真姿势（200 组写真照 + 白模，20 种风格：街拍、港风、哥特、老钱风、Y2K、新中式……），或套用、组装 AI 写真配方：从组件（光影、场景、胶片质感、服装、姿势、景别、机位、镜头）拼出整套 9 张的写真提示词，并给出姿势参考图（白模图）。用户说「找个港风/哥特/街拍的姿势」「给我一套写真提示词」「做一组人像写真」「找个拍照姿势」「这张照片换个姿势」「什么光好看」「AI 写真姿势参考」时使用。
 ---
 
 # AI 人像摄影库

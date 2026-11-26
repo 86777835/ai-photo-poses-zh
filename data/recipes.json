@@ -6,7 +6,7 @@
    "en": "Selfie to professional headshot"
   },
   "image": "https://promicat.app/api/media/recipe/professional-headshot-sample-01?w=640",
-  "url": "https://promicat.app/zh/recipes/professional-headshot?ref=github"
+  "url": "https://promicat.app/zh/recipes/professional-headshot?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"
  },
  {
   "id": "lifestyle-profile-photo",
@@ -15,7 +15,7 @@
    "en": "Lifestyle profile photo"
   },
   "image": "https://promicat.app/api/media/recipe/lifestyle-profile-photo-sample-01?w=640",
-  "url": "https://promicat.app/zh/recipes/lifestyle-profile-photo?ref=github"
+  "url": "https://promicat.app/zh/recipes/lifestyle-profile-photo?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"
  },
  {
   "id": "animated-family-portrait",
@@ -24,7 +24,7 @@
    "en": "3D animated family portrait"
   },
   "image": "https://promicat.app/api/media/recipe/animated-family-portrait-sample-01?w=640",
-  "url": "https://promicat.app/zh/recipes/animated-family-portrait?ref=github"
+  "url": "https://promicat.app/zh/recipes/animated-family-portrait?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"
  },
  {
   "id": "royal-pet-portrait",
@@ -33,7 +33,7 @@
    "en": "Royal pet portrait"
   },
   "image": "https://promicat.app/api/media/recipe/royal-pet-portrait-sample-01?w=640",
-  "url": "https://promicat.app/zh/recipes/royal-pet-portrait?ref=github"
+  "url": "https://promicat.app/zh/recipes/royal-pet-portrait?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"
  },
  {
   "id": "holiday-pet-photo",
@@ -42,7 +42,7 @@
    "en": "Holiday pet photo"
   },
   "image": "https://promicat.app/api/media/recipe/holiday-pet-photo-sample-01?w=640",
-  "url": "https://promicat.app/zh/recipes/holiday-pet-photo?ref=github"
+  "url": "https://promicat.app/zh/recipes/holiday-pet-photo?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"
  },
  {
   "id": "product-lifestyle-scene",
@@ -51,6 +51,6 @@
    "en": "Product lifestyle scene"
   },
   "image": "https://promicat.app/api/media/recipe/product-lifestyle-scene-sample-01?w=640",
-  "url": "https://promicat.app/zh/recipes/product-lifestyle-scene?ref=github"
+  "url": "https://promicat.app/zh/recipes/product-lifestyle-scene?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"
  }
 ]
