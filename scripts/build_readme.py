@@ -9,7 +9,7 @@ this script, then run
 import json, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REPO = 'https://github.com/86777835/ai-photo-poses'
+REPO = 'https://github.com/leisure-cat/ai-photo-poses'
 UTM = '?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses'
 SITE = 'https://promicat.app'
 NAMES = ('poses', 'lights', 'scenes', 'cases', 'promi', 'recipes', 'components', 'portrait-recipes', 'photo-poses')

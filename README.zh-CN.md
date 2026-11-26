@@ -15,7 +15,7 @@
 - **24 套写真配方**（216 张样片），由 436 个提示词组件拼成
 - **2 个 Agent Skill**：其中一个能看用户的照片、推荐姿势并直接生成写真
 - 图片和数据 CC BY 4.0，代码 MIT。所有人物都由 AI 生成，均为虚构。
-- 最近更新 (2026-11-26): 默认英文 README，另有简体中文版；每个风格页都有中英两版；仓库改名为 `ai-photo-poses` · [更新记录](CHANGELOG.md)
+- 最近更新 (2026-11-26): 默认英文 README，另有简体中文版；每个风格页都有中英两版；仓库迁到 `leisure-cat/ai-photo-poses` · [更新记录](CHANGELOG.md)
 
 ## 目录
 
@@ -324,4 +324,4 @@ Promicat 的吉祥物 Promi 也把这些姿势和光影拍了一遍（55 张，�
 
 ## 关于 Promicat
 
-[Promicat](https://promicat.app?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 是 AI 创作配方平台：把好看的 AI 作品做成能一键复刻的配方，姿势库、3D 微调、写真生成都在这里。觉得有用的话，在 [GitHub](https://github.com/86777835/ai-photo-poses) 点个 ⭐，能让更多人找到它。
+[Promicat](https://promicat.app?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) 是 AI 创作配方平台：把好看的 AI 作品做成能一键复刻的配方，姿势库、3D 微调、写真生成都在这里。觉得有用的话，在 [GitHub](https://github.com/leisure-cat/ai-photo-poses) 点个 ⭐，能让更多人找到它。

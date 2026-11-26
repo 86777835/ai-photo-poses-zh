@@ -5,7 +5,7 @@ description: Match portrait poses to a user photo — look at the photo, pick su
 
 # 照片配姿势
 
-这个技能所在仓库（[ai-photo-poses](https://github.com/86777835/ai-photo-poses)）的 `data/photo-poses.json` 有 200 组写真姿势：20 种风格各 10 组，每组一张示例写真（`photo`）和照着它画的木头白模（`pose`）。生成时，用户照片作为图 1，白模作为图 2：人像来自图 1，动作照抄图 2。
+这个技能所在仓库（[ai-photo-poses](https://github.com/leisure-cat/ai-photo-poses)）的 `data/photo-poses.json` 有 200 组写真姿势：20 种风格各 10 组，每组一张示例写真（`photo`）和照着它画的木头白模（`pose`）。生成时，用户照片作为图 1，白模作为图 2：人像来自图 1，动作照抄图 2。
 
 `recommend.py` 负责按条件筛选姿势并拼好提示词；看照片、做判断由你来。
 

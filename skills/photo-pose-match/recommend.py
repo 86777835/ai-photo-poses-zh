@@ -15,7 +15,7 @@ Standard library only.
 """
 import argparse, json, os, sys, urllib.request
 
-RAW = 'https://raw.githubusercontent.com/86777835/ai-photo-poses/main/'
+RAW = 'https://raw.githubusercontent.com/leisure-cat/ai-photo-poses/main/'
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 GROUPS = ['stand', 'sit', 'lean', 'walk', 'look', 'crouch', 'lie', 'upper', 'move']
 

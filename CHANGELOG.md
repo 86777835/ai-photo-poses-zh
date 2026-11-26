@@ -5,8 +5,8 @@ Newest first. The first entry's two bullets (English, then Chinese) appear in th
 
 ## 2026-11-26
 
-- English README by default with a Simplified Chinese version; every style page in both languages; repo renamed to `ai-photo-poses`
-- 默认英文 README，另有简体中文版；每个风格页都有中英两版；仓库改名为 `ai-photo-poses`
+- English README by default with a Simplified Chinese version; every style page in both languages; repo moved to `leisure-cat/ai-photo-poses`
+- 默认英文 README，另有简体中文版；每个风格页都有中英两版；仓库迁到 `leisure-cat/ai-photo-poses`
 - New `photo-pose-match` Agent Skill: look at a user photo, recommend poses, generate the portrait · 新增 Agent Skill「照片配姿势」
 - `CONTRIBUTING.md`, `MEDIA-RIGHTS.md`, and `scripts/build_readme.py` + `scripts/validate.py` (README and style pages are generated)
 

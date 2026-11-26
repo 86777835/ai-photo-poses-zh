@@ -15,7 +15,7 @@ English · [简体中文](README.zh-CN.md)
 - **24 portrait recipes** (216 sample shots) assembled from 436 prompt components
 - **2 Agent Skills**: one looks at a user photo, recommends poses and generates the portrait
 - Images and data under CC BY 4.0, code under MIT. All people are AI-generated and fictional.
-- Latest update (2026-11-26): English README by default with a Simplified Chinese version; every style page in both languages; repo renamed to `ai-photo-poses` · [Changelog](CHANGELOG.md)
+- Latest update (2026-11-26): English README by default with a Simplified Chinese version; every style page in both languages; repo moved to `leisure-cat/ai-photo-poses` · [Changelog](CHANGELOG.md)
 
 ## Contents
 
@@ -324,4 +324,4 @@ Promi, the Promicat mascot, shot these poses and lights too (55 images in `image
 
 ## About Promicat
 
-[Promicat](https://promicat.app?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) turns good AI work into recipes anyone can remake in one click: the pose library, 3D fine-tuning and portrait generation all live there. If this library helps, a ⭐ on [GitHub](https://github.com/86777835/ai-photo-poses) helps others find it.
+[Promicat](https://promicat.app?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses) turns good AI work into recipes anyone can remake in one click: the pose library, 3D fine-tuning and portrait generation all live there. If this library helps, a ⭐ on [GitHub](https://github.com/leisure-cat/ai-photo-poses) helps others find it.
