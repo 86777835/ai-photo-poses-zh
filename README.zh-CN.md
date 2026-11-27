@@ -8,7 +8,7 @@
 
 **[▶ 在 Promicat 上传照片，一键生成同款](https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)**
 
-<a href="https://promicat.app/zh/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/site-zh.webp" alt="Promicat 上的白模页：右边是白模，左边是用它拍出的写真" width="100%"></a>
+<a href="https://promicat.app/zh/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/demo-zh.gif" alt="选一个白模，放一张照片：照片管脸，白模管动作" width="100%"></a>
 
 - **200 个写真白模**，20 种风格：街拍、港风、哥特、Y2K、新中式……共 **800 张**用它们拍出的写真
 - **39 个带 3D 数据的白模**，可以在浏览器里拖动微调；另有 23 个补充姿势
@@ -16,6 +16,8 @@
 - **2 个 Agent Skill**：其中一个能看用户的照片、推荐姿势并直接生成写真
 - 图片和数据 CC BY 4.0，代码 MIT。所有人物都由 AI 生成，均为虚构。
 - 最近更新 (2026-11-26): 可以作为 Claude Code 插件一键安装：`/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses` · [更新记录](CHANGELOG.md)
+
+如果这个库帮你省了时间，点个 ⭐ Star，能让更多人找到它。
 
 ## 目录
 

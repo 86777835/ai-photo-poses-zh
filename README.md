@@ -8,7 +8,7 @@ English · [简体中文](README.zh-CN.md)
 
 **[▶ Try any pose with your own photo on Promicat](https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses)**
 
-<a href="https://promicat.app/poses/styles/sp051?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/site-en.webp" alt="A white model on Promicat, with portraits shot from it on the left" width="100%"></a>
+<a href="https://promicat.app/poses?utm_source=github&utm_medium=readme&utm_campaign=ai-photo-poses"><img src="images/readme/demo-en.gif" alt="Pick a white-model pose, add one photo: your photo sets the face, the white model sets the pose" width="100%"></a>
 
 - **200 white models** in 20 styles, from street fashion and HK retro to gothic, Y2K and new Chinese style, with **800 portraits** shot from them
 - **39 white models with 3D data** you can fine-tune in the browser, plus 23 extra pose references
@@ -16,6 +16,8 @@ English · [简体中文](README.zh-CN.md)
 - **2 Agent Skills**: one looks at a user photo, recommends poses and generates the portrait
 - Images and data under CC BY 4.0, code under MIT. All people are AI-generated and fictional.
 - Latest update (2026-11-26): Installable as a Claude Code plugin: `/plugin install ai-photo-poses --marketplace leisure-cat/ai-photo-poses` · [Changelog](CHANGELOG.md)
+
+If this library saves you time, a ⭐ Star helps other people find it.
 
 ## Contents
 

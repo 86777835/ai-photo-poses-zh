@@ -106,8 +106,9 @@ def readme(lang):
              "每个白模配 4 张不同风格的案例，一眼看出这个姿势放到哪里都好看。"
              "把你的照片和白模一起交给 AI 生图模型，就能拍出同一个姿势的你。"), '',
            f"**[{L('▶ Try any pose with your own photo on Promicat', '▶ 在 Promicat 上传照片，一键生成同款')}]({poses_url})**", '',
-           f'<a href="{site(PP[50]["url"], lang)}"><img src="images/readme/site-{lang}.webp" alt="'
-           + L('A white model on Promicat, with portraits shot from it on the left', 'Promicat 上的白模页：右边是白模，左边是用它拍出的写真')
+           f'<a href="{poses_url}"><img src="images/readme/demo-{lang}.gif" alt="'
+           + L('Pick a white-model pose, add one photo: your photo sets the face, the white model sets the pose',
+               '选一个白模，放一张照片：照片管脸，白模管动作')
            + '" width="100%"></a>', '']
     out += [L(f'- **{len(PP)} white models** in {len(STYLES)} styles, from street fashion and HK retro to gothic, Y2K and new Chinese style, with **{len(PP) + NCASES} portraits** shot from them',
               f'- **{len(PP)} 个写真白模**，{len(STYLES)} 种风格：街拍、港风、哥特、Y2K、新中式……共 **{len(PP) + NCASES} 张**用它们拍出的写真'),
@@ -119,7 +120,9 @@ def readme(lang):
               '- **2 个 Agent Skill**：其中一个能看用户的照片、推荐姿势并直接生成写真'),
             L('- Images and data under CC BY 4.0, code under MIT. All people are AI-generated and fictional.',
               '- 图片和数据 CC BY 4.0，代码 MIT。所有人物都由 AI 生成，均为虚构。'),
-            f"- {L('Latest update', '最近更新')} ({LATEST['date']}): {LATEST[lang]} · [{L('Changelog', '更新记录')}](CHANGELOG.md)", '']
+            f"- {L('Latest update', '最近更新')} ({LATEST['date']}): {LATEST[lang]} · [{L('Changelog', '更新记录')}](CHANGELOG.md)", '',
+            L('If this library saves you time, a ⭐ Star helps other people find it.',
+              '如果这个库帮你省了时间，点个 ⭐ Star，能让更多人找到它。'), '']
     toc = [('photo-poses', L('Photo poses by style', '写真姿势（按风格）'), len(PP)),
            ('skills', L('Agent Skills', 'Agent Skill'), 2),
            ('recipes', L('Portrait recipes', '写真配方'), len(PR)),
